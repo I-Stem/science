@@ -1,0 +1,9 @@
+bind = "127.0.0.1:8148"
+accesslog="http_request_access_status.log"
+capture_output = True
+errorlog = "app_output.log"
+worker_class = "gthread"
+threads = 3
+workers = 2
+timeout = 600
+graceful_timeout = 600
