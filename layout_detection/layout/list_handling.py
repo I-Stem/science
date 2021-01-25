@@ -27,15 +27,18 @@ def ordered_type( word ) : # whether roman / numbere / alphabetical
 def is_valid_ordered ( word, previous_bullet ) : # check if current bullet is the next logical to the last bullet encountered
     word = word.lower()
     previous_bullet = previous_bullet.lower()
-    if previous_bullet in roman :
-        if roman [roman.index(previous_bullet) +1] == word :
-            return True
-    if previous_bullet in numbers :
-        if numbers [numbers.index(previous_bullet) +1] == word :
-            return True
-    if previous_bullet in alphabets :
-        if alphabets [alphabets.index(previous_bullet) +1] == word :
-            return True
+    try:
+        if previous_bullet in roman :
+            if roman [roman.index(previous_bullet) +1] == word :
+                return True
+        if previous_bullet in numbers :
+            if numbers [numbers.index(previous_bullet) +1] == word :
+                return True
+        if previous_bullet in alphabets :
+            if alphabets [alphabets.index(previous_bullet) +1] == word :
+                return True
+    except:
+        pass
     return False
 
 def ordered_list ( word ,len_chars ) : # returns the "list" dic which is added to json ele
@@ -189,10 +192,9 @@ def list_handling (result) :
                     temp = []
                     para_id = col [ 'content' ][ idx -1 ][ 'paragraph_id' ] # para id of list
                     for i in range(0,last_ele_width) :
-                        if col [ 'content' ][ idx + i ][ 'paragraph_id' ] != line[ 'paragraph_id' ] :
-                            break
-                        if idx + i < len(col [ 'content' ]) :
-                            col [ 'content' ][ idx + i ]['alignment'] = "list"
+                        if idx + i >= len(col [ 'content' ]) or col [ 'content' ][ idx + i ][ 'paragraph_id' ] != line[ 'paragraph_id' ]:
+                                break                                           
+                        col [ 'content' ][ idx + i ]['alignment'] = "list"
         return result
         
     except Exception as e:
