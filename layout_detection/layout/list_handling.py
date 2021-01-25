@@ -27,15 +27,18 @@ def ordered_type( word ) : # whether roman / numbere / alphabetical
 def is_valid_ordered ( word, previous_bullet ) : # check if current bullet is the next logical to the last bullet encountered
     word = word.lower()
     previous_bullet = previous_bullet.lower()
-    if previous_bullet in roman :
-        if roman [roman.index(previous_bullet) +1] == word :
-            return True
-    if previous_bullet in numbers :
-        if numbers [numbers.index(previous_bullet) +1] == word :
-            return True
-    if previous_bullet in alphabets :
-        if alphabets [alphabets.index(previous_bullet) +1] == word :
-            return True
+    try:
+        if previous_bullet in roman :
+            if roman [roman.index(previous_bullet) +1] == word :
+                return True
+        if previous_bullet in numbers :
+            if numbers [numbers.index(previous_bullet) +1] == word :
+                return True
+        if previous_bullet in alphabets :
+            if alphabets [alphabets.index(previous_bullet) +1] == word :
+                return True
+    except : 
+        pass
     return False
 
 def ordered_list ( word ,len_chars ) : # returns the "list" dic which is added to json ele

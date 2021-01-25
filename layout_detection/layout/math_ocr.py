@@ -34,7 +34,10 @@ def math_ocr ( input_file, input_type: str = "image") :
                 img_byte_arr = io.BytesIO()
                 image.save(img_byte_arr, format='PNG')
                 img_byte_arr = img_byte_arr.getvalue()
-                result[index] = get_result_maths ( img_byte_arr , index )
+                try:
+                    result[index] = get_result_maths ( img_byte_arr , index )
+                except:
+                    result[index] = dict(html="<h6>{Error in this page}</h6>" )
             
         result['math'] = "True"
         # print(result)
