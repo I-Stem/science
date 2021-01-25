@@ -6,11 +6,22 @@ import requests
 import json
 from .error_handler import OCRError
 
-ocr_ENDPOINT = os.getenv("MATH_OCR_ENDPOINT") #The endpoint of the deployed math model
+app_id = os.getenv("MATH_OCR_APP_ID")
+app_key = os.getenv("MATH_OCR_APP_KEY")
+ocr_url = os.getenv("MATH_OCR_URL")
 
 def get_result_maths( img ,page_id = 0 ) :
-    headers = {'Content-Type': 'application/json', os.getenv("MATH_OCR_AUTH_KEY1"): os.getenv("MATH_OCR_AUTH_VALUE1"), os.getenv("MATH_OCR_AUTH_KEY2"): os.getenv("MATH_OCR_AUTH_VALUE2")}
-    response = requests.post(url = ocr_endpoint, headers = headers, json = json.loads(os.getenv("MATH_OCR_FORMAT")))
+    headers = {'Content-Type': 'application/json', 'app_id': app_id, 'app_key': app_key }
+    payload = {
+               'src': "data:image/jpeg;base64,"+base64.b64encode(img).decode("utf-8"),
+               "formats": ["text", "data", "html"],
+               "include_line_data": 'false',
+               "data_options": {
+                                    "include_table_html": 'true',
+                                    "include_mathml":"true"
+                                }
+                }
+    response = requests.post(url = ocr_url, headers = headers, json = payload)
 
     if "error" in response.json() :
         print("MATH_OCR : Error in page {} , error - {}".format( page_id +1 ,response.json()['error_info']))
@@ -34,8 +45,10 @@ def math_ocr ( input_file, input_type: str = "image") :
                 img_byte_arr = io.BytesIO()
                 image.save(img_byte_arr, format='PNG')
                 img_byte_arr = img_byte_arr.getvalue()
-                result[index] = get_result_maths ( img_byte_arr , index )
-            
+                try:
+                    result[index] = get_result_maths ( img_byte_arr , index )
+                except:
+                    result[index] = dict(html="<h6>{Blank page}</h6>" )
         result['math'] = "True"
         # print(result)
         return result
