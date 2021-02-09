@@ -1,0 +1,108 @@
+OCR:	TABLE	III:	Benchmarking	ScanSSD	at	the	Character	Level	4). 	null	Note	differences	in	data	sets	and	evaluation	techniques	(see	main	
+GT :	TABLE	III:	Benchmarking	ScanSSD	at	the	Character	Level	null	[4].	Note	differences	in	data	sets	and	evaluation	techniques	(see	main	
+
+OCR:	text).	t   	Fig.	7:	Document-level	results,	IOU	2   	null	0.5	and	IOU	2   	null	0.75.	Math	symbol	detection.	To	measure	
+GT :	text).	null	Fig.	7:	Document-level	results,	IOU	null	≥   	0.5	and	IOU	null	≥   	0.75.	Math	symbol	detection.	To	measure	
+
+OCR:	math	detection	at	the	symbol	(character)	level,	we	consider	all	characters	located	voting-based	pooling	across	windows	and 	scales.	within	formula	
+GT :	math	detection	at	the	symbol	(character)	level,	we	consider	all	characters	located	null        	null   	null  	null   	null	null   	within	formula	
+
+OCR:	detections	as	"math'	null  	characters.	Our	method	has	0.9652	recall	and	0.889	precision	at	the	character	level,	resulting	in	a	
+GT :	detections	as	null  	‘math’	characters.	Our	method	has	0.9652	recall	and	0.889	precision	at	the	character	level,	resulting	in	a	
+
+OCR:	0.925	f-score.	This	benchmarks	well	against	recent	results	on	the	GTDB	dataset	(see	Table	III).	Note	that	the	detection	targets	
+GT :	0.925	f-score.	This	benchmarks	well	against	recent	results	on	the	GTDB	dataset	(see	Table	III).	Note	that	the	detection	targets	
+
+OCR:	(formulas	for	ScanSSD	vs.	characters),	datasets,	and	evaluation	protocols	are	different	(1000	regions	per	test	page	are	randomly	sampled	in	
+GT :	(formulas	for	ScanSSD	vs.	characters),	datasets,	and	evaluation	protocols	are	different	(1000	regions	per	test	page	are	randomly	sampled	in	
+
+OCR:	Ohayama	et	al.	[41),	null 	and	so	the	measures	are	not	directly	comparable.	The	lower	precision	for	character	detection	in	
+GT :	Ohayama	et	al.	null 	[4]),	and	so	the	measures	are	not	directly	comparable.	The	lower	precision	for	character	detection	in	
+
+OCR:	ScanSSD	may	be	an	artifact	of	predicting	formulas	rather	than	individual	characters.	The	difference	between	ScanSSD's	null    	null     	math	symbol	
+GT :	ScanSSD	may	be	an	artifact	of	predicting	formulas	rather	than	individual	characters.	The	difference	null   	null     	betweeen	ScanSSD’s	math	symbol	
+
+OCR:	detection	f-score	and	formula	detection	f-score	is	primarily	due	to	merging	and	splitting	formula	regions,	which	themselves	are	often	valid	
+GT :	detection	f-score	and	formula	detection	f-score	is	primarily	due	to	merging	and	splitting	formula	regions,	which	themselves	are	often	valid	
+
+OCR:	subexpressions.	Merging	and	splitting	valid	formula	regions	often	produces	regions	too	large	or	too	small	to	satisfy	the	IOU	matching	
+GT :	subexpressions.	Merging	and	splitting	valid	formula	regions	often	produces	regions	too	large	or	too	small	to	satisfy	the	IOU	matching	
+
+OCR:	criteria,	leading	to	lower	scores.	Merging	occurs	in	part	because	formula	detections	in	neighboring	text	lines	may	overlap,	and	splitting	
+GT :	criteria,	leading	to	lower	scores.	Merging	occurs	in	part	because	formula	detections	in	neighboring	text	lines	may	overlap,	and	splitting	
+
+OCR:	may	occur	because	large	formulas	have	features	similar	to	separate	formulas	within	windowed	sub-images.	C.	Qualitative	results	Figure	6	provides	
+GT :	may	occur	because	large	formulas	have	features	similar	to	separate	formulas	within	windowed	sub-images.	C.	Qualitative	results	Figure	6	provides	
+
+OCR:	example	ScanSSD	detection	results.	ScanSSD	can	detect	math	regions	of	arbitrary	size,	from	a	supported	by  	the 	Alfred	P.  	Sloan	
+GT :	example	ScanSSD	detection	results.	ScanSSD	can	detect	math	regions	of	arbitrary	size,	from	a	null     	null	null	null  	null	null 	
+
+OCR:	Foundation	under	Grant	single	character	to	hundreds	of	characters.	It	also	detects	matrices	and	correctly	rejects	equation	numbers,	page	numbers,	
+GT :	null      	null 	null 	single	character	to	hundreds	of	characters.	It	also	detects	matrices	and	correctly	rejects	equation	numbers,	page	numbers,	
+
+OCR:	and	other	numbers	not	belonging	to	formulas.	Figure	6	shows	some	example	of	detection	errors.	When	there	is	a	large	
+GT :	and	other	numbers	not	belonging	to	formulas.	Figure	6	shows	some	example	of	detection	errors.	When	there	is	a	large	
+
+OCR:	space	between	characters	within	a	formula	(e.g.,	for	variable	constraints	shown	in	the	third	panel	of	Figure	6,  	null	ScanSSD	
+GT :	space	between	characters	within	a	formula	(e.g.,	for	variable	constraints	shown	in	the	third	panel	of	Figure	null	6), 	ScanSSD	
+
+OCR:	may	split	the	formula	and	generate	multiple	detections	(shown	with	pink	boxes).	Second,	when	formulas	are	close	to	each	other,	
+GT :	may	split	the	formula	and	generate	multiple	detections	(shown	with	pink	boxes).	Second,	when	formulas	are	close	to	each	other,	
+
+OCR:	our	method	may	merge	them	(shown	with	green	boxes	in	Figure	6).	Another	error	not	shown,	was	wide	embedded	graphs	
+GT :	our	method	may	merge	them	(shown	with	green	boxes	in	Figure	6).	Another	error	not	shown,	was	wide	embedded	graphs	
+
+OCR:	(visually	similar	to	functions)	being	detected	as	math	formulas.	On	examination,	it	turns	out	that	most	detection	'failures'	null      	are	
+GT :	(visually	similar	to	functions)	being	detected	as	math	formulas.	On	examination,	it	turns	out	that	most	detection	null      	‘failures’	are	
+
+OCR:	because	of	valid	detections	merged	or	split	in	the	manner	described,	and	not	spurious	detections	or	false	negatives.	A	small	
+GT :	because	of	valid	detections	merged	or	split	in	the	manner	described,	and	not	spurious	detections	or	false	negatives.	A	small	
+
+OCR:	number	of	these	are	seen	in	Figure	6	using	red	and	yellow	boxes;	note	that	all	but	one	false	negative	
+GT :	number	of	these	are	seen	in	Figure	6	using	red	and	yellow	boxes;	note	that	all	but	one	false	negative	
+
+OCR:	are	isolated	symbols.	VII.	CONCLUSION	In	this	paper	we	make	two	contributions:	1)	modifying	the	GTDB	datasets	to	compensate	for	
+GT :	are	isolated	symbols.	VII.	CONCLUSION	In	this	paper	we	make	two	contributions:	1)	modifying	the	GTDB	datasets	to	compensate	for	
+
+OCR:	differences	in	scale	and	translation	found	in	the	publicly	available	versions	of	PDFs	in	the	collection,	creating	new	bounding	box	
+GT :	differences	in	scale	and	translation	found	in	the	publicly	available	versions	of	PDFs	in	the	collection,	creating	new	bounding	box	
+
+OCR:	annotations	for	math	expressions,	and	2)	the	ScanSSD	architecture	for	detecting	math	expressions	in	document	images	without	using	page	layout,	
+GT :	annotations	for	math	expressions,	and	2)	the	ScanSSD	architecture	for	detecting	math	expressions	in	document	images	without	using	page	layout,	
+
+OCR:	font,	or	character	information.	The	method	is	simple	but	effective,	applying	a	Single-Shot	Detector	(SSD)	using	a	sliding	window,	followed	
+GT :	font,	or	character	information.	The	method	is	simple	but	effective,	applying	a	Single-Shot	Detector	(SSD)	using	a	sliding	window,	followed	
+
+OCR:	by	null        	null   	null  	null   	null	null   	Through	our	experiments,	we	observed	that	1)	carefully	selected	default	boxes	improves	formula	
+GT :	by	voting-based	pooling	across	windows	and 	scales.	Through	our	experiments,	we	observed	that	1)	carefully	selected	default	boxes	improves	formula	
+
+OCR:	detection,	2)	kernels	of	size	1	x   	null	5	yield	rectangular	receptive	fields	that	better-fit	wide	math	expressions	with	larger	
+GT :	detection,	2)	kernels	of	size	1	null	×   	5	yield	rectangular	receptive	fields	that	better-fit	wide	math	expressions	with	larger	
+
+OCR:	aspect	ratios,	and	avoid	noise	that	square-shaped	receptive	fields	introduce.	A	key	difference	between	formula	detection	in	typeset	documents	and	
+GT :	aspect	ratios,	and	avoid	noise	that	square-shaped	receptive	fields	introduce.	A	key	difference	between	formula	detection	in	typeset	documents	and	
+
+OCR:	object	detection	in	natural	scenes	is	that	typeset	documents	avoid	occlusion	of	content	by	design.	This	constraint	may	help	us	
+GT :	object	detection	in	natural	scenes	is	that	typeset	documents	avoid	occlusion	of	content	by	design.	This	constraint	may	help	us	
+
+OCR:	design	a	better	algorithm	for	non-maximal	suppression,	as	the	original	non-maximal	ion 	null       	algorithm	is	designed	to	handle	overlapping	objects.	
+GT :	design	a	better	algorithm	for	non-maximal	suppression,	as	the	original	non-maximal	null	suppression	algorithm	is	designed	to	handle	overlapping	objects.	
+
+OCR:	Also,	we	would	like	to	use	a	modified	version	of	the	pooling	methods	based	on	agglomeration	null         	clustering	such	as	
+GT :	Also,	we	would	like	to	use	a	modified	version	of	the	pooling	methods	based	on	null         	agglomerative	clustering	such	as	
+
+OCR:	the	fusion	algorithm	introduced	by	Yu	et	al.	[34].	We	believe	improved	pooling	will	reduce	the	number	of	over-merged	and	
+GT :	the	fusion	algorithm	introduced	by	Yu	et	al.	[34].	We	believe	improved	pooling	will	reduce	the	number	of	over-merged	and	
+
+OCR:	split	detections,	improving	both	precision	and	recall.	In	our	current	architecture,	we	use	a	fixed	pooling	method;	we	plan	to	
+GT :	split	detections,	improving	both	precision	and	recall.	In	our	current	architecture,	we	use	a	fixed	pooling	method;	we	plan	to	
+
+OCR:	design	an	architecture	where	we	can	train	the	model	end-to-end	to	learn	pooling	parameters	directly	from	data.	ScanSSD	allows	the	
+GT :	design	an	architecture	where	we	can	train	the	model	end-to-end	to	learn	pooling	parameters	directly	from	data.	ScanSSD	allows	the	
+
+OCR:	use	of	multiple	classes,	and	we	would	also	like	to	explore	detecting	multiple	page	objects	in	a	single	framework.	Acknowledgements.	
+GT :	use	of	multiple	classes,	and	we	would	also	like	to	explore	detecting	multiple	page	objects	in	a	single	framework.	Acknowledgements.	
+
+OCR:	This	material	is	based	upon	work	null     	null	null	null  	null	null 	null      	null 	null 	
+GT :	This	material	is	based	upon	work	supported	by  	the 	Alfred	P.  	Sloan	Foundation	under	Grant	
+

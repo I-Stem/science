@@ -1,0 +1,69 @@
+OCR:	Cranial	and	Spinal	Nerves	for	governing	cardiac	muscle,	smooth	muscle	or	glands.	By	the	conclusion	of	this	and	the	next	
+GT :	Cranial	and	Spinal	Nerves	for	governing	cardiac	muscle,	smooth	muscle	or	glands.	By	the	conclusion	of	this	and	the	next	
+
+OCR:	tutorial,	you	will	learn	how	to	locate:	null	nuclei	that	are	the	destination	of	all	primary	somatic	sensory,	visceral	sensory,	
+GT :	tutorial,	you	will	learn	how	to	locate:	1.  	nuclei	that	are	the	destination	of	all	primary	somatic	sensory,	visceral	sensory,	
+
+OCR:	and	special	sensory	input	into	the	CNS	(i.e.,	the	location	of	all	of	the	second-order	neuronal	cell	bodies	that	receive	
+GT :	and	special	sensory	input	into	the	CNS	(i.e.,	the	location	of	all	of	the	second-order	neuronal	cell	bodies	that	receive	
+
+OCR:	the	primary	sensory	input),	except	for	olfaction	and	vision.	The	olfactory	nerve	and	the	optic	nerve	are	not	included	in	
+GT :	the	primary	sensory	input),	except	for	olfaction	and	vision.	The	olfactory	nerve	and	the	optic	nerve	are	not	included	in	
+
+OCR:	this	discussion;	for	several	reasons	they	are	atypical.	Brainstem	2.	nuclei	that	are	the	origin	of	all	of	the	somatic	
+GT :	this	discussion;	for	several	reasons	they	are	atypical.	null     	2.	nuclei	that	are	the	origin	of	all	of	the	somatic	
+
+OCR:	and	visceral	motor	output	of	the	CNS	(i.e.,	the	location	of	Receptors	all	of	the	alpha	motor	neurons	and	preganglionic	
+GT :	and	visceral	motor	output	of	the	CNS	(i.e.,	the	location	of	null     	all	of	the	alpha	motor	neurons	and	preganglionic	
+
+OCR:	Muscles	visceral	motor	neurons).	ANS 	Spinal	Cord	Fig.	1.	Both	the	spinal	cord	and	brainstem	receive	input	from	primary	sensory	
+GT :	null   	visceral	motor	neurons).	null	null  	null	Fig.	1.	Both	the	spinal	cord	and	brainstem	receive	input	from	primary	sensory	
+
+OCR:	neurons;	the	cell	bodies	of	these	neurons	lie	in	sensory	ganglia.	In	addition,	both	the	spinal	cord	and	brainstem	give	
+GT :	neurons;	the	cell	bodies	of	these	neurons	lie	in	sensory	ganglia.	In	addition,	both	the	spinal	cord	and	brainstem	give	
+
+OCR:	rise	to	motor	output	to	striated	Receptors	Muscles	muscles	and	to	the	autonomic	ganglia	(ANS,	autonomic	ANS 	nervous	system;	synonymous	
+GT :	rise	to	motor	output	to	striated	null     	null   	muscles	and	to	the	autonomic	ganglia	(ANS,	autonomic	null	nervous	system;	synonymous	
+
+OCR:	with	visceral	motor	system).	(Illustration	by	N.B.	Cant)	From	the	viewpoint	of	clinical	practice,	the	most	important	general	principle	of	
+GT :	with	visceral	motor	system).	(Illustration	by	N.B.	Cant)	From	the	viewpoint	of	clinical	practice,	the	most	important	general	principle	of	
+
+OCR:	organization	in	the	central	nervous	system	is	that	each	CNS	function	(e.g.,	perception	of	sensory	stimuli,	control	of	motor	behavior)	
+GT :	organization	in	the	central	nervous	system	is	that	each	CNS	function	(e.g.,	perception	of	sensory	stimuli,	control	of	motor	behavior)	
+
+OCR:	involves	groups	of	neurons-interconnected	null                  	through	synapses-that	null         	are	spatially	distributed	throughout	several	CNS	subdivisions.	Groups	of	neurons	that	together	
+GT :	involves	groups	of	null                  	neurons—interconnected	through	null         	synapses—that	are	spatially	distributed	throughout	several	CNS	subdivisions.	Groups	of	neurons	that	together	
+
+OCR:	subserve	a	particular	function	are	called	a	'system';	null     	for	example,	there	are	the	visual,	motor,	and	somatic	sensory	systems.	
+GT :	subserve	a	particular	function	are	called	a	null     	‘system’;	for	example,	there	are	the	visual,	motor,	and	somatic	sensory	systems.	
+
+OCR:	The	structures	containing	the	neurons	and	axons	of	a	particular	system	are	collectively	referred	to	as	a	'pathway'.	null      	(The	
+GT :	The	structures	containing	the	neurons	and	axons	of	a	particular	system	are	collectively	referred	to	as	a	null      	‘pathway’.	(The	
+
+OCR:	term	'system'	null    	has	a	functional	connotation,	whereas	the	term	'pathway'	null     	refers	to	the	structures	involved.)	We	will	study	
+GT :	term	null    	‘system’	has	a	functional	connotation,	whereas	the	term	null     	‘pathway’	refers	to	the	structures	involved.)	We	will	study	
+
+OCR:	several	important	sensory	and	motor	pathways	in	detail	in	future	tutorials.	Simple	tests	of	cranial	nerve	function	provide	clues	for	
+GT :	several	important	sensory	and	motor	pathways	in	detail	in	future	tutorials.	Simple	tests	of	cranial	nerve	function	provide	clues	for	
+
+OCR:	localization	of	neurological	injury	and	disease	One	means	for	reinforcing	your	understanding	of	the	functional	significance	of	the	cranial	nerves	
+GT :	localization	of	neurological	injury	and	disease	One	means	for	reinforcing	your	understanding	of	the	functional	significance	of	the	cranial	nerves	
+
+OCR:	is	to	actually	test	their	functions	in	yourself	and	a	willing	friend	or	family	member.	Review	Table	Az  	null	below	
+GT :	is	to	actually	test	their	functions	in	yourself	and	a	willing	friend	or	family	member.	Review	Table	null	A2  	below	
+
+OCR:	(from	Purves	et	al.,	Neuroscience,	5"  	null	null	Ed.,	Sinauer	Assoc.,	Inc.),	which	lists	the	cranial	nerve	nuclei	from	which	
+GT :	(from	Purves	et	al.,	Neuroscience,	null	5   	th  	Ed.,	Sinauer	Assoc.,	Inc.),	which	lists	the	cranial	nerve	nuclei	from	which	
+
+OCR:	the	sensory	and	motor	components	of	each	nerve	arise.	Then,	consider	the	means	by	which	you	would	assess	the	functional	
+GT :	the	sensory	and	motor	components	of	each	nerve	arise.	Then,	consider	the	means	by	which	you	would	assess	the	functional	
+
+OCR:	integrity	of	the	cranial	nerves.	Actually,	there	are	a	number	of	tests	of	cranial	nerve	function	that	can	be	done	
+GT :	integrity	of	the	cranial	nerves.	Actually,	there	are	a	number	of	tests	of	cranial	nerve	function	that	can	be	done	
+
+OCR:	with	very	simple	materials.	These	tests	provide	considerable	information	about	the	presence	or	absence	of	normal	function	in	the	brainstem	
+GT :	with	very	simple	materials.	These	tests	provide	considerable	information	about	the	presence	or	absence	of	normal	function	in	the	brainstem	
+
+OCR:	and	the	nerves	2	
+GT :	and	the	nerves	2	
+

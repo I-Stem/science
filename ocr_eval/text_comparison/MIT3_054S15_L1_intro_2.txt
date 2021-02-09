@@ -1,0 +1,12 @@
+OCR:	Cork:	Robert	Hooke	i   	"I  	null	no	sooner	discerned	these	(which	were	indeed	the	first	microscopical	pores	I	have	ever	
+GT :	Cork:	Robert	Hooke	null	null	“I  	no	sooner	discerned	these	(which	were	indeed	the	first	microscopical	pores	I	have	ever	
+
+OCR:	saw.	.   	.)  	null   	but	me	thought	I	had	with	the	discovery	of	them,	perfectly	hinted	to	me	the	true	
+GT :	null	null	null	saw...)	but	me	thought	I	had	with	the	discovery	of	them,	perfectly	hinted	to	me	the	true	
+
+OCR:	and	intelligible	reason	for	all	the	phenomena	of	null 	Micrographia	(1665)	null 	null	null	null	null  	null   	null  	null     	null    	
+GT :	and	intelligible	reason	for	all	the	phenomena	of	cork”	Micrographia	(1665)	Image	is  	in  	the 	public	domain.	Source	Wikimedia	Commons.	
+
+OCR:	Hooke:	first	to	use	the	term	"cell"	null   	from	Latin	"cella"	null   	a	small	compartment	2	
+GT :	Hooke:	first	to	use	the	term	null  	“cell”,	from	Latin	null   	“cella”	a	small	compartment	2	
+

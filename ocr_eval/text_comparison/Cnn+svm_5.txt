@@ -1,0 +1,150 @@
+OCR:	TABLE	III:	Execution	time	of	discrimination	of	variables	from	words	in	methods	t   	angle	of	characters.	The	method	using	2-D	
+GT :	TABLE	III:	Execution	time	of	discrimination	of	variables	from	words	in	methods	null	angle	of	characters.	The	method	using	2-D	
+
+OCR:	discrete	wavelet	classifier	out-perform	traditional	methods	in  	the 	classification.	decomposition	in	[12]	focuses	on	the	stroke	analysis	of	charac-	ers.	
+GT :	discrete	wavelet	null      	null       	null       	null   	null	null	null           	decomposition	in	[12]	focuses	on	the	stroke	analysis	of	charac-	null	
+
+OCR:	null 	Therefore,	the	existing	methods	are	not	efficient	for	short	tures	of  	image	with	an  	appropriate	consumption	of  	time	and 	
+GT :	ters.	Therefore,	the	existing	methods	are	not	efficient	for	short	null 	null	null 	null	null	null       	null       	null	null	null	
+
+OCR:	words	in	different	fonts.	The	obtained	classification	accuracy	of	ResNet-50	is	higher	than	that	of	Alexnet	because	there	are	more	
+GT :	words	in	different	fonts.	The	obtained	classification	accuracy	of	ResNet-50	is	higher	than	that	of	Alexnet	because	there	are	more	
+
+OCR:	layers	in	the	architecture	of	the	network.	Comparing	to	the	fine-tuning	of	CNNs,	the	combination	of	CNNs	and	SVM	shows	
+GT :	layers	in	the	architecture	of	the	network.	Comparing	to	the	fine-tuning	of	CNNs,	the	combination	of	CNNs	and	SVM	shows	
+
+OCR:	better	performance.	In	this	case,	fine-tuning	the	pre-trained	CNNs	is	used	for	the	new	task	of	classification	of	variable	and	
+GT :	better	performance.	In	this	case,	fine-tuning	the	pre-trained	CNNs	is	used	for	the	new	task	of	classification	of	variable	and	
+
+OCR:	word.	Due	to	the	small	number	t   	of	variable	and	word	images,	the	use	of	fine-tuning	is	not	as	efficient	
+GT :	word.	Due	to	the	small	number	null	of	variable	and	word	images,	the	use	of	fine-tuning	is	not	as	efficient	
+
+OCR:	as	the	combination	of	CNNs	and	SVM.	In	reality,	the	feature	extraction	depends	on	the	clearness	of	testing	datasets.	In	
+GT :	as	the	combination	of	CNNs	and	SVM.	In	reality,	the	feature	extraction	depends	on	the	clearness	of	testing	datasets.	In	
+
+OCR:	some	circumstances,	there	are	some	noises	generated	from	the	segmentation	of	images.	It	can	cause	the	misclassification	(e.g	some	short	
+GT :	some	circumstances,	there	are	some	noises	generated	from	the	segmentation	of	images.	It	can	cause	the	misclassification	(e.g	some	short	
+
+OCR:	words	such	as	"in"	null	or	"of"	null	can	be	detected	with	errors	as	variables).	The	variable	containing	a	single	
+GT :	words	such	as	null	”in”	or	null	”of”	can	be	detected	with	errors	as	variables).	The	variable	containing	a	single	
+
+OCR:	character	has	caused	higher	error	rate	in	the	classification	than	the	variable	containing	an	index.	Actually,	there	are	more	variances	
+GT :	character	has	caused	higher	error	rate	in	the	classification	than	the	variable	containing	an	index.	Actually,	there	are	more	variances	
+
+OCR:	of	positions	in	the	layout	of	the	vari-	able	containing	an	index	than	that	of	the	variable	containing	a	single	
+GT :	of	positions	in	the	layout	of	the	vari-	able	containing	an	index	than	that	of	the	variable	containing	a	single	
+
+OCR:	character.	The	feature	allows	to	discriminate	the	type	of	variable	from	textual	word	more	accurately.	C.	Time	efficiency	In	order	
+GT :	character.	The	feature	allows	to	discriminate	the	type	of	variable	from	textual	word	more	accurately.	C.	Time	efficiency	In	order	
+
+OCR:	to	compare	the	execution	performance	of	the	meth-	ods,	the	execution	time	of	the	classification	of	testing	variable	[10]	W.Chu	
+GT :	to	compare	the	execution	performance	of	the	meth-	ods,	the	execution	time	of	the	classification	of	testing	variable	null	null 	
+
+OCR:	and	F.Liu,	"Mathematical	formula	detection	in  	heterogeneous	and 	textual	word	is	evaluated.	The	methods	are	implemented	in	Matlab	R2018a	environment	
+GT :	and	null  	null         	null   	null     	null	null         	null	textual	word	is	evaluated.	The	methods	are	implemented	in	Matlab	R2018a	environment	
+
+OCR:	and	run	on	a	computer	with	6GB	RAM	and	Core	i3-2.67	GHz	processor.	The	execution	time	of	the	discrimination	of	
+GT :	and	run	on	a	computer	with	6GB	RAM	and	Core	i3-2.67	GHz	processor.	The	execution	time	of	the	discrimination	of	
+
+OCR:	variables	from	words	in	testing	phase	is	shown	in	the	table	III.	Actually,	CNNs	consumes	more	time	than	those	of	
+GT :	variables	from	words	in	testing	phase	is	shown	in	the	table	III.	Actually,	CNNs	consumes	more	time	than	those	of	
+
+OCR:	traditional	approaches	in	the	feature	extraction	because	the	CNNs	aim	to	automatically	extract	more	visual	features	than	traditional	methods	in	
+GT :	traditional	approaches	in	the	feature	extraction	because	the	CNNs	aim	to	automatically	extract	more	visual	features	than	traditional	methods	in	
+
+OCR:	order	to	improve	the	classification	accuracy.	The	ResNet-50	consists	of	more	layers	than	Alexnet,	therefore,	it	takes	more	time	for	
+GT :	order	to	improve	the	classification	accuracy.	The	ResNet-50	consists	of	more	layers	than	Alexnet,	therefore,	it	takes	more	time	for	
+
+OCR:	the	CNN	[14]	B.  	H.  	Phong,	T.  	M.  	Hoang,	and 	T.-L.	Le, 	"A  	new 	method	for 	displayed	to	extract	features	
+GT :	the	CNN	null	null	null	null  	null	null	null  	null	null 	null	null	null	null  	null	null     	to	extract	features	
+
+OCR:	of	images.	The	mathematical	expression	detection	is	a	key	step	of	building	mathematical	retrieval	systems.	For	the	systems,	the	prerequisite	
+GT :	of	images.	The	mathematical	expression	detection	is	a	key	step	of	building	mathematical	retrieval	systems.	For	the	systems,	the	prerequisite	
+
+OCR:	step	is	executed	offline.	It	is	not	required	to	perform	the	step	in	real	time	and	the	accuracy	in	the	
+GT :	step	is	executed	offline.	It	is	not	required	to	perform	the	step	in	real	time	and	the	accuracy	in	the	
+
+OCR:	detection	is	important	to	achieve.	V.	CONCLUSION	null	null     	AND	FUTURE	WORK	We	have	presented	the	method	for	detecting	variables	
+GT :	detection	is	important	to	achieve.	V.	null      	C   	ONCLUSION	AND	FUTURE	WORK	We	have	presented	the	method	for	detecting	variables	
+
+OCR:	in	inline	expressions	in	document	images.	In	the	work,	the	employment	and	optimization	of	CNNs	including	Alexnet	and	[18]	X.Lin	
+GT :	in	inline	expressions	in	document	images.	In	the	work,	the	employment	and	optimization	of	CNNs	including	Alexnet	and	null	null 	
+
+OCR:	and 	L.Gao,	"Performance	evaluation	of  	mathematical	formula	Resnet-50	allow	to	obtain	the	highest	precision	of	99.5%	for	the	classification	of	
+GT :	null	null  	null        	null      	null	null        	null   	Resnet-50	allow	to	obtain	the	highest	precision	of	99.5%	for	the	classification	of	
+
+OCR:	variabl	variable	and	word	images.	The	uses	of	pre-trained	CNNs	as	feature	extractors	and	the	SVM	as	a	null      	null       	
+GT :	null   	variable	and	word	images.	The	uses	of	pre-trained	CNNs	as	feature	extractors	and	the	SVM	as	a	classifier	out-perform	
+
+OCR:	null       	null   	null	null	null           	Besides,	pre-trained	CNNs	allow	to	extract	discriminant	fea-	null 	null	null 	null	null	null       	null       	
+GT :	traditional	methods	in  	the 	classification.	Besides,	pre-trained	CNNs	allow	to	extract	discriminant	fea-	tures	of  	image	with	an  	appropriate	consumption	
+
+OCR:	null	null	null	resource.	In	the	future,	context	information	of	variable	can	be	investigated	and	integrated	to	improve	the	accuracy	
+GT :	of  	time	and 	resource.	In	the	future,	context	information	of	variable	can	be	investigated	and	integrated	to	improve	the	accuracy	
+
+OCR:	for	the	detection.	Moreover,	different	machine	learning	algorithms	can	be	used	in	order	to	determine	the	optimized	choice	for	the	
+GT :	for	the	detection.	Moreover,	different	machine	learning	algorithms	can	be	used	in	order	to	determine	the	optimized	choice	for	the	
+
+OCR:	classification	of	variable	and	word.	REFERENCES	null	null     	[1]	"mathinsight,"	null          	https://mathinsight.org/definition/variable,	accessed:	2018-03-14.	null	null	null       	null	null      	null	
+GT :	classification	of	variable	and	word.	null      	R   	EFERENCES	[1]	null          	“mathinsight,”	https://mathinsight.org/definition/variable,	accessed:	2018-03-14.	[2] 	A.  	Krizhevsky,	I.  	Sutskever,	and 	
+
+OCR:	null	null	null   	null     	null          	null	null	null         	null  	null      	null	null   	null       	null	null	null	null         	null      	null	null  	
+GT :	G.  	E.  	Hinton,	“Imagenet	classification	with	deep	convolutional	neural	networks,”	in  	NIPS’12	Proceedings	of  	the 	25th	International	Conference	on  	Neural	
+
+OCR:	null       	null      	null   	null	null  	null	null 	null	null        	null                             	null     	null       	null	null      	null                             	null     	null       	null	null	null	
+GT :	Information	Processing	Systems	-   	Volume	1,  	2012.	[3] 	“Tesseract,”	https://github.com/tesseract-ocr,	accessed:	2018-03-14.	[4] 	“Ocropus,”	https://github.com/tmbdev/ocropy,	accessed:	2018-03-14.	[5] 	A.  	M.  	
+
+OCR:	null      	null	null	null	null 	null     	null     	null	null  	null      	null   	null    	null       	null	null  	null 	null	null 	null	null	
+GT :	Namboodiri	and 	A.  	K.  	Jain,	“Document	structure	and 	layout	analysis,”	Digital	Document	Processing,	pp. 	29–48,	2007.	[6] 	X.Lin	et  	al.,	
+
+OCR:	null	null	null	null     	null  	null	null        	null   	null         	null	null	null	null         	null      	null	null    	null 	null	null	null       	
+GT :	“A  	text	line	detection	method	for 	mathematical	formula	recognition,”	in  	The 	12th	International	Conference	on  	Document	Anal-	ysis	and 	Recognition	
+
+OCR:	null    	null 	null 	null	null 	null	null   	null   	null	null	null        	null      	null         	null    	null   	null       	null    	null	null	null 	
+GT :	(ICDAR).	IEEE,	2013.	[7] 	H.Lee	and 	J.Wang,	“Design	of  	a   	mathematical	expression	understanding	system,”	Pattern	Recognition	Letters,	vol.	18, 	1997.	
+
+OCR:	null	null	null 	null	null   	null         	null    	null       	null	null    	null    	null	null        	null 	null        	null   	null         	null      	null	null 	
+GT :	[8] 	X.  	J.Jin	and 	Q.Wang,	“Mathematical	formulas	detection,”	in  	Document	Analysis	and 	Recognition,	2003.	Proceedings.	Seventh	International	Conference	on. 	IEEE,	
+
+OCR:	null 	null	null	null   	null           	null	null        	null       	null	null    	null    	null	null    	null    	null	null        	null 	null 	null	null	
+GT :	2003.	[9] 	U.  	Garain,	“Identification	of  	mathematical	expressions	in  	document	images,”	in  	Document	Analysis	and 	Recognition,	2009.	ICDAR	’09.	10th	
+
+OCR:	null         	null      	null	null 	null 	null	null      	null	null 	null	null  	null         	null   	null     	null	null         	null    	null    	null	null       	
+GT :	International	Conference	on. 	IEEE,	2009,	pp. 	1340–1344.	[10]	W.Chu	and 	F.Liu,	“Mathematical	formula	detection	in  	heterogeneous	document	images,”	in  	Proceedings	
+
+OCR:	null	null      	null	null        	null	null        	null	null      	null         	null 	null 	null	null	null	null	null	null	null 	null	null 	
+GT :	of  	Conference	on  	Technologies	and 	Applications	of  	Artificial	Intelligence.	IEEE,	2013.	[11]	C.  	Sun 	and 	D.  	Si, 	“Skew	and 	slant	
+
+OCR:	null      	null	null    	null  	null 	null    	null       	null	null       	null	null	null         	null      	null	null    	null    	null	null       	null    	null 	
+GT :	correction	for 	document	images	using	gradient	direction,”	in  	Proceedings	of  	the 	International	Conference	on  	Document	Analysis	and 	Recognition	(ICDAR).	IEEE,	
+
+OCR:	null 	null	null    	null	null	null	null  	null   	null	null       	null 	null  	null   	null    	null	null   	null      	null	null    	null	
+GT :	1997.	[12]	L.Zhang,	Y.  	Lu, 	and 	C.Tan,	“Italic	font	recognition	using	stroke	pattern	analysis	on  	wavelet	decomposed	word	images,”	in  	
+
+OCR:	null       	null	null	null	null         	null      	null	null   	null        	null 	null 	[13]	W.	He,	Y.	Luo,	F.	Yin,	H.	Hu,	
+GT :	Proceedings	of  	the 	17th	International	Conference	on  	Pattern	Recognition.	IEEE,	2004.	[13]	W.	He,	Y.	Luo,	F.	Yin,	H.	Hu,	
+
+OCR:	J.	Han,	E.	Ding,	and	C.-L.	Liu,	null          	null        	null      	null        	null	null      	null     	null	null	null       	null	null   	null       	
+GT :	J.	Han,	E.	Ding,	and	C.-L.	Liu,	“Context-aware	mathematical	expression	recognition:	An  	end-to-end	framework	and 	a   	benchmark,”	in  	Pattern	Recognition	
+
+OCR:	null   	null	null	null         	null      	null	null 	null 	null	null      	null	null	null	null  	null	null	null  	null	null 	null	
+GT :	(ICPR),	2016	23rd	International	Conference	on. 	IEEE,	2016,	pp. 	3246–3251.	[14]	B.  	H.  	Phong,	T.  	M.  	Hoang,	and 	T.-L.	Le, 	
+
+OCR:	null	null	null  	null	null     	null        	null      	null     	null 	null	null	null	null 	null	null    	null      	null	null       	null	null    	
+GT :	“A  	new 	method	for 	displayed	mathematical	exressions	detection	based	on  	fft 	and 	svm,”	in  	Nafosted	conference	on  	Information	and 	Computer	
+
+OCR:	null    	null 	null 	null	null  	[15]	E.	Kavallieratou	et	al.,	"Handwritten	null        	character	recognition	based	on	null      	null             	null	null 	
+GT :	Science.	IEEE,	2017,	pp. 	90–96.	[15]	E.	Kavallieratou	et	al.,	null        	“Handwritten	character	recognition	based	on	structural	characteristics,”	in  	2002.	
+
+OCR:	null        	null	null         	null      	null	null   	null        	null 	null 	null	null       	null     	null                      	null     	null    	null	null	null	null 	null	
+GT :	Proceedings.	16th	International	Conference	on  	Pattern	Recognition.	IEEE,	2002.	[16]	“ImageNet,”	ImageNet.	http://www.image-net.org/,	accessed:	2018-03-	14. 	[17]	M.  	Afzal	and 	
+
+OCR:	null	null       	null               	null    	null     	null  	null	null	null         	null  	null     	null	null	null         	null      	null	null    	null    	null	null       	
+GT :	S.  	Capobianco,	“Deepdocclassifier:	Document	classifi-	cation	with	deep	convolutional	neural	network,”	in  	13th	International	Conference	on  	Document	Analysis	and 	Recognition	
+
+OCR:	null   	null   	null 	null 	null	null 	null	null  	null        	null      	null	null        	null   	null            	null	null	null	null	null         	null    	
+GT :	(ICDAR)	(2015).	IEEE,	2015.	[18]	X.Lin	and 	L.Gao,	“Performance	evaluation	of  	mathematical	formula	identification,”	in  	2012	10th	IAPR	International	Workshop	
+
+OCR:	null	null    	null    	null    	null 	null 	[19]	I.	Jolliffe,	"Principal	null      	component	analysis,"	null      	2nd	ed.,	Springer,	2002.,	null 	
+GT :	on  	Document	Analysis	Systems.	IEEE,	2012.	[19]	I.	Jolliffe,	null      	“Principal	component	null      	analysis,”	2nd	ed.,	Springer,	2002.,	2002.	
+

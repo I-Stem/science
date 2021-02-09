@@ -1,0 +1,24 @@
+OCR:	Acknowledgements	I	thank	my	Supervisor	Dr.	Uday	K	Khankhoje	for	his	guidance	and	for	giving	me	the	opportunity	to	work	
+GT :	Acknowledgements	I	thank	my	Supervisor	Dr.	Uday	K	Khankhoje	for	his	guidance	and	for	giving	me	the	opportunity	to	work	
+
+OCR:	on	this	project.	Your	valuable	suggestions	and	the	fruitful	discussions	were	the	source	for	the	project	to	progress	continuously.	Apart	
+GT :	on	this	project.	Your	valuable	suggestions	and	the	fruitful	discussions	were	the	source	for	the	project	to	progress	continuously.	Apart	
+
+OCR:	from	the	project,	you	have	been	an	excellent	mentor	also.	I	am	thankful	for	all	the	advice	you	have	given	
+GT :	from	the	project,	you	have	been	an	excellent	mentor	also.	I	am	thankful	for	all	the	advice	you	have	given	
+
+OCR:	regarding	my	career.	I	am	very	thankful	to	my	lab	colleagues	Nitin	K.	Lohar,	Yaswanth	Kalapu	and	Sayak	Bhattacharya	for	
+GT :	regarding	my	career.	I	am	very	thankful	to	my	lab	colleagues	Nitin	K.	Lohar,	Yaswanth	Kalapu	and	Sayak	Bhattacharya	for	
+
+OCR:	providing	such	friendly	environment	in	the	lab.	Specially	for	Nitin	K	Lohar,	I	really	appreciate	the	encouragement	you	have	given	
+GT :	providing	such	friendly	environment	in	the	lab.	Specially	for	Nitin	K	Lohar,	I	really	appreciate	the	encouragement	you	have	given	
+
+OCR:	me	whenever	I	was	feeling	down.	I	would	like	to	thank	my	classmates	Kandlagunta	Sridhar	Reddy	for	making	this	journey	
+GT :	me	whenever	I	was	feeling	down.	I	would	like	to	thank	my	classmates	Kandlagunta	Sridhar	Reddy	for	making	this	journey	
+
+OCR:	memorable.	I	would	also	like	to	thank	my	family	for	their	support	and	inspiration.	Akashdeep	Bansal	IIT	Delhi	June,	2016	
+GT :	memorable.	I	would	also	like	to	thank	my	family	for	their	support	and	inspiration.	Akashdeep	Bansal	IIT	Delhi	June,	2016	
+
+OCR:	ji  	null	
+GT :	null	ii  	
+

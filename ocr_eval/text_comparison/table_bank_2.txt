@@ -1,0 +1,99 @@
+OCR:	i   	Figure	1:	Tables	in	electronic	documents	on	the	web	with	different	layouts	and	formats	structure	recognition	model	is	based	
+GT :	null	Figure	1:	Tables	in	electronic	documents	on	the	web	with	different	layouts	and	formats	structure	recognition	model	is	based	
+
+OCR:	on	the	encoder-decoder	framework	for	image-to-text.	The	experiment	results	show	that	the	layout	and	format	variation	has	a	great	impact	
+GT :	on	the	encoder-decoder	framework	for	image-to-text.	The	experiment	results	show	that	the	layout	and	format	variation	has	a	great	impact	
+
+OCR:	on	the	accuracy	of	table	analysis	tasks.	In	addition,	models	trained	on	one	specific	domain	do	not	perform	well	on	
+GT :	on	the	accuracy	of	table	analysis	tasks.	In	addition,	models	trained	on	one	specific	domain	do	not	perform	well	on	
+
+OCR:	the	other.	This	suggests	that	there	is	plenty	of	room	for	advancement	in	mod-	eling	and	learning	on	the	TableBank	
+GT :	the	other.	This	suggests	that	there	is	plenty	of	room	for	advancement	in	mod-	eling	and	learning	on	the	TableBank	
+
+OCR:	dataset	null    	2	Related	Work	2.1	Existing	Datasets	We	introduce	some	existing	public	available	datasets:	ICDAR	2013	Table	Competition.	The	
+GT :	null   	dataset.	2	Related	Work	2.1	Existing	Datasets	We	introduce	some	existing	public	available	datasets:	ICDAR	2013	Table	Competition.	The	
+
+OCR:	ICDAR	2013	Table	Competition	dataset	[Gobel	null  	et	al.,	2013]	contains	128	exam-	ples	in	natively-digital	document	format,	which	are	
+GT :	ICDAR	2013	Table	Competition	dataset	null  	[Göbel	et	al.,	2013]	contains	128	exam-	ples	in	natively-digital	document	format,	which	are	
+
+OCR:	from	Eu-	ropean	Union	and	US	Government.	UNLV	Table	Dataset.	The	UNLV	Table	Dataset	[Shahab	et	al.,	2010]	contains	427	
+GT :	from	Eu-	ropean	Union	and	US	Government.	UNLV	Table	Dataset.	The	UNLV	Table	Dataset	[Shahab	et	al.,	2010]	contains	427	
+
+OCR:	examples	in	scanned	image	format,	which	are	from	a	variety	of	sources	including	Magazines,	News	papers,	Business	Letter,	Annual	Report	
+GT :	examples	in	scanned	image	format,	which	are	from	a	variety	of	sources	including	Magazines,	News	papers,	Business	Letter,	Annual	Report	
+
+OCR:	etc.	Marmot	Dataset.	The	Marmot	Dataset	null	contains	2,000	pages	in	PDF	format,	where	most	of	the	examples	are	from	
+GT :	etc.	Marmot	Dataset.	The	Marmot	Dataset	2   	contains	2,000	pages	in	PDF	format,	where	most	of	the	examples	are	from	
+
+OCR:	research	papers.	DeepFigures	Dataset.	The	DeepFigures	Dataset	[Siegel	et	al.,	2018]	includes	documents	with	tables	and	figures	from	arxiv.com	null     	
+GT :	research	papers.	DeepFigures	Dataset.	The	DeepFigures	Dataset	[Siegel	et	al.,	2018]	includes	documents	with	tables	and	figures	from	null     	arXiv.com	
+
+OCR:	and	PubMed	database.	The	DeepFigures	Dataset	focuses	on	the	large	scale	table/figure	detection	task	while	does	not	contain	the	table	
+GT :	and	PubMed	database.	The	DeepFigures	Dataset	focuses	on	the	large	scale	table/figure	detection	task	while	does	not	contain	the	table	
+
+OCR:	structure	recognition	dataset.	2.2	Table	Detection	Table	detection	aims	to	locate	tables	using	bounding	boxes	in	a	document.	The	research	
+GT :	structure	recognition	dataset.	2.2	Table	Detection	Table	detection	aims	to	locate	tables	using	bounding	boxes	in	a	document.	The	research	
+
+OCR:	of	table	detection	dates	back	to	the	early	1990s.	Itonori	proposed	a	rule-based	approach	that	leverages	the	textblock	arrangement	and	
+GT :	of	table	detection	dates	back	to	the	early	1990s.	Itonori	proposed	a	rule-based	approach	that	leverages	the	textblock	arrangement	and	
+
+OCR:	ruled	line	position	to	detect	table	structures.	At	the	same	time,	Chandran	and	Kasturi	designed	a	structural	table	detection	method	
+GT :	ruled	line	position	to	detect	table	structures.	At	the	same	time,	Chandran	and	Kasturi	designed	a	structural	table	detection	method	
+
+OCR:	based	on	horizontal	and	vertical	lines,	as	well	as	the	item	blocks.	http://www.icst.pku.edu.cn/cpdp/data/marmot_data.htm	Wayser-Sauer	at  	at  	null	null                                       	null    	Following	
+GT :	based	on	horizontal	and	vertical	lines,	as	well	as	the	item	blocks.	null                                                	null        	null	null	2   	http://www.icst.pku.edu.cn/cpdp/data/marmot	data.htm	Following	
+
+OCR:	these	works,	there	is	a	great	deal	of	research	work	[Hirayama,	1995;	Green	and	Krishnamoorthy,	1995;	Tupaj	et	al.,	1996;	
+GT :	these	works,	there	is	a	great	deal	of	research	work	[Hirayama,	1995;	Green	and	Krishnamoorthy,	1995;	Tupaj	et	al.,	1996;	
+
+OCR:	Hu	et	al.,	1999;	Gatos	et	al.,	2005;	Shafait	and	Smith,	2010]	focus	on	improving	rule-based	sys-	tems.	Although	these	
+GT :	Hu	et	al.,	1999;	Gatos	et	al.,	2005;	Shafait	and	Smith,	2010]	focus	on	improving	rule-based	sys-	tems.	Although	these	
+
+OCR:	methods	perform	well	on	some	docu-	ments,	they	require	extensive	human	efforts	to	figure	out	bet-	ter	rules,	while	sometimes	
+GT :	methods	perform	well	on	some	docu-	ments,	they	require	extensive	human	efforts	to	figure	out	bet-	ter	rules,	while	sometimes	
+
+OCR:	failing	to	generalize	to	documents	from	other	sources.	Therefore,	it	is	inevitable	to	leverage	sta-	tistical	approaches	in	table	detection.	
+GT :	failing	to	generalize	to	documents	from	other	sources.	Therefore,	it	is	inevitable	to	leverage	sta-	tistical	approaches	in	table	detection.	
+
+OCR:	To	address	the	need	of	generalization,	statistical	machine	learning	approaches	have	been	proposed	to	alleviate	these	problems.	Kieninger	and	Dengel	
+GT :	To	address	the	need	of	generalization,	statistical	machine	learning	approaches	have	been	proposed	to	alleviate	these	problems.	Kieninger	and	Dengel	
+
+OCR:	were	one	of	the	first	to	ap-	ply	unsupervised	learning	method	to	the	table	detection	task	back	in	1998.	Their	
+GT :	were	one	of	the	first	to	ap-	ply	unsupervised	learning	method	to	the	table	detection	task	back	in	1998.	Their	
+
+OCR:	recognition	process	differs	significantly	rom 	null	previous	approaches	as	it	realizes	a	bottom-up	clustering	of	given	word	segments,	whereas	conventional	
+GT :	recognition	process	differs	significantly	null	from	previous	approaches	as	it	realizes	a	bottom-up	clustering	of	given	word	segments,	whereas	conventional	
+
+OCR:	table	structure	recognizers	all	rely	on	the	detection	of	some	separators	such	as	delineation	or	significant	white	space	to	analyze	
+GT :	table	structure	recognizers	all	rely	on	the	detection	of	some	separators	such	as	delineation	or	significant	white	space	to	analyze	
+
+OCR:	a	page	from	the	top-down.	In	2002,	Cesarini	et	al.	started	to	use	supervised	learning	method	by	means	of	a	
+GT :	a	page	from	the	top-down.	In	2002,	Cesarini	et	al.	started	to	use	supervised	learning	method	by	means	of	a	
+
+OCR:	hierarchical	rep-	resentation	based	on	the	MXY	tree.	The	algorithm	can	be	adapted	to	recognize	tables	with	different	features	by	
+GT :	hierarchical	rep-	resentation	based	on	the	MXY	tree.	The	algorithm	can	be	adapted	to	recognize	tables	with	different	features	by	
+
+OCR:	maxi-	mizing	the	performance	on	an	appropriate	training	set.	After	that,	table	detection	has	been	cast	into	a	set	of	
+GT :	maxi-	mizing	the	performance	on	an	appropriate	training	set.	After	that,	table	detection	has	been	cast	into	a	set	of	
+
+OCR:	different	ma-	chine	learning	problems	such	as	sequence	labeling	[Silva	and	e.,	2009],	feature	engineering	with	SVM	[Kasar	et	al.,	
+GT :	different	ma-	chine	learning	problems	such	as	sequence	labeling	[Silva	and	e.,	2009],	feature	engineering	with	SVM	[Kasar	et	al.,	
+
+OCR:	2013]	and	also	ensemble	a	set	of	models	[Fan	and	Kim,	2015]	in-	cluding	Naive	Bayes,	logistic	regression,	and	SVM.	
+GT :	2013]	and	also	ensemble	a	set	of	models	[Fan	and	Kim,	2015]	in-	cluding	Naive	Bayes,	logistic	regression,	and	SVM.	
+
+OCR:	The	ap-	plication	of	machine	learning	methods	has	significantly	im-	proved	table	detection	accuracy.	Recently,	the	rapid	development	of	deep	
+GT :	The	ap-	plication	of	machine	learning	methods	has	significantly	im-	proved	table	detection	accuracy.	Recently,	the	rapid	development	of	deep	
+
+OCR:	learning	in	com-	puter	vision	has	a	profound	impact	on	the	data-driven	image-	based	approaches	for	table	detection.	The	advantage	
+GT :	learning	in	com-	puter	vision	has	a	profound	impact	on	the	data-driven	image-	based	approaches	for	table	detection.	The	advantage	
+
+OCR:	of	the	images-based	table	detection	is	two-fold:	First,	it	is	robust	o   	null	document	types	by	making	no	assumption	of	
+GT :	of	the	images-based	table	detection	is	two-fold:	First,	it	is	robust	null	to  	document	types	by	making	no	assumption	of	
+
+OCR:	whether	scanned	images	of	pages	or	natively-digital	document	for-	mats.	Second,	it	reduces	the	efforts	of	hand-crafted	feature	engineering	in	
+GT :	whether	scanned	images	of	pages	or	natively-digital	document	for-	mats.	Second,	it	reduces	the	efforts	of	hand-crafted	feature	engineering	in	
+
+OCR:	conventional	machine	learning.	Hao	et	al.	first	used	convolutional	neural	networks	in	table	detection,	where	
+GT :	conventional	machine	learning.	Hao	et	al.	first	used	convolutional	neural	networks	in	table	detection,	where	
+

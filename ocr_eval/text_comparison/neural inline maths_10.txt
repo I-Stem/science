@@ -1,0 +1,39 @@
+OCR:	WILEY-Expert	null 	null  	Systems	i   	null     	null	null	null  	null	Micro	average	comparison	Percentage	TABLE	4	null     	Class-specific	performance	evaluation	
+GT :	null        	WILEY	Expert	Systems	null	MADISETTY	ET  	AL  	FIGURE	6   	Micro	average	comparison	null      	TABLE	4	F-Measure	Class-specific	performance	evaluation	
+
+OCR:	of	different	models	t   	t   	t   	Overall	results	and	observation	of	hybrid	model	HIMEXD	null  	(presented	in	Table	5)	are	
+GT :	of	different	models	null	null	null	Overall	results	and	observation	of	hybrid	model	null  	HIMExD	(presented	in	Table	5)	are	
+
+OCR:	similar	to	the	BIMEXD	null  	model.	Possible	reasoning	behind	this	is	that	the	model	retains	the	benefits	of	the	carefully	
+GT :	similar	to	the	null  	BIMExD	model.	Possible	reasoning	behind	this	is	that	the	model	retains	the	benefits	of	the	carefully	
+
+OCR:	selected	features	(as	done	in	CRF-2)	and	the	automated	feature	engineering	(as	done	in	BIMExD),	and	the	combination	leads	to	
+GT :	selected	features	(as	done	in	CRF-2)	and	the	automated	feature	engineering	(as	done	in	BIMExD),	and	the	combination	leads	to	
+
+OCR:	better	performance.	The	feature	based	model	CRF-2	had	a	poor	recall	for	the	B-Math	class,	which	indicates	that	the	features	
+GT :	better	performance.	The	feature	based	model	CRF-2	had	a	poor	recall	for	the	B-Math	class,	which	indicates	that	the	features	
+
+OCR:	were	not	able	to	detect	many	actual	B-Math	instances.	Since	the	precision	of	O-Math	is	almost	100%,	some	of	these	
+GT :	were	not	able	to	detect	many	actual	B-Math	instances.	Since	the	precision	of	O-Math	is	almost	100%,	some	of	these	
+
+OCR:	false	negatives	for	B-Math	are	actually	being	detected	as	I-Math-which	null        	may	still	be	OK  	null	as	the	complete	chain	
+GT :	false	negatives	for	B-Math	are	actually	being	detected	as	null        	I-Math—which	may	still	be	null	Ok  	as	the	complete	chain	
+
+OCR:	of	the	mathematical	expressions	will	still	be	detected.	Performance	for	O-Math	class	is	boosted	even	further,	and	all	examples	for	
+GT :	of	the	mathematical	expressions	will	still	be	detected.	Performance	for	O-Math	class	is	boosted	even	further,	and	all	examples	for	
+
+OCR:	this	class	are	successfully	detected	by	the	method,	resulting	in	a	100%	recall.	CRF2	precision	is	higher	than	the	precision	
+GT :	this	class	are	successfully	detected	by	the	method,	resulting	in	a	100%	recall.	CRF2	precision	is	higher	than	the	precision	
+
+OCR:	of	HIMExD	for	B-Math	class	and	BIMExD	recall	is	better	than	recall	of	HIMExD	for	I-Math	class.	However,	HIMExD	is	
+GT :	of	HIMExD	for	B-Math	class	and	BIMExD	recall	is	better	than	recall	of	HIMExD	for	I-Math	class.	However,	HIMExD	is	
+
+OCR:	better	than	CRF2	and	BIMEXD	null  	models	in	terms	of	F-measure	for	all	the	classes.	Overall,	the	proposed	neural	methods	
+GT :	better	than	CRF2	and	null  	BIMExD	models	in	terms	of	F-measure	for	all	the	classes.	Overall,	the	proposed	neural	methods	
+
+OCR:	(BIMExD	and	HIMEXD)	null   	achieve	significantly	better	performances	over	the	baseline	approaches	taken	from	literature.	MADISETTY	ET  	AL. 	FIGURE	6   	
+GT :	(BIMExD	and	null   	HIMExD)	achieve	significantly	better	performances	over	the	baseline	approaches	taken	from	literature.	null     	null	null	null  	null	
+
+OCR:	Micro	average	comparison	
+GT :	null 	null   	null      	
+

@@ -1,0 +1,18 @@
+OCR:	Spain,	Portugal	and	the	Netherlands	in	particular.	In	those	countries,	concentration	is	probably	now	higher	than	shown	in	the	table.	
+GT :	Spain,	Portugal	and	the	Netherlands	in	particular.	In	those	countries,	concentration	is	probably	now	higher	than	shown	in	the	table.	
+
+OCR:	Table	7.4:	Five	Firm	National	Concentration	Ratios	(%)	t   	t   	null 	null	null	null       	null	null	null	null     	null   	null 	
+GT :	Table	7.4:	Five	Firm	National	Concentration	Ratios	(%)	null	null	Table	7.  	5   	Comparisons	of  	C5  	from	different	sources	Other	
+
+OCR:	null    	null	null	null        	null       	null	null	null	null	null      	null	null    	null    	null 	null    	null	null	null 	null     	null	
+GT :	Sources:	LDA 	La  	Distribution	alimentaire	AIM 	AIM 	PBUK	UK  	Pocketbook	EH  	European	Handbook	OXIRM	referred	to  	in  	"Food	Retailing	in  	
+
+OCR:	null    	null    	null       	null    	null    	null   	null	null 	null	null    	null	null    	null	null   	null	null   	null    	null  	null 	null	
+GT :	Southern	European	Countries",	European	Regional	Review,	1998	(date	of  	estimate	not 	reported	in  	source)	HBS 	Harvard	Business	School	(date	of  	
+
+OCR:	null    	null	null    	null	null   	null	null	null     	null  	null 	null	null     	null   	null	null     	null	null     	null	null 	null	
+GT :	estimate	not 	reported	in  	source)	As  	a   	reference	point,	Table	7.5 	digresses	briefly	by  	comparing	our 	estimates	with	those	from	
+
+OCR:	null    	64	
+GT :	previous	64	
+

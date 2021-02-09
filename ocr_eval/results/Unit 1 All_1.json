@@ -1,0 +1,1 @@
+{"figure_correctly_predicted": 0, "figure_detections": 0, "figure_ground_truths": 0, "table_correctly_predicted": 0, "table_detections": 0, "table_ground_truths": 0, "table_recognition_results": [], "text_recognition_accuracy": 0.8953068592057761, "text_recognition_total_words": 277, "text_recognition_correctly_predicted": 248, "column_prediction": true}

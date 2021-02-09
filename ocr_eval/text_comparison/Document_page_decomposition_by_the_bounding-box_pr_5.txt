@@ -1,0 +1,117 @@
+OCR:	mismatched	all 	mismatched	text	|   	total	word	seg.	227 	(0.37%)	63  	60936	groundtruth	318 	(0.52%)	61027	Table	1:	word	segmentation	
+GT :	null      	null	null      	null	null	null 	null	null	null	null   	null	null 	null       	null	null   	null 	Table	1:	word	segmentation	
+
+OCR:	result	Az  	null	and	Ay	are	difference	of	x-	and	y-coordinates	of	two	consecutive	bounding	boxes	listed	in	the	charac-	
+GT :	result	null	Ax  	and	Ay	are	difference	of	x-	and	y-coordinates	of	two	consecutive	bounding	boxes	listed	in	the	charac-	
+
+OCR:	ter	groundtruth	file,	and	T,	and	Ty  	null	are	some	posi-	tive	integer	values.	Then	we	find	correspondence	of	the	
+GT :	ter	groundtruth	file,	and	T,	and	null	T,  	are	some	posi-	tive	integer	values.	Then	we	find	correspondence	of	the	
+
+OCR:	symbols	in	the	zone-based	null      	groundtruth	file	and	the	symbols	associated	with	bounding	boxes	in	the	character	groundtruth	file.	By	
+GT :	symbols	in	the	null      	lone-based	groundtruth	file	and	the	symbols	associated	with	bounding	boxes	in	the	character	groundtruth	file.	By	
+
+OCR:	grouping	the	bound-	ing	boxes	which	form	a	word,	we	can	generate	the	word	box	groundtruth	data	for	synthetic	images	
+GT :	grouping	the	bound-	ing	boxes	which	form	a	word,	we	can	generate	the	word	box	groundtruth	data	for	synthetic	images	
+
+OCR:	in	the	database.	3.2	Evaluation	null     	of	the	Word	Segmentation	Algorithm	The	output	of	the	word	segmentation	algorithm	is	a	
+GT :	in	the	database.	3.2	Evaluation	Algorithm	of	the	Word	Segmentation	null     	The	output	of	the	word	segmentation	algorithm	is	a	
+
+OCR:	set	of	word	bounding	boxes.	To	evaluate	the	performance,	we	need	to	compare	the	word	box	groundtruth	data	and	the	
+GT :	set	of	word	bounding	boxes.	To	evaluate	the	performance,	we	need	to	compare	the	word	box	groundtruth	data	and	the	
+
+OCR:	word	bounding	boxes	pro-	duced	by	the	word	segmentation	algorithm.	Let	G   	null	=	(G1,	null	G2,	.   	.   	.,  	
+GT :	word	bounding	boxes	pro-	duced	by	the	word	segmentation	algorithm.	Let	null	Q   	=	null	CGl,	G2,	null	null	null	
+
+OCR:	GN} 	null	null	null	denote	the	total	of	N	groundtruth	word	bounding	boxes	and	let	D   	null	=	{Di,	D2, 	
+GT :	null	-.  	+,  	GN) 	denote	the	total	of	N	groundtruth	word	bounding	boxes	and	let	null	2)  	=	{Di,	null	
+
+OCR:	.   	.   	.   	,   	null	null	null	null	DM}	denote	the	total	of	M	detected	word	bounding	boxes	which	are	
+GT :	null	null	null	null	Dz, 	-   	*   	-,  	DM}	denote	the	total	of	M	detected	word	bounding	boxes	which	are	
+
+OCR:	produced	by	the	word	segmentation	algo-	rithm.	For	our	purpose,	we	simply	compute	9   	-   	D   	null	and	D	-	
+GT :	produced	by	the	word	segmentation	algo-	rithm.	For	our	purpose,	we	simply	compute	null	null	null	G-d,	and	D	-	
+
+OCR:	g   	null	Technical/scientific	document	images	usually	con-	tain	math	expressions	embedded	in	text	lines.	Our	word	segmentation	algorithm	will	produce	
+GT :	null	G.  	Technical/scientific	document	images	usually	con-	tain	math	expressions	embedded	in	text	lines.	Our	word	segmentation	algorithm	will	produce	
+
+OCR:	word	bounding	boxes	based	on	the	amount	of	space	between	consecutive	symbols.	Therefore,	if	a	word	bounding	box	produced	by	
+GT :	word	bounding	boxes	based	on	the	amount	of	space	between	consecutive	symbols.	Therefore,	if	a	word	bounding	box	produced	by	
+
+OCR:	the	algorithm	contains	a	pure	text	word,	it	is	the	word	bounding	box	in	the	true	sense.	However,	if	a	
+GT :	the	algorithm	contains	a	pure	text	word,	it	is	the	word	bounding	box	in	the	true	sense.	However,	if	a	
+
+OCR:	word	bounding	box	produced	by	the	al-	gorithm	contains	an	inline	math	expression,	we	still	call	it	a	word	bounding	
+GT :	word	bounding	box	produced	by	the	al-	gorithm	contains	an	inline	math	expression,	we	still	call	it	a	word	bounding	
+
+OCR:	box	because	we	are	not	con-	cerned	with	the	content	of	the	box	until	symbol	recog-	nition	is	attempted.	Table	
+GT :	box	because	we	are	not	con-	cerned	with	the	content	of	the	box	until	symbol	recog-	nition	is	attempted.	Table	
+
+OCR:	1	shows	the	number	of	elements	in	G   	null	-	D	and	D   	null	-	9   	null	versus	the	number	
+GT :	1	shows	the	number	of	elements	in	null	B   	-	D	and	null	V   	-	null	(3  	versus	the	number	
+
+OCR:	of	elements	in	,   	null	and	D.  	null	In	the	tables,	"mismatched	all"	null       	null	represents	the	number	of	mismatched	
+GT :	of	elements	in	null	(3  	and	null	I). 	In	the	tables,	null       	null	“mismatched	all”	represents	the	number	of	mismatched	
+
+OCR:	word	bounding	boxes,	and	"mismatched	text"	null       	null 	represents	the	number	of	mismatched	bounding	boxes	of	pure	text	words.	In	
+GT :	word	bounding	boxes,	and	null       	null 	“mismatched	text”	represents	the	number	of	mismatched	bounding	boxes	of	pure	text	words.	In	
+
+OCR:	the	last	column,	the	total	number	of	bounding	boxes	are	recorded.	Proceedings	of  	the 	Third	International	Conference	on  	Document	Analysis	
+GT :	the	last	column,	the	total	number	of	bounding	boxes	are	recorded.	null       	null	null	null 	null         	null      	null	null    	null    	
+
+OCR:	and 	Recognition	(ICDAR	'95)	0-8186-7123-9/95-$10	00  	@   	1995	IEEE	4	Discussions	In	this	paper,	we	describe	a	new	document	page	
+GT :	null	null       	null  	null	null                	null	null	null	null	4	Discussions	In	this	paper,	we	describe	a	new	document	page	
+
+OCR:	decomposition	technique.	The	entire	decomposition	process	is	based	on	the	analysis	of	the	spatial	config-	uration	of	bounding	boxes	of  	
+GT :	decomposition	technique.	The	entire	decomposition	process	is	based	on	the	analysis	of	the	spatial	config-	uration	of	bounding	boxes	null	
+
+OCR:	null	connected	components.	In	our	approach,	connected	components	become	the	lowest	level	of	the	document	hierarchy.	Correction	of	page	skew	
+GT :	.of 	connected	components.	In	our	approach,	connected	components	become	the	lowest	level	of	the	document	hierarchy.	Correction	of	page	skew	
+
+OCR:	is	not	of	concern	in	this	study.	However,	it	is	worth	mentioning	that	perfor-	mance	of	our	decomposition	method	strongly	
+GT :	is	not	of	concern	in	this	study.	However,	it	is	worth	mentioning	that	perfor-	mance	of	our	decomposition	method	strongly	
+
+OCR:	depends	on	how	much	a	document	image	is	skewed.	In	fact,	we	may	not	be	able	to	correctly	extract	text	
+GT :	depends	on	how	much	a	document	image	is	skewed.	In	fact,	we	may	not	be	able	to	correctly	extract	text	
+
+OCR:	lines	for	about	0.50	null	skew	of	a	letter-sized,	single	column,	single	spaced	text	document.	Therefore,	deskewing	of	the	document	
+GT :	lines	for	about	null	0.5O	skew	of	a	letter-sized,	single	column,	single	spaced	text	document.	Therefore,	deskewing	of	the	document	
+
+OCR:	image	must	precede	the	decomposition.	Our	decomposition	method	has	its	own	computa-	tional	aspect:	Once	bounding	boxes	are	obtained,	the	
+GT :	image	must	precede	the	decomposition.	Our	decomposition	method	has	its	own	computa-	tional	aspect:	Once	bounding	boxes	are	obtained,	the	
+
+OCR:	method	does	not	refer	to	actual	images.	During	the	decomposition	process,	the	method	manipulates	only	bounding	boxes.	Hence,	for	a	
+GT :	method	does	not	refer	to	actual	images.	During	the	decomposition	process,	the	method	manipulates	only	bounding	boxes.	Hence,	for	a	
+
+OCR:	letter-sized	document	mage	null 	at	300	dpi	resolution,	the	number	of	computa-	tional	units	are	reduced	from	8.4	x	106 	
+GT :	letter-sized	document	null	image	at	300	dpi	resolution,	the	number	of	computa-	tional	units	are	reduced	from	8.4	x	null	
+
+OCR:	null	(=	2550	x	3300)	pixels	to	at	most	a	few	thousands	of	bounding	boxes.	Our	decomposition	method	[5][6]	completes	
+GT :	lo6 	(=	2550	x	3300)	pixels	to	at	most	a	few	thousands	of	bounding	boxes.	Our	decomposition	method	[5][6]	completes	
+
+OCR:	page	de-	composition	within	a	few	second	and,	thus,	its	supe-	riority	to	the	pixel-projection	approach	is	obvious.	References	[1]	
+GT :	page	de-	composition	within	a	few	second	and,	thus,	its	supe-	riority	to	the	pixel-projection	approach	is	obvious.	References	[1]	
+
+OCR:	Ihsin	T.	Phillips,	Su	Chen	and	R.	M.	Haralick,	"English	null    	Document	Database	Standard,"	null      	Proc.	ICDAR,	Japan,	1993.	[2]	
+GT :	Ihsin	T.	Phillips,	Su	Chen	and	R.	M.	Haralick,	null    	‘English	Document	Database	null      	Standard,”	Proc.	ICDAR,	Japan,	1993.	[2]	
+
+OCR:	R.M.	Haralick	and	L.G.	Shapiro,	Computer	and	Robot	Vision	:	Volume	I,	Addison	Wesley,	1992	[3]	J.  	Kittler	and	J.	
+GT :	R.M.	Haralick	and	L.G.	Shapiro,	Computer	and	Robot	Vision	:	Volume	I,	Addison	Wesley,	1992	[3]	null	Kittler	and	J.	
+
+OCR:	Illingworth,	"Minimum	null    	Er-	ror 	Thresholding,"	null	null          	Pattern	Recognition,	Vol.	19,	No.	1,	pp.41-47,	1986	[4]	Nobuyuki	Otsu,	"A  	
+GT :	Illingworth,	null    	“Minimum	Er-	null	null          	from	Thresholding,”	Pattern	Recognition,	Vol.	19,	No.	1,	pp.41-47,	1986	[4]	Nobuyuki	Otsu,	null	
+
+OCR:	null	Threshold	Selection	Method	from	Gray-level	Histogramws,"	null         	IEEE	Trans.	on	Systems,	Man,	and	Cybernetics,	Vol.	SMC-9,	No.	1,	pp.	
+GT :	‘A  	Threshold	Selection	Method	from	Gray-level	null         	Histogramws,”	IEEE	Trans.	on	Systems,	Man,	and	Cybernetics,	Vol.	SMC-9,	No.	1,	pp.	
+
+OCR:	62-66,	January,	1979	[5]	Jaekyu	Ha,	Insin	null 	T.	Phillips	and	R.	M.	Haral-	ick,	"Recursive	null      	X-Y	Cut	using	
+GT :	62-66,	January,	1979	[5]	Jaekyu	Ha,	null 	Ihsin	T.	Phillips	and	R.	M.	Haral-	ick,	null      	uRecursive	X-Y	Cut	using	
+
+OCR:	Bounding	Boxes	of	Connected	Components,"	null        	ISL	Report,	Dept.	Elec-	trical	Eng.,	University	of	Washington,	1994.	[6]	J.	Ha,	I.T.	
+GT :	Bounding	Boxes	of	Connected	null        	Components,”	ISL	Report,	Dept.	Elec-	trical	Eng.,	University	of	Washington,	1994.	[6]	J.	Ha,	I.T.	
+
+OCR:	Phillips	and	R.M.	Haralick,	"Document	null     	Image	Decomposition	using	Bounding	Boxes	of	Connected	Components,"	null        	ISL	Report,	Dept.	Elec-	trical	
+GT :	Phillips	and	R.M.	Haralick,	null     	“Document	Image	Decomposition	using	Bounding	Boxes	of	Connected	null        	Components,”	ISL	Report,	Dept.	Elec-	trical	
+
+OCR:	Eng.,	University	of	Washington,	1994.	122 	null	
+GT :	Eng.,	University	of	Washington,	null 	null	1994	
+

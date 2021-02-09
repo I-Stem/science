@@ -1,0 +1,90 @@
+OCR:	www.gradeup.co	2016.	Fossil	fuel	consumption	has	increased	globally	from	94,462/twh	in	2000	to	1,33,853/twh	now.	The	rise	in	population	(currently	
+GT :	www.gradeup.co	2016.	Fossil	fuel	consumption	has	increased	globally	from	94,462/twh	in	2000	to	1,33,853/twh	now.	The	rise	in	population	(currently	
+
+OCR:	7.7	billion)	indicates	a	steady	growth	in	energy	demand	worldwide.	In	comparison,	the	fact	that	renewable	energy	took	a	decade	
+GT :	7.7	billion)	indicates	a	steady	growth	in	energy	demand	worldwide.	In	comparison,	the	fact	that	renewable	energy	took	a	decade	
+
+OCR:	to	become	1/3	of	energy	capacity	is	not	the	ideal	pace,	considering	we	might	not	have	two	more	decades	to	
+GT :	to	become	1/3	of	energy	capacity	is	not	the	ideal	pace,	considering	we	might	not	have	two	more	decades	to	
+
+OCR:	wait	for	RE	to	catch	up.	Source:	www.forbesindia.com	Which	of	the	following	statement	(s)	if	true,	will	support	the	author's	
+GT :	wait	for	RE	to	catch	up.	Source:	www.forbesindia.com	Which	of	the	following	statement	(s)	if	true,	will	support	the	null    	
+
+OCR:	null    	claim	that	the	rate	of	growth	in	Renewable	Energy	is	not	satisfactory?	I.	The	use	of	fossil	fuels	to	
+GT :	author’s	claim	that	the	rate	of	growth	in	Renewable	Energy	is	not	satisfactory?	I.	The	use	of	fossil	fuels	to	
+
+OCR:	satisfy	energy	needs	continues	to	be	a	popular	choice.	II.	The	issue	of	energy	scarcity	is	being	addressed	by	the	
+GT :	satisfy	energy	needs	continues	to	be	a	popular	choice.	II.	The	issue	of	energy	scarcity	is	being	addressed	by	the	
+
+OCR:	use	of	RE	in	a	more	appropriate	manner.	III.	Government	and	private	organisations	are	working	together	to	develop	technology	which	
+GT :	use	of	RE	in	a	more	appropriate	manner.	III.	Government	and	private	organisations	are	working	together	to	develop	technology	which	
+
+OCR:	operates	on	RE.	A.	Only	I	B.	Only	III	C.	Only	II	D.	Both	I	and	II	E.	Both	II	
+GT :	operates	on	RE.	A.	Only	I	B.	Only	III	C.	Only	II	D.	Both	I	and	II	E.	Both	II	
+
+OCR:	and	III	5.	Which	of	the	following	is	NOT	true	with	respect	to	the	context	of	the	passage?	I.	Deaths	
+GT :	and	III	5.	Which	of	the	following	is	NOT	true	with	respect	to	the	context	of	the	passage?	I.	Deaths	
+
+OCR:	due	to	increased	pollution	level	have	escalated	in	the	past	few	years.	II.	Though	the	rate	of	growth	in	RE	
+GT :	due	to	increased	pollution	level	have	escalated	in	the	past	few	years.	II.	Though	the	rate	of	growth	in	RE	
+
+OCR:	is	less	than	required,	it	has	been	consistent.	III.	More	market	share	allotment	to	green	energy	has	given	RE	a	
+GT :	is	less	than	required,	it	has	been	consistent.	III.	More	market	share	allotment	to	green	energy	has	given	RE	a	
+
+OCR:	worldwide	acceptance	null       	A.	Only	II	B.	Only	null	C.	Only	I	D.	Both	I	and	II	E.	Both	II	
+GT :	worldwide	null      	acceptance.	A.	Only	II	B.	Only	III 	C.	Only	I	D.	Both	I	and	II	E.	Both	II	
+
+OCR:	and	III	6.	Which	of	the	following	is/are	the	goal	's) 	null	of	the	green	energy	transition?	A.	Solve	the	
+GT :	and	III	6.	Which	of	the	following	is/are	the	goal	null	(s) 	of	the	green	energy	transition?	A.	Solve	the	
+
+OCR:	growing	energy	scarcity.	B.	Reduce	dependency	on	fossil	fuels.	C.	Reduce	the	death	rate	due	to	increased	pollution	levels	Gradeup	
+GT :	growing	energy	scarcity.	B.	Reduce	dependency	on	fossil	fuels.	C.	Reduce	the	death	rate	due	to	increased	pollution	null  	null   	
+
+OCR:	Green	Card	Unlimited	Access	to  	All 	700+	Bank	&   	Insurance	Mock	Tests	3   	gradeup	null   	D.	To	steady	the	growth	
+GT :	null 	null	null     	null  	null	null	null	null	null	null     	null	null 	null	null   	levels.	D.	To	steady	the	growth	
+
+OCR:	in	energy	demand.	E.	Both	A	and	B	7.	Which	of	the	following	can	be	inferred	from	the	statement	"one	
+GT :	in	energy	demand.	E.	Both	A	and	B	7.	Which	of	the	following	can	be	inferred	from	the	statement	null	
+
+OCR:	null	can	argue	that	the	future	has	arrived,	in	parts	at	least"?	null   	A.	The	growth	trajectory	in	the	field	
+GT :	“one	can	argue	that	the	future	has	arrived,	in	parts	at	null   	least”?	A.	The	growth	trajectory	in	the	field	
+
+OCR:	of	renewable	energy	is	incredible.	B.	The	dependency	on	fossil	fuels	has	significantly	reduced.	C.	The	sustainable	energy	sector	has	
+GT :	of	renewable	energy	is	incredible.	B.	The	dependency	on	fossil	fuels	has	significantly	reduced.	C.	The	sustainable	energy	sector	has	
+
+OCR:	identified	RE	to	be	an	ideal	component.	D.	The	pace	at	which	RE	is	developing	is	consistent	but	not	ideal.	
+GT :	identified	RE	to	be	an	ideal	component.	D.	The	pace	at	which	RE	is	developing	is	consistent	but	not	ideal.	
+
+OCR:	E.	None	of	the	above.	8.	Direction:	In	this	question,	two	columns	I	and	II	and	three	sentences	are	given,	
+GT :	E.	None	of	the	above.	8.	Direction:	In	this	question,	two	columns	I	and	II	and	three	sentences	are	given,	
+
+OCR:	which	are	divided	into	two	parts.	Column	I	(A,	B	and	C)	consists	of	first	half	of	each	sentence	and	
+GT :	which	are	divided	into	two	parts.	Column	I	(A,	B	and	C)	consists	of	first	half	of	each	sentence	and	
+
+OCR:	Column	II	(D,	E	and	F)	consists	of	second	half	of	each	sentence.	Match	column	I	with	column	II,	so	
+GT :	Column	II	(D,	E	and	F)	consists	of	second	half	of	each	sentence.	Match	column	I	with	column	II,	so	
+
+OCR:	that	the	sentences	formed	are	both	meaningful	and	grammatically	correct.	Choose	the	correct	option	as	your	answer.	I.	A)	Market	
+GT :	that	the	sentences	formed	are	both	meaningful	and	grammatically	correct.	Choose	the	correct	option	as	your	answer.	I.	A)	Market	
+
+OCR:	research	has	shown	us	that	B)	The	government	has	C)	Demand	has	outstripped	II.	D)	Supplied	of	qualified	teachers	E)	
+GT :	research	has	shown	us	that	B)	The	government	has	C)	Demand	has	outstripped	II.	D)	Supplied	of	qualified	teachers	E)	
+
+OCR:	People	are	loyal	to	a	brand	not	prices	F)	Reforms	are	entire	tax	system	A.	C-F	B.	B-D	C.	A-E	
+GT :	People	are	loyal	to	a	brand	not	prices	F)	Reforms	are	entire	tax	system	A.	C-F	B.	B-D	C.	A-E	
+
+OCR:	D.	All	of	the	above	E.	None	of	the	above	9.	Direction:	In	this	question,	two	columns	I	and	II	
+GT :	D.	All	of	the	above	E.	None	of	the	above	9.	Direction:	In	this	question,	two	columns	I	and	II	
+
+OCR:	and	three	sentences	are	given,	which	are	divided	into	two	parts.	Column	I	(A,	B	and	C)	consists	of	first	
+GT :	and	three	sentences	are	given,	which	are	divided	into	two	parts.	Column	I	(A,	B	and	C)	consists	of	first	
+
+OCR:	half	of	each	sentence	and	Column	II	(D,	E	and	F)	consists	of	second	half	of	each	sentence.	Match	column	
+GT :	half	of	each	sentence	and	Column	II	(D,	E	and	F)	consists	of	second	half	of	each	sentence.	Match	column	
+
+OCR:	I	with	column	II,	so	that	the	sentences	formed	are	both	meaningful	and	grammatically	correct.	Choose	the	option	as	your	
+GT :	I	with	column	II,	so	that	the	sentences	formed	are	both	meaningful	and	grammatically	correct.	Choose	the	option	as	your	
+
+OCR:	answer.	null   	null 	null	null     	null  	null	null	null	null 	null	null     	CLICK	HERE	null	null 	null	
+GT :	answer.	Gradeup	Green	Card	Unlimited	Access	to  	All 	700+	Banks	&   	Insurance	CLICK	HERE	Mock	Tests	3   	
+

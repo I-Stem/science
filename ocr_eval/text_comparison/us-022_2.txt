@@ -1,0 +1,36 @@
+OCR:	2011	IPEC	ANNUAL	REPORT	ON	INTELLECTUAL	PROPERTY	ENFORCEMENT	property	referrals,	and	they	charged	177	cases	with	259	defendants	In	FY	
+GT :	2011	IPEC	ANNUAL	REPORT	ON	INTELLECTUAL	PROPERTY	ENFORCEMENT	property	referrals,	and	they	charged	177	cases	with	259	defendants	In	FY	
+
+OCR:	2009	AUSAs	received	285	intellectual	property	referrals,	and	they	charged	173	cases	with	235	defendants	Sentencing:	In	FY	2011,	courts	
+GT :	2009	AUSAs	received	285	intellectual	property	referrals,	and	they	charged	173	cases	with	235	defendants	Sentencing:	In	FY	2011,	courts	
+
+OCR:	sentenced	208	intellectual	property	defendants	Of	these,	102	received	no	prison	term,	27	received	sentences	of	1-12	null	months,	33	
+GT :	sentenced	208	intellectual	property	defendants	Of	these,	102	received	no	prison	term,	27	received	sentences	of	null	1­12	months,	33	
+
+OCR:	received	sentences	of	13-24	null 	months,	17	received	sentences	of	25-36	null 	months,	21	received	sentences	of	37-60	null 	months,	
+GT :	received	sentences	of	null 	13­24	months,	17	received	sentences	of	null 	25­36	months,	21	received	sentences	of	null 	37­60	months,	
+
+OCR:	and	B   	null	received	sentences	of	more	than	60	months	in	prison	In	FY	2010,	courts	sentenced	207	intel-	lectual	
+GT :	and	null	8   	received	sentences	of	more	than	60	months	in	prison	In	FY	2010,	courts	sentenced	207	intel-	lectual	
+
+OCR:	property	defendants	Of	these,	121	received	no	prison	term,	38	received	sentences	of	1-12	null	months,	27	received	sentences	of	
+GT :	property	defendants	Of	these,	121	received	no	prison	term,	38	received	sentences	of	null	1­12	months,	27	received	sentences	of	
+
+OCR:	13-24	null 	months,	10	received	sentences	of	25-36	null 	months,	7	received	sentences	of	37-60	null 	months,	and	4	received	
+GT :	null 	13­24	months,	10	received	sentences	of	null 	25­36	months,	7	received	sentences	of	null 	37­60	months,	and	4	received	
+
+OCR:	sentences	of	more	than	60	months	in	prison	In	FY	2009,	courts	sentenced	223	intellectual	property	defendants	Of	these,	126	
+GT :	sentences	of	more	than	60	months	in	prison	In	FY	2009,	courts	sentenced	223	intellectual	property	defendants	Of	these,	126	
+
+OCR:	received	no	prison	term,	35	received	sentences	of	1-12	null	months,	29	received	sentences	of	13-24	null 	months,	6	received	
+GT :	received	no	prison	term,	35	received	sentences	of	null	1­12	months,	29	received	sentences	of	null 	13­24	months,	6	received	
+
+OCR:	sentences	of	25-36	null 	months,	18	received	sentences	of	37-60	null 	months,	and	9	received	sentences	of	more	than	60	
+GT :	sentences	of	null 	25­36	months,	18	received	sentences	of	null 	37­60	months,	and	9	received	sentences	of	more	than	60	
+
+OCR:	months	in	prison	t   	DOJ	and	FBI	have	also	transmitted	to	Congress	their	PRO	IP	Act	Reports	for	2011,	describing	
+GT :	months	in	prison	null	DOJ	and	FBI	have	also	transmitted	to	Congress	their	PRO	IP	Act	Reports	for	2011,	describing	
+
+OCR:	in	greater	depth	the	criminal	investigations	and	prosecutions	of	intellectual	property	offenses	null   	for	FY	2011	*   	52	
+GT :	in	greater	depth	the	criminal	investigations	and	prosecutions	of	intellectual	property	null    	ofenses	for	FY	2011	null	52	
+

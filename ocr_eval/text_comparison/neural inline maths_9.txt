@@ -1,0 +1,48 @@
+OCR:	MADISETTY	ET	AL. 	null	null	Expert	Systems	WILEY	TABLE	3   	Results	comparison	of  	different	models	used	in  	our 	experimentation	t   	
+GT :	MADISETTY	ET	null	AL  	.   	Expert	Systems	WILEY	null 	null	null   	null      	null	null     	null  	null	null	null	null           	null	
+
+OCR:	null	Note:	The	first	three	models	are	from	literature,	whereas	the	remaining	ones	are	proposed	in	this	paper.	CRF2	is	
+GT :	9   	Note:	The	first	three	models	are	from	literature,	whereas	the	remaining	ones	are	proposed	in	this	paper.	CRF2	is	
+
+OCR:	our	feature-based	approach,	BIMExD	&	HIMExD	are	our	proposed	deep	learning	based	approaches.	Bi-LSTM-CRF	+	Features	are	built	on	top	
+GT :	our	feature-based	approach,	BIMExD	&	HIMExD	are	our	proposed	deep	learning	based	approaches.	Bi-LSTM-CRF	+	Features	are	built	on	top	
+
+OCR:	of	existing	Bi-LSTM-CRF	architecture.	Best	results	are	put	in	bold.	FIGURE	5	Macro	average	comparison	i   	Percentage	successful	impact	of	
+GT :	of	existing	Bi-LSTM-CRF	architecture.	Best	results	are	put	in	bold.	FIGURE	5	Macro	average	comparison	null	null      	successful	impact	of	
+
+OCR:	deep	learning	models	(as	they	capture	a	representation	of	important	features	efficiently).	Bar	charts	comparing	all	the	base-	line	and	
+GT :	deep	learning	models	(as	they	capture	a	representation	of	important	features	efficiently).	Bar	charts	comparing	all	the	base-	line	and	
+
+OCR:	proposed	methods	for	macro	average	and	micro	average	are	shown	in	Figures	5	and	6	respectively.	We	can	observe	that	
+GT :	proposed	methods	for	macro	average	and	micro	average	are	shown	in	Figures	5	and	6	respectively.	We	can	observe	that	
+
+OCR:	our	proposed	method	F-Measure	is	performing	better	than	all	other	baseline	approaches.	As	we	aim	to	achieve	better	evaluation	results	
+GT :	our	proposed	method	F-Measure	is	performing	better	than	all	other	baseline	approaches.	As	we	aim	to	achieve	better	evaluation	results	
+
+OCR:	for	minor	classes	(B-Math	and	I-Math),	in	this	section,	we	will	discuss	the	scores	of	each	class	in	detail.	The	
+GT :	for	minor	classes	(B-Math	and	I-Math),	in	this	section,	we	will	discuss	the	scores	of	each	class	in	detail.	The	
+
+OCR:	top	three	methods	which	are	performed	best	according	to	the	F-Measure	(as	described	in	Table	3)	are	analysed	further.	The	
+GT :	top	three	methods	which	are	performed	best	according	to	the	F-Measure	(as	described	in	Table	3)	are	analysed	further.	The	
+
+OCR:	class-	specific	performance	evaluation	of	different	models	is	shown	in	Table	4.	Results	of	the	Conditional	Random	Fields	(CRF2)	model	
+GT :	class-	specific	performance	evaluation	of	different	models	is	shown	in	Table	4.	Results	of	the	Conditional	Random	Fields	(CRF2)	model	
+
+OCR:	are	shown	in	Table	4.	For	all	the	evaluation	metrics	(precision,	recall,	f-measure)	the	score	for	O-Math	class	is	around	
+GT :	are	shown	in	Table	4.	For	all	the	evaluation	metrics	(precision,	recall,	f-measure)	the	score	for	O-Math	class	is	around	
+
+OCR:	99%	which	is	expected	because	O-Math	class	has	large	number	of	training	instances.	For	both	B-Math	and	I-math	classes,	precision	
+GT :	99%	which	is	expected	because	O-Math	class	has	large	number	of	training	instances.	For	both	B-Math	and	I-math	classes,	precision	
+
+OCR:	is	better	than	recall.	F-measure	is	better	for	the	I-Math	class	compared	to	the	B-Math	class.	BIMExD	results	are	shown	
+GT :	is	better	than	recall.	F-measure	is	better	for	the	I-Math	class	compared	to	the	B-Math	class.	BIMExD	results	are	shown	
+
+OCR:	in	Table	5.	The	performance	behaviour	for	the	O-Math	class	in	this	method	is	sim-	ilar	to	the	behaviour	for	
+GT :	in	Table	5.	The	performance	behaviour	for	the	O-Math	class	in	this	method	is	sim-	ilar	to	the	behaviour	for	
+
+OCR:	the	O-Math	class	in	the	CRF	method.	Precision	is	better	than	recall	for	both	B-Math	and	I-Math	classes.	In	BIMExD,	
+GT :	the	O-Math	class	in	the	CRF	method.	Precision	is	better	than	recall	for	both	B-Math	and	I-Math	classes.	In	BIMExD,	
+
+OCR:	F-	Measure	for	the	I-Math	class	is	higher	compared	to	the	B-Math	class.	
+GT :	F-	Measure	for	the	I-Math	class	is	higher	compared	to	the	B-Math	class.	
+

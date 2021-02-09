@@ -1,0 +1,102 @@
+OCR:	IEEE	Access	Multidisciplinary	:   	Rapid	Review	:   	Open	Access	Journal	Received	September	12,	2019,	accepted	September	24,	2019,	date	of	
+GT :	IEEE	Access	null             	null	null 	null  	null	null	null  	null   	Received	September	12,	2019,	accepted	September	24,	2019,	date	of	
+
+OCR:	publication	October	7,	2019,	date	of	current	version	October	16,	2019.	Digital	Object	Identifier	10. 	1109/ACCESS.2019.2945825	null                       	Detecting	Mathematical	Expressions	
+GT :	publication	October	7,	2019,	date	of	current	version	October	16,	2019.	Digital	Object	Identifier	null	null                    	10.1109/ACCESS.2019.2945825	Detecting	Mathematical	Expressions	
+
+OCR:	in	Scientific	Document	Images	Using	a	U-Net	Trained	on	a	Diverse	Dataset	WATARU	OHYAMA	null	,	(Member,	IEEE),	MASAKAZU	SUZUKI,	
+GT :	in	Scientific	Document	Images	Using	a	U-Net	Trained	on	a	Diverse	Dataset	WATARU	OHYAMA	1   	,	(Member,	IEEE),	MASAKAZU	null   	
+
+OCR:	null  	null	null	AND	SEIICHI	UCHIDA	null	,	(Member,	IEEE)	null	Graduate	null	null   	School	of	Engineering,	Saitama	Institute	of	
+GT :	SUZUKI	2   	,   	AND	SEIICHI	UCHIDA	3   	,	(Member,	IEEE)	1   	Graduate	2   	Faculty	School	of	Engineering,	Saitama	Institute	of	
+
+OCR:	Technology,	Fukaya-shi	3690293,	Japan	f   	null	Mathematics,	Kyushu	University,	Fukuoka	8190395,	Japan	Graduate	School	of	Information	Science	and	Electrical	Engineering,	
+GT :	Technology,	Fukaya-shi	3690293,	Japan	null	of  	Mathematics,	Kyushu	University,	Fukuoka	8190395,	Japan	null    	School	of	Information	Science	and	Electrical	Engineering,	
+
+OCR:	Kyushu	University,	Fukuoka	8190395,	Japan	null	null    	Corresponding	author:	Wataru	Ohyama	(ohyama@sit.ac.jp)	This	work	was	supported	in	part	by	JSPS	
+GT :	Kyushu	University,	Fukuoka	8190395,	Japan	3   	Graduate	Corresponding	author:	Wataru	Ohyama	(ohyama@sit.ac.jp)	This	work	was	supported	in	part	by	JSPS	
+
+OCR:	KAKENHI	under	Grant	JP17H06100.	:   	ABSTRACT	A	detection	method	for	mathematical	expressions	in	scientific	document	images	is	proposed.	Inspired	by	
+GT :	KAKENHI	under	Grant	JP17H06100.	null	ABSTRACT	A	detection	method	for	mathematical	expressions	in	scientific	document	images	is	proposed.	Inspired	by	
+
+OCR:	the	promising	performance	of	U-Net,	a	convolutional	network	architecture	originally	proposed	for	the	semantic	segmentation	of	biomedical	images,	the	proposed	
+GT :	the	promising	performance	of	U-Net,	a	convolutional	network	architecture	originally	proposed	for	the	semantic	segmentation	of	biomedical	images,	the	proposed	
+
+OCR:	method	uses	image	conversion	by	a	U-Net	framework.	The	proposed	method	does	not	use	any	information	from	mathematical	and	linguistic	
+GT :	method	uses	image	conversion	by	a	U-Net	framework.	The	proposed	method	does	not	use	any	information	from	mathematical	and	linguistic	
+
+OCR:	grammar	so	that	it	can	be	a	supplemental	bypass	in	the	conventional	mathematical	optical	character	recognition	(OCR)	process	pipeline.	The	
+GT :	grammar	so	that	it	can	be	a	supplemental	bypass	in	the	conventional	mathematical	optical	character	recognition	(OCR)	process	pipeline.	The	
+
+OCR:	evaluation	experiments	confirmed	that	(1)	the	performance	of	mathematical	symbol	and	expression	detection	by	the	proposed	method	is	superior	to	
+GT :	evaluation	experiments	confirmed	that	(1)	the	performance	of	mathematical	symbol	and	expression	detection	by	the	proposed	method	is	superior	to	
+
+OCR:	that	of	InftyReader,	which	is	state-of-the-	art	software	for	mathematical	OCR;	(2)	the	coverage	of	the	training	dataset	to	the	
+GT :	that	of	InftyReader,	which	is	state-of-the-	art	software	for	mathematical	OCR;	(2)	the	coverage	of	the	training	dataset	to	the	
+
+OCR:	variation	of	document	style	is	important;	and	(3)	retraining	with	small	additional	training	samples	will	be	effective	to	improve	the	
+GT :	variation	of	document	style	is	important;	and	(3)	retraining	with	small	additional	training	samples	will	be	effective	to	improve	the	
+
+OCR:	performance.	An	additional	contribution	is	the	release	of	a	dataset	for	benchmarking	the	OCR	for	scientific	documents.	INDEX	TERMS	Character	
+GT :	performance.	An	additional	contribution	is	the	release	of	a	dataset	for	benchmarking	the	OCR	for	scientific	documents.	INDEX	TERMS	Character	
+
+OCR:	recognition,	neural	networks,	object	detection.	I.	INTRODUCTION	The	performance	and	effectiveness	of	document	retrieval	systems	heavily	depend	on	both	the	
+GT :	recognition,	neural	networks,	object	detection.	I.	INTRODUCTION	The	performance	and	effectiveness	of	document	retrieval	systems	heavily	depend	on	both	the	
+
+OCR:	amount	and	quality	of	registered	document	content.	Although	born-digital	docu-	ments	have	become	more	common	recently,	a	large	number	of	
+GT :	amount	and	quality	of	registered	document	content.	Although	born-digital	docu-	ments	have	become	more	common	recently,	a	large	number	of	
+
+OCR:	printed	documents	remain.	To	input	such	printed	documents	into	retrieval	systems,	optical	character	recognition	(OCR)	techniques	have	been	used	for	
+GT :	printed	documents	remain.	To	input	such	printed	documents	into	retrieval	systems,	optical	character	recognition	(OCR)	techniques	have	been	used	for	
+
+OCR:	digitizing	documents	for	a	long	time.	Continuous	research	and	development	over	the	last	five	decades	have	achieved	OCR	techniques	that	
+GT :	digitizing	documents	for	a	long	time.	Continuous	research	and	development	over	the	last	five	decades	have	achieved	OCR	techniques	that	
+
+OCR:	are	sufficiently	mature	for	such	a	purpose.	Although	OCR	techniques	demonstrate	good	performance	for	digitizing	ordinary	text	in	documents,	there	
+GT :	are	sufficiently	mature	for	such	a	purpose.	Although	OCR	techniques	demonstrate	good	performance	for	digitizing	ordinary	text	in	documents,	there	
+
+OCR:	is	still	scope	for	improvement	in	the	recognition	accuracy	of	mathematical	expressions	(MEs).	MEs	are	essential	information	containers,	particularly	for	
+GT :	is	still	scope	for	improvement	in	the	recognition	accuracy	of	mathematical	expressions	(MEs).	MEs	are	essential	information	containers,	particularly	for	
+
+OCR:	scientific	articles	and	textbooks.	The	accurate	recognition	of	MEs	is	strongly	expected	because	it	has	a	wide	variety	of	applications,	
+GT :	scientific	articles	and	textbooks.	The	accurate	recognition	of	MEs	is	strongly	expected	because	it	has	a	wide	variety	of	applications,	
+
+OCR:	for	instance,	correct	retrieval,	automatic	proofing	of	MEs,	and	learning	support	for	blind	The	associate	editor	coordinating	the	review	of	
+GT :	for	instance,	correct	retrieval,	automatic	proofing	of	MEs,	and	learning	support	for	blind	The	associate	editor	coordinating	the	review	of	
+
+OCR:	this	manuscript	and	approving	it	for	publication	was	Habib	Ullah.	144030	This	work	is  	licensed	under	a   	Creative	Commons	Attribution	
+GT :	this	manuscript	and	approving	it	for	publication	was	Habib	null  	null  	null	null	null	null    	null 	null	null    	null   	null       	
+
+OCR:	4.0 	License.	For 	more	information,	see 	http://creativecommons.org/licenses/by/4.0/	null 	null	or	handicapped	people.	ME	recognition	has	been	considered	and	developed	as	
+GT :	null	null    	null	null	null        	null	null                                       	Ullah	.   	or	handicapped	people.	ME	recognition	has	been	considered	and	developed	as	
+
+OCR:	an	independent	module	outside	of	ordinary	OCR	because	of	the	distinctive	properties	of	MEs,	where	spatial	structures	and	spatial	relationships	
+GT :	an	independent	module	outside	of	ordinary	OCR	because	of	the	distinctive	properties	of	MEs,	where	spatial	structures	and	spatial	relationships	
+
+OCR:	between	symbols	contain	mathematical	information.	Zanibbi	and	Blostein	[1]	stated	that	there	are	four	key	prob-	ems 	null	in	ME	
+GT :	between	symbols	contain	mathematical	information.	Zanibbi	and	Blostein	[1]	stated	that	there	are	four	key	prob-	null	lems	in	ME	
+
+OCR:	recognition:	ME	detection,	symbol	extraction	and	recognition,	layout	analysis	and	mathematical	content	interpretation.	These	four	problems	are	closely	related	to	
+GT :	recognition:	ME	detection,	symbol	extraction	and	recognition,	layout	analysis	and	mathematical	content	interpretation.	These	four	problems	are	closely	related	to	
+
+OCR:	each	other.	In	particular,	ME	detection	has	a	large	influence	on	other	tasks.	There	are	two	types	of	MEs:	displayed	
+GT :	each	other.	In	particular,	ME	detection	has	a	large	influence	on	other	tasks.	There	are	two	types	of	MEs:	displayed	
+
+OCR:	and	in-	line,	as	shown	in	Figure	1.	The	detection	processes	for	each	displayed	(offset	from	text	lines)	and	in-line	
+GT :	and	in-	line,	as	shown	in	Figure	1.	The	detection	processes	for	each	displayed	(offset	from	text	lines)	and	in-line	
+
+OCR:	(embedded	in	text	lines)	ME	are	usually	implemented	separately.	When	an	in-line	ME	is	not	detected,	the	expression	is	passed	
+GT :	(embedded	in	text	lines)	ME	are	usually	implemented	separately.	When	an	in-line	ME	is	not	detected,	the	expression	is	passed	
+
+OCR:	to	the	recognition	module	for	ordinary	characters	even	though	it	should	be	passed	the	recognition	module	for	mathematical	symbols.	This	
+GT :	to	the	recognition	module	for	ordinary	characters	even	though	it	should	be	passed	the	recognition	module	for	mathematical	symbols.	This	
+
+OCR:	scenario	commonly	occurs,	and	the	undetected	ME	may	cause	recognition	errors	that	cannot	be	easily	cor-	rected	in	subsequent	postprocessing	
+GT :	scenario	commonly	occurs,	and	the	undetected	ME	may	cause	recognition	errors	that	cannot	be	easily	cor-	rected	in	subsequent	postprocessing	
+
+OCR:	modules.	Because	of	the	high	performance	of	deep	neural	networks	(DNNs),	particularly	convolutional	neural	null	null	null	null    	null 	null	
+GT :	modules.	Because	of	the	high	performance	of	deep	neural	networks	(DNNs),	particularly	convolutional	neural	This	work	is  	licensed	under	a   	
+
+OCR:	null    	null   	null       	null	null    	null	null	null        	null	null                                       	null  	VOLUME	7,	2019	
+GT :	Creative	Commons	Attribution	4.0 	License.	For 	more	information,	see 	http://creativecommons.org/licenses/by/4.0/	144030	VOLUME	7,	2019	
+

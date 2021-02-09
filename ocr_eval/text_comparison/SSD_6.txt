@@ -1,0 +1,84 @@
+OCR:	i   	Fig.	6:	Detection	results.	Detected	formulas	are	shown	as	blue	bounding	boxes.	Split	formulas	are	highlighted	in	pink	(3rd	
+GT :	null	Fig.	6:	Detection	results.	Detected	formulas	are	shown	as	blue	bounding	boxes.	Split	formulas	are	highlighted	in	pink	(3rd	
+
+OCR:	panel),	and	merged	formulas	are	highlighted	in	green	(4th	panel).	A	small	number	of	false	negatives	(red)	and	false	positives	
+GT :	panel),	and	merged	formulas	are	highlighted	in	green	(4th	panel).	A	small	number	of	false	negatives	(red)	and	false	positives	
+
+OCR:	(yellow)	are	produced.	with	SSD512	performs	far	better	(+5%	f-score)	than	SSD300,	[31]	and	cross-entropy	loss	with	hard-negative	mining	performs	
+GT :	(yellow)	are	produced.	with	SSD512	performs	far	better	(+5%	f-score)	than	SSD300,	[31]	and	cross-entropy	loss	with	hard-negative	mining	performs	
+
+OCR:	better	than	focal-loss	[32]	(with	or	without	hard-negative	mining).	Focal-loss	reshapes	the	standard	cross	entropy	loss	such	that	it	down-weights	
+GT :	better	than	focal-loss	[32]	(with	or	without	hard-negative	mining).	Focal-loss	reshapes	the	standard	cross	entropy	loss	such	that	it	down-weights	
+
+OCR:	the	loss	for	well-classified	examples.	We	evaluated	SSD	models	with	different	parameters7	null      	null	and	found	that	our	HBOXES512	model,	
+GT :	the	loss	for	well-classified	examples.	We	evaluated	SSD	models	with	different	null       	parameters	7   	and	found	that	our	HBOXES512	model,	
+
+OCR:	which	introduces	additional	default	box	aspect	ratios	(see	Section	IV-B)	performs	better	than	SSD512,	and	MATH512	performs	better	than	HBOXES512.	
+GT :	which	introduces	additional	default	box	aspect	ratios	(see	Section	IV-B)	performs	better	than	SSD512,	and	MATH512	performs	better	than	HBOXES512.	
+
+OCR:	For	HBOXES512	we	used	default	boxes	with	aspect	ratios	{1,	2,	3,	5,	7,	10}	instead	of	default	boxes	with	
+GT :	For	HBOXES512	we	used	default	boxes	with	aspect	ratios	{1,	2,	3,	5,	7,	10}	instead	of	default	boxes	with	
+
+OCR:	aspect	ratios	{1,	2,	3,	1/2,	1/3}	for	SSD512.	MATH512	uses	default	boxes	with	aspect	ratios	{1,	2,	3,	5,	
+GT :	aspect	ratios	{1,	2,	3,	1/2,	1/3}	for	SSD512.	MATH512	uses	default	boxes	with	aspect	ratios	{1,	2,	3,	5,	
+
+OCR:	7,	10}	as	well	as	rectangular	kernels	of	size	1	x   	null	5	rather	than	the	outperforms	the 	other	systems	
+GT :	7,	10}	as	well	as	rectangular	kernels	of	size	1	null	×   	5	rather	than	the	null       	null	null 	null   	
+
+OCR:	from	the 	competition	that	did 	square	3	x   	null	3	kernel	used	in	SSD512.	From	our	experiments	on	the	validation	
+GT :	null	null	null       	null	null	square	3	null	×   	3	kernel	used	in	SSD512.	From	our	experiments	on	the	validation	
+
+OCR:	set,	we	observed	that	the	MATH512	model	consistently	obtained	the	best	detection	results	for	the	512	x   	null	512	inputs	
+GT :	set,	we	observed	that	the	MATH512	model	consistently	obtained	the	best	detection	results	for	the	512	null	×   	512	inputs	
+
+OCR:	(by	0.5%	to	1.0%	f-score).	So	we	use	MATH512	for	our	evaluation.	We	then	re-trained	MATH512	are 	0.8518	for 	Erbe94,	
+GT :	(by	0.5%	to	1.0%	f-score).	So	we	use	MATH512	for	our	evaluation.	We	then	re-trained	MATH512	null	null  	null	null   	
+
+OCR:	and 	0.5898	for 	Emden76.	We  	think	using	all	TFD-ICDAR2019v2	training	data.	ScanSSD	was	built	starting	from	an	existing	PyTorch	SSD	
+GT :	null	null  	null	null    	null	null 	using	all	TFD-ICDAR2019v2	training	data.	ScanSSD	was	built	starting	from	an	existing	PyTorch	SSD	
+
+OCR:	implementation	null           	null	The	VGG16	sub-network	was	pre-trained	on	ImageNet	(33].	null 	B.	Quantitative	Results	We	used	two	evaluation	methods,	
+GT :	null          	implementation.	8   	The	VGG16	sub-network	was	pre-trained	on	ImageNet	null 	[33].	B.	Quantitative	Results	We	used	two	evaluation	methods,	
+
+OCR:	based	on	the	ICDAR	2019	Typeset	Formula	Detection	competition	[5) 	null	(Table	[II),	null	and	the	threshold	of  	1.0).	Requiring	
+GT :	based	on	the	ICDAR	2019	Typeset	Formula	Detection	competition	null	[5] 	(Table	null 	II),	and	the	null     	null	null 	null     	
+
+OCR:	this	exact	matching	of  	detected	character-level	detection	metrics	used	by	Ohyama	et	al.	(4) 	Table	III.	null	null  	null 	null	
+GT :	null	null 	null    	null	null    	character-level	detection	metrics	used	by	Ohyama	et	al.	null	null 	null	[4] 	(Table	III).	7   	
+
+OCR:	Details	are	available	in	31| 	null	null	https://github.com/amdegroot/ssd.pytorch	TABLE	II:	Results	for	TFD-ICDAR2019	t   	Used	TFD-ICDAR2019v2	dataset	Earlier	ScanSSD,	placed	
+GT :	Details	are	available	in	null	[31]	8   	https://github.com/amdegroot/ssd.pytorch	TABLE	II:	Results	for	TFD-ICDAR2019	null	null	null           	null   	null   	null    	null  	
+
+OCR:	2nd 	in  	TFD-ICDAR	2019	competition	5   	Used	character	information	Formula	detection.	An	earlier	version	of	ScanSSD	placed	second	in	the	
+GT :	null	null	null     	null	null       	null	null	null     	null       	Formula	detection.	An	earlier	version	of	ScanSSD	placed	second	in	the	
+
+OCR:	ICDAR	2019	competition	on	Typeset	Formula	Detection	(TFD)	[5)"	null	null	The	new	ScanSSD	system	null       	null	null 	null   	null	
+GT :	ICDAR	2019	competition	on	Typeset	Formula	Detection	(TFD)	null	[5].	9   	The	new	ScanSSD	system	outperforms	the 	other	systems	from	
+
+OCR:	null	null       	null	null	not	use	character	locations	and	labels	from	ground	truth.	Figure	7gives	null	null 	the	document-level	f-scores	
+GT :	the 	competition	that	did 	not	use	character	locations	and	labels	from	ground	truth.	Figure	null  	7   	gives	the	document-level	f-scores	
+
+OCR:	for	each	of	the	10	testing	documents,	for	matching	constraints	IOU	>   	null	0.5	and	IOU	>   	null	0.75.	The	
+GT :	for	each	of	the	10	testing	documents,	for	matching	constraints	IOU	null	≥   	0.5	and	IOU	null	≥   	0.75.	The	
+
+OCR:	highest	and	lowest	f-scores	for	IOU	>   	null	0.75	null	null  	null	null   	null	null  	null	null    	null	null 	this	
+GT :	highest	and	lowest	f-scores	for	IOU	null	≥   	0.75	are 	0.8518	for 	Erbe94,	and 	0.5898	for 	Emden76.	We  	think	this	
+
+OCR:	variance	is	due	to	document	styles:	we	have	more	training	documents	with	a	style	similar	to	Erbe94	than	Emden	76. 	
+GT :	variance	is	due	to	document	styles:	we	have	more	training	documents	with	a	style	similar	to	Erbe94	than	null 	null	
+
+OCR:	null    	With	more	diverse	training	data	we	expect	better	results.	Examining	the	effect	of	the	IOU	matching	threshold	on	results	
+GT :	Emden76.	With	more	diverse	training	data	we	expect	better	results.	Examining	the	effect	of	the	IOU	matching	threshold	on	results	
+
+OCR:	demonstrates	that	the	detection	regions	found	by	ScanSSD	are	highly	precise:	70.9%	of	the	ground-truth	formulas	are	found	at	their	
+GT :	demonstrates	that	the	detection	regions	found	by	ScanSSD	are	highly	precise:	70.9%	of	the	ground-truth	formulas	are	found	at	their	
+
+OCR:	exact	location	(i.e.,	IOU	null     	null	null 	null     	null	null 	null    	null	null    	and	ground	truth	formulas	also	yields	a	
+GT :	exact	location	(i.e.,	IOU	threshold	of  	1.0).	Requiring	this	exact	matching	of  	detected	and	ground	truth	formulas	also	yields	a	
+
+OCR:	precision	of	62.67%,	and	an	f-score	of	66.5%.	To	obtain	a	more	complete	picture,	we	next	look	at	the	detection	
+GT :	precision	of	62.67%,	and	an	f-score	of	66.5%.	To	obtain	a	more	complete	picture,	we	next	look	at	the	detection	
+
+OCR:	of	math	symbols.	"The	null	null	first	place	system	used	provided	character	information.	
+GT :	of	math	symbols.	null	9   	The 	first	place	system	used	provided	character	information.	
+

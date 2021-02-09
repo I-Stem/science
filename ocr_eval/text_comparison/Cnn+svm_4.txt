@@ -1,0 +1,63 @@
+OCR:	TABLE	I:	Number	of	word	and	variable	images	in	the	testing	datasets	t   	t   	null 	null	null          	null    	null   	null 	
+GT :	TABLE	I:	Number	of	word	and	variable	images	in	the	testing	datasets	null	null	TABLE	II: 	Classification	accuracy	results	(Bold	
+
+OCR:	null 	null     	null	null   	null  	null	null	null    	null	null	null	Fig.	4:	Examples	of	a	word	(a);	a	variable	
+GT :	value	indicates	the 	highest	scores	of  	the 	methods)	pair	i   	Ri  	Fig.	4:	Examples	of	a	word	(a);	a	variable	
+
+OCR:	contains	a	single	character	(b)	and	a	variable	contains	an	index	(c)	i   	Fig.	5:	Representation	of	feature	of	variable	
+GT :	contains	a	single	character	(b)	and	a	variable	contains	an	index	(c)	null	Fig.	5:	Representation	of	feature	of	variable	
+
+OCR:	and	word	extracted	by	Resnet-50	B.	Performance	evaluation	1)	Baseline	and	performance	measures:	As	a	baseline,	the	e   	posed	method	
+GT :	and	word	extracted	by	Resnet-50	B.	Performance	evaluation	1)	Baseline	and	performance	measures:	As	a	baseline,	the	null	null 	null  	
+
+OCR:	and 	existing	ones	are 	shown	in  	the 	table	II. 	existing	methods	in	[11]	and	[12]	are	used	for	the	classification	
+GT :	null	existing	null	null	null 	null	null	null 	null	null    	methods	in	[11]	and	[12]	are	used	for	the	classification	
+
+OCR:	of	variable	and	word.	Moreover,	fine-tuning	CNNs	is	used	for	evaluating	the	performance	of	the	classification.	Fine-tuning	a	network	is	
+GT :	of	variable	and	word.	Moreover,	fine-tuning	CNNs	is	used	for	evaluating	the	performance	of	the	classification.	Fine-tuning	a	network	is	
+
+OCR:	the	reuse	of	a	tuned	network	for	a	new	task	of	classification.	The	technique	is	adopted	because	the	number	er  	
+GT :	the	reuse	of	a	tuned	network	for	a	new	task	of	classification.	The	technique	is	adopted	because	the	number	null	
+
+OCR:	to  	extract	features	of	images	better	than	existing	methods.	of  	variable	and	word	images	is	not	enough	to	train	the	
+GT :	null	null   	null    	of	null  	null  	null	null    	null    	null	variable	and	word	images	is	not	enough	to	train	the	
+
+OCR:	CNNs	from	scratch.	By	using	the	technique,	the	variable	and	word	images	are	classified	by	the	Softmax	classifier	that	is	
+GT :	CNNs	from	scratch.	By	using	the	technique,	the	variable	and	word	images	are	classified	by	the	Softmax	classifier	that	is	
+
+OCR:	the	last	t   	feature	distribution	is  	represented	by  	using	the 	dimensional	layer	of	the	CNNS.	null 	In	our	work,	the	
+GT :	the	last	null	null   	null        	null	null       	null	null 	null	null       	layer	of	the	null 	CNNs.	In	our	work,	the	
+
+OCR:	Precision	(P),	Recall	(R)	and	Fl  	null	score	e   	(PCA)	[19].	Actually,	1000	features	of  	variable	and 	word	are	used	
+GT :	Precision	(P),	Recall	(R)	and	null	F1  	score	null	null 	null 	null     	null	null    	null	null    	null	null	are	used	
+
+OCR:	for	the	performance	evaluation.	Precision	is	the	proportion	of	the	true	positives	against	all	the	positive	results;	Recall	is	the	
+GT :	for	the	performance	evaluation.	Precision	is	the	proportion	of	the	true	positives	against	all	the	positive	results;	Recall	is	the	
+
+OCR:	proportion	of	the	true	positives	against	all	the	true	results	and	FI  	null	score	is	the	harmonic	mean	of	precision	
+GT :	proportion	of	the	true	positives	against	all	the	true	results	and	null	F1  	score	is	the	harmonic	mean	of	precision	
+
+OCR:	and	recall.	2)	Performance:	The	performance	comparisons	of	the	pro-	null 	null  	null	null    	null	null	null 	null	null	null 	
+GT :	and	recall.	2)	Performance:	The	performance	comparisons	of	the	pro-	posed	method	and 	existing	ones	are 	shown	in  	the 	table	
+
+OCR:	null	Comparing	to	traditional	methods,	the	uses	of	CNNs	and	SVM	in	our	work	show	higher	accuracy.	The	accuracy	in	
+GT :	II. 	Comparing	to	traditional	methods,	the	uses	of	CNNs	and	SVM	in	our	work	show	higher	accuracy.	The	accuracy	in	
+
+OCR:	the	classification	of	variable	and	textual	word	much	improves.	The	out-performance	comes	from	the	fact	that	the	CNNs	allow	null	
+GT :	the	classification	of	variable	and	textual	word	much	improves.	The	out-performance	comes	from	the	fact	that	the	CNNs	allow	to  	
+
+OCR:	null   	null    	null	null  	null  	null	null    	null    	Fig.	5	illustrates	the	features	of	340	images	of	each	type	of	
+GT :	extract	features	of  	images	better	than	existing	methods.	Fig.	5	illustrates	the	features	of	340	images	of	each	type	of	
+
+OCR:	variable	and	word	that	are	extracted	by	Resnet-50.	The	null   	null        	null	null       	null	null 	null	null       	reduction	technique	that	
+GT :	variable	and	word	that	are	extracted	by	Resnet-50.	The	feature	distribution	is  	represented	by  	using	the 	dimensional	reduction	technique	that	
+
+OCR:	is	Principal	Component	Analysis	null 	null 	null     	null	null    	null	null    	null	null	images	are	extracted	by	using	Resnet-50.	The	
+GT :	is	Principal	Component	Analysis	(PCA)	[19].	Actually,	1000	features	of  	variable	and 	word	images	are	extracted	by	using	Resnet-50.	The	
+
+OCR:	PCA	technique	allows	to	represent	the	features	in	2-D	space	efficiently.	The	feature	representation	illustrates	the	classification	possibility	of	variable	
+GT :	PCA	technique	allows	to	represent	the	features	in	2-D	space	efficiently.	The	feature	representation	illustrates	the	classification	possibility	of	variable	
+
+OCR:	and	textual	word.	The	method	using	orientation	of	gradient	in	[1  	1]  	null	heavily	relies	on	the	calculation	of	skew	
+GT :	and	textual	word.	The	method	using	orientation	of	gradient	in	null	null	[11]	heavily	relies	on	the	calculation	of	skew	
+

@@ -1,0 +1,54 @@
+OCR:	QUALITATIVE	OBSERVATIONS	Key	elements	of	a	thorough	threat	assessment	include	such	items	as	the	subject's	null     	motive	and	goal	in	
+GT :	QUALITATIVE	OBSERVATIONS	Key	elements	of	a	thorough	threat	assessment	include	such	items	as	the	null     	subject’s	motive	and	goal	in	
+
+OCR:	carrying	out	an	attack,	triggering	life	events,	target	selection,	and/or	prior	concerning	or	threatening	behavior.	These	elements	are	at	times	
+GT :	carrying	out	an	attack,	triggering	life	events,	target	selection,	and/or	prior	concerning	or	threatening	behavior.	These	elements	are	at	times	
+
+OCR:	difficult	to	discern	due	to	the	availability	of	information	and	subjectivity	of	their	interpretation.	Information	related	to	these	elements	is	
+GT :	difficult	to	discern	due	to	the	availability	of	information	and	subjectivity	of	their	interpretation.	Information	related	to	these	elements	is	
+
+OCR:	particularly	difficult	to	gather	from	open-sources,	which	do	not	always	contain	complete	and	accurate	reporting.	Efforts	were	made	to	gather	
+GT :	particularly	difficult	to	gather	from	open-sources,	which	do	not	always	contain	complete	and	accurate	reporting.	Efforts	were	made	to	gather	
+
+OCR:	as	much	information	as	possible	to	provide	an	initial	description	of	the	motives	and	triggers,	targeting,	and	pre-incident	behaviors	of	
+GT :	as	much	information	as	possible	to	provide	an	initial	description	of	the	motives	and	triggers,	targeting,	and	pre-incident	behaviors	of	
+
+OCR:	concern.	When	the	information	was	reported,	judgments	were	made	as	to	its	completeness	and	apparent	accuracy.	A	more	in-	depth	
+GT :	concern.	When	the	information	was	reported,	judgments	were	made	as	to	its	completeness	and	apparent	accuracy.	A	more	in-	depth	
+
+OCR:	analysis	of	each	of	these	elements	would	require	additional	data	other	than	what	is	available	through	open-source.	What	factors	motivated	
+GT :	analysis	of	each	of	these	elements	would	require	additional	data	other	than	what	is	available	through	open-source.	What	factors	motivated	
+
+OCR:	or	triggered	the	attacks?	Generally,	several	categories	were	observed	among	the	incidents	regarding	the	factors	that	may	have	played	a	
+GT :	or	triggered	the	attacks?	Generally,	several	categories	were	observed	among	the	incidents	regarding	the	factors	that	may	have	played	a	
+
+OCR:	role	in	the	subjects'	null     	decision	to	carry	out	the	directed	assault.	These	factors	fall	broadly	within	areas	related	to	
+GT :	role	in	the	null     	subjects’	decision	to	carry	out	the	directed	assault.	These	factors	fall	broadly	within	areas	related	to	
+
+OCR:	personal	relations,	academic	performance,	workplace	issues,	and/or	individual	stressors	(see	Table	7;	for	definitions,	see	Appendix	C).	Although	it	was	
+GT :	personal	relations,	academic	performance,	workplace	issues,	and/or	individual	stressors	(see	Table	7;	for	definitions,	see	Appendix	C).	Although	it	was	
+
+OCR:	recognized	that	multiple	factors	may	have	motivated	or	triggered	the	offenders'	null      	violent	acts,	efforts	were	made	to	identify	the	
+GT :	recognized	that	multiple	factors	may	have	motivated	or	triggered	the	null      	offenders’	violent	acts,	efforts	were	made	to	identify	the	
+
+OCR:	most	prominent	ones	and	the	incidents	were	categorized	accordingly.	In	17	percent	(n	=	45)	of	the	cases,	either	the	
+GT :	most	prominent	ones	and	the	incidents	were	categorized	accordingly.	In	17	percent	(n	=	45)	of	the	cases,	either	the	
+
+OCR:	motivating	and/or	triggering	factors	were	completely	unknown	or	they	were	less	apparent	as	various	factors	specific	to	the	subject	and	
+GT :	motivating	and/or	triggering	factors	were	completely	unknown	or	they	were	less	apparent	as	various	factors	specific	to	the	subject	and	
+
+OCR:	his/her	environment	appeared	to	influence	the	decision	to	engage	in	the	violent	behavior.	Those	incidents	in	which	the	motive	and/or	
+GT :	his/her	environment	appeared	to	influence	the	decision	to	engage	in	the	violent	behavior.	Those	incidents	in	which	the	motive	and/or	
+
+OCR:	trigger	was	not	apparent	were	excluded	from	Table	7.	Table	7:	Factors	that	Motivated	or	Triggered	the	Directed	Assaults	t   	
+GT :	trigger	was	not	apparent	were	excluded	from	Table	7.	Table	7:	Factors	that	Motivated	or	Triggered	the	Directed	Assaults	null	
+
+OCR:	As	noted	in	Table	7,	the	most	prevalent	category	identified	related	to	current	or	former	personal	relationships	between	the	subject	
+GT :	As	noted	in	Table	7,	the	most	prevalent	category	identified	related	to	current	or	former	personal	relationships	between	the	subject	
+
+OCR:	and	victim,	followed	by	retaliation	for	specific	actions.	Future	research	should	examine	primary	source	materials,	which	may	offer	more	insight	
+GT :	and	victim,	followed	by	retaliation	for	specific	actions.	Future	research	should	examine	primary	source	materials,	which	may	offer	more	insight	
+
+OCR:	into	the	underlying	motives	and	triggers	related	to	these	incidents.	Campus	Attacks	Page	18	
+GT :	into	the	underlying	motives	and	triggers	related	to	these	incidents.	Campus	Attacks	Page	18	
+

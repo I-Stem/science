@@ -1,0 +1,114 @@
+OCR:	t   	Liu 	et  	al. 	2   	0.3355	0.8836	t   	TABLE	null	null   	null	null	null 	null    	null 	null	null	null       	null 	
+GT :	null	null	null	null	null	null  	null  	null	TABLE	II  	RESULTS	FOR 	THE 	TABLE	LOCATION	(LOC)	SUB 	-   	COMPETITION	TABLE	
+
+OCR:	III	RESULTS	FOR	THE	TABLE	STRUCTURE	RECOGNITION	(STR)	SUB-COMPETITION	(BASED	null	null	null       	null	null 	ON	CORRECT	REGION	INFORMATION)	t   	
+GT :	III	RESULTS	FOR	THE	TABLE	STRUCTURE	RECOGNITION	(STR)	null           	null  	SUB 	-   	COMPETITION	(   	BASED	ON	CORRECT	REGION	null        	null	
+
+OCR:	Per-document	averages	null       	null	TABLE	IV	TABLE	STRUCTURE	RECOGNITION	RESULTS	FOR	THE	COMPLETE	PROCESS	(COM)	-	BASED	ON	THE	SYSTEM'S	
+GT :	null        	null    	INFORMATION	)   	TABLE	IV	TABLE	STRUCTURE	RECOGNITION	RESULTS	FOR	THE	COMPLETE	PROCESS	(COM)	-	BASED	ON	THE	null    	
+
+OCR:	null    	TABLE	LOCATION	RESULT	Our	evaluation	metrics	were	found	to	be	a	fair	representation	of	the	actual	quality	of	the	
+GT :	SYSTEM’S	TABLE	LOCATION	RESULT	Our	evaluation	metrics	were	found	to	be	a	fair	representation	of	the	actual	quality	of	the	
+
+OCR:	output	from	the	various	systems.	bination	null	null       	of	completeness	and	purity	with	precision	and	recall	on	the	character	level	
+GT :	output	from	the	various	systems.	null    	The 	combination	of	completeness	and	purity	with	precision	and	recall	on	the	character	level	
+
+OCR:	gives	a	good	overall	picture	of	the	region	detection	quality.	Similarly,	we	have	found	that	using	cell	adjacenty	null     	relations	
+GT :	gives	a	good	overall	picture	of	the	region	detection	quality.	Similarly,	we	have	found	that	using	cell	null     	adjacency	relations	
+
+OCR:	to	evaluate	table	structure	detection	enables	us	to	obtain	precision	and	recall	measures	which	are	repeatable	and	accurately	reflect	the	
+GT :	to	evaluate	table	structure	detection	enables	us	to	obtain	precision	and	recall	measures	which	are	repeatable	and	accurately	reflect	the	
+
+OCR:	quality	of	the	result.	By	calculating	the	results	for	each	document	first,	we	were	able	to	reduce	the	bias	of	
+GT :	quality	of	the	result.	By	calculating	the	results	for	each	document	first,	we	were	able	to	reduce	the	bias	of	
+
+OCR:	"data-heavy"	null        	tables	on	the	overall	result.	A	further	improvement	for	the	future	would	be	to	evaluate	regions	by	calculating	
+GT :	null        	“data-heavy”	tables	on	the	overall	result.	A	further	improvement	for	the	future	would	be	to	evaluate	regions	by	calculating	
+
+OCR:	the	area	(in	square	points)	of	region	overlap	instead	of	counting	characters,	after	'normalizing"	null         	each	region	first	by	shrinking	
+GT :	the	area	(in	square	points)	of	region	overlap	instead	of	counting	characters,	after	null         	“normalizing”	each	region	first	by	shrinking	
+
+OCR:	it	to	the	smallest	region	encompassing	all	characters	within	its	bounds.	This	would	avoid	regions	containing	overprinted	or	non-printing	characters	
+GT :	it	to	the	smallest	region	encompassing	all	characters	within	its	bounds.	This	would	avoid	regions	containing	overprinted	or	non-printing	characters	
+
+OCR:	skewing	the	result.	The	structure	results	for	the	complete	process	(see	Table	IV)	should	also	be	treated	with	some	caution.	
+GT :	skewing	the	result.	The	structure	results	for	the	complete	process	(see	Table	IV)	should	also	be	treated	with	some	caution.	
+
+OCR:	A	number	of	systems	1453	Fig.	1.	Comparison	of	results	with	ruled	versus	unruled	tables	for	the	complete	process	sub-competition	
+GT :	A	number	of	systems	null	Fig.	1.	Comparison	of	results	with	ruled	versus	unruled	tables	for	the	complete	process	sub-competition	
+
+OCR:	returned	large	false	positive	regions,	whose	table	structure	consisted	of	only	one	cell.	In	many	cases,	this	huge	cell	only	
+GT :	returned	large	false	positive	regions,	whose	table	structure	consisted	of	only	one	cell.	In	many	cases,	this	huge	cell	only	
+
+OCR:	neighboured	one	or	two	other	cells,	and	therefore	did	not	raise	the	overall	false	positive	count	significantly.	A	further	issue	
+GT :	neighboured	one	or	two	other	cells,	and	therefore	did	not	raise	the	overall	false	positive	count	significantly.	A	further	issue	
+
+OCR:	with	our	structure	recognition	metric	is	in	the	comparison	of	adjacenty	null     	relations	by	their	textual	content.	Although	our	normalization	
+GT :	with	our	structure	recognition	metric	is	in	the	comparison	of	null     	adjacency	relations	by	their	textual	content.	Although	our	normalization	
+
+OCR:	routine	stripped	or	replaced	most	special	characters,	there	were	still	some	remaining	encoding	issues	when	evaluating	certain	approaches.	This	is	
+GT :	routine	stripped	or	replaced	most	special	characters,	there	were	still	some	remaining	encoding	issues	when	evaluating	certain	approaches.	This	is	
+
+OCR:	a	double-	edged	sword,	as	removing	all	non-alphanumeric	characters	would	make	it	no	longer	possible	to	distinguish	between	cells	that	
+GT :	a	double-	edged	sword,	as	removing	all	non-alphanumeric	characters	would	make	it	no	longer	possible	to	distinguish	between	cells	that	
+
+OCR:	do	not	contain	at	least	one	letter	or	number,	of	which	there	were	many	in	our	dataset.	In	the	future,	
+GT :	do	not	contain	at	least	one	letter	or	number,	of	which	there	were	many	in	our	dataset.	In	the	future,	
+
+OCR:	we	will	therefore	consider	requiring	further	information	about	the	cell,	such	as	a	bounding	box,	to	enable	its	unic	its 	
+GT :	we	will	therefore	consider	requiring	further	information	about	the	cell,	such	as	a	bounding	box,	to	enable	its	null	null	
+
+OCR:	unique	identification.	ACKNOWLEDGMENTS	null	null          	This	work	has	been	supported	by	the	EU	FP7	Marie	Curie	Zukunftskolleg	ncoming	null    	Fellowship	
+GT :	unique	identification.	null           	A   	CKNOWLEDGMENTS	This	work	has	been	supported	by	the	EU	FP7	Marie	Curie	Zukunftskolleg	null   	Incoming	Fellowship	
+
+OCR:	Programme,	University	of	Konstanz	(grant	no.	291784),	the	ERC	grant	agreement	DIADEM	(no.	246858)	and	by	the	Oxford	Martin	School	
+GT :	Programme,	University	of	Konstanz	(grant	no.	291784),	the	ERC	grant	agreement	DIADEM	(no.	246858)	and	by	the	Oxford	Martin	School	
+
+OCR:	(grant	no.	LC0910-019).	REFERENCES	null	null     	[1]	M.	C.	Gobel,	null  	T.	Hassan,	E.	Oro,	and	G.	Orsi,	"A  	null	
+GT :	(grant	no.	LC0910-019).	null      	R   	EFERENCES	[1]	M.	C.	null  	Göbel,	T.	Hassan,	E.	Oro,	and	G.	Orsi,	null	“A  	
+
+OCR:	methodology	for	evaluating	algorithms	for	table	understanding	in	PDF	documents,"	null       	in	ACM	Symposium	on	Document	Engineering,	2012,	pp.	45-48.	
+GT :	methodology	for	evaluating	algorithms	for	table	understanding	in	PDF	null       	documents,”	in	ACM	Symposium	on	Document	Engineering,	2012,	pp.	null  	
+
+OCR:	null  	[2]	E.	Oro	and	M.	Ruffolo,	"PDF-TREX:	null      	An	approach	for	recognizing	and	extracting	tables	from	PDF	documents,"	null       	
+GT :	45–48.	[2]	E.	Oro	and	M.	Ruffolo,	null      	“PDF-TREX:	An	approach	for	recognizing	and	extracting	tables	from	PDF	null       	documents,”	
+
+OCR:	in	Proc.	of	ICDAR,	2009,	pp  	906-910.	null	null    	[3]	B.	Krupl	null 	and	M.	Herzog,	"Visually	null     	guided	bottom-up	
+GT :	in	Proc.	of	ICDAR,	2009,	null	null    	pp. 	906–910.	[3]	B.	null 	Krüpl	and	M.	Herzog,	null     	“Visually	guided	bottom-up	
+
+OCR:	table	detection	and	segmentation	in	web	documents,"	null       	in	WWW,	2006,	pp.	933-934.	null    	[4]	A.	C.	e	Silva,	"Metrics	
+GT :	table	detection	and	segmentation	in	web	null       	documents,”	in	WWW,	2006,	pp.	null    	933–934.	[4]	A.	C.	e	Silva,	null    	
+
+OCR:	null    	for	evaluating	performance	in	document	analysis:	application	to	tables,"	null    	IJDAR,	vol.	14,	no.	1,	pp.	101-109,	null    	2011.	
+GT :	“Metrics	for	evaluating	performance	in	document	analysis:	application	to	null    	tables,”	IJDAR,	vol.	14,	no.	1,	pp.	null    	101–109,	2011.	
+
+OCR:	[5]	J.	Fang,	L.	Gao,	K.	Bai,	R.	Qiu,	X.	Tao,	and	Z.	Tang,	"A  	null	table	detection	method	for	
+GT :	[5]	J.	Fang,	L.	Gao,	K.	Bai,	R.	Qiu,	X.	Tao,	and	Z.	Tang,	null	“A  	table	detection	method	for	
+
+OCR:	multipage	PDF	documents	via	visual	seperators	and	tabular	structures,"	null        	in	ICDAR,	2011,	pp.	779-783.	null    	[6]	Y.	Liu,	K.	
+GT :	multipage	PDF	documents	via	visual	seperators	and	tabular	null        	structures,”	in	ICDAR,	2011,	pp.	null    	779–783.	[6]	Y.	Liu,	K.	
+
+OCR:	Bai,	P.	Mitra,	and	C.	L.	Giles,	"TableSeer:	null       	automatic	table	metadata	extraction	and	searching	in	digital	libraries,"	null       	in	
+GT :	Bai,	P.	Mitra,	and	C.	L.	Giles,	null       	“TableSeer:	automatic	table	metadata	extraction	and	searching	in	digital	null       	libraries,”	in	
+
+OCR:	JCDL,	2007,	pp.	91-100.	null   	[7]	B.	Yildiz,	K.	Kaiser,	and	S.	Miksch,	"pdf2table:	null       	A	method	to	extract	table	
+GT :	JCDL,	2007,	pp.	null   	91–100.	[7]	B.	Yildiz,	K.	Kaiser,	and	S.	Miksch,	null       	“pdf2table:	A	method	to	extract	table	
+
+OCR:	information	from	pdf	files,"	null   	in	NICAI,	null  	2005,	pp.	1773-1785.	null      	[8]	A.	C.	e	Silva,	"Parts	null  	that	
+GT :	information	from	pdf	null   	files,”	in	null  	IICAI,	2005,	pp.	null      	1773–1785.	[8]	A.	C.	e	Silva,	null  	“Parts	that	
+
+OCR:	add	up	to	a	whole:	a	framework	for	the	analysis	of	tables,"	null    	Ph.D.	dissertation,	The	University	of	Edinburgh,	2010.	
+GT :	add	up	to	a	whole:	a	framework	for	the	analysis	of	null    	tables,”	Ph.D.	dissertation,	The	University	of	Edinburgh,	2010.	
+
+OCR:	[9]	H.	Strobelt,	D.	Oelke,	C.	Rohrdantz,	A.	Stoffel,	D.	A.	Keim,	and	O.	Deussen,	"Document	null     	cards:	A	top	
+GT :	[9]	H.	Strobelt,	D.	Oelke,	C.	Rohrdantz,	A.	Stoffel,	D.	A.	Keim,	and	O.	Deussen,	null     	“Document	cards:	A	top	
+
+OCR:	trumps	visualization	for	docu-	ments,"	null   	IEEE	Trans.	Vis.	Comput.	Graph.,	vol.	15,	no.	6,	pp.	1145-1152,	null      	2009.	[10]	
+GT :	trumps	visualization	for	docu-	null   	ments,”	IEEE	Trans.	Vis.	Comput.	Graph.,	vol.	15,	no.	6,	pp.	null      	1145–1152,	2009.	[10]	
+
+OCR:	A.	Stoffel,	D.	Spretke,	H.	Kinnemann,	and	D.	A.	Keim,	"Enhancing	null      	document	structure	analysis	using	visual	analytics,"	null       	in	
+GT :	A.	Stoffel,	D.	Spretke,	H.	Kinnemann,	and	D.	A.	Keim,	null      	“Enhancing	document	structure	analysis	using	visual	null       	analytics,”	in	
+
+OCR:	SAC,	2010,	pp  	8-12.	null	null 	null	
+GT :	SAC,	2010,	null	null 	pp. 	8–12.	1453	
+

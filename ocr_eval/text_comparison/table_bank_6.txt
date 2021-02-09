@@ -1,0 +1,96 @@
+OCR:	t   	Word	Table	2:	Evaluation	results	on	Word	and	Latex	datasets	with	ResNext-{101,152}	null             	as	the	backbone	networks	t   	Table	
+GT :	null	null	Table	2:	Evaluation	results	on	Word	and	Latex	datasets	with	null             	ResNeXt-{101,152}	as	the	backbone	networks	null	Table	
+
+OCR:	3:	Evaluation	results	(BLEU)	for	image-to-text	models	on	Word	and	Latex	dataset	null    	The	evaluation	results	of	table	structure	recognition	
+GT :	3:	Evaluation	results	(BLEU)	for	image-to-text	models	on	Word	and	Latex	null   	datasets	The	evaluation	results	of	table	structure	recognition	
+
+OCR:	are	shown	in	Table	3.	We	observe	that	the	image-to-text	models	also	perform	better	on	the	same	domain.	The	model	
+GT :	are	shown	in	Table	3.	We	observe	that	the	image-to-text	models	also	perform	better	on	the	same	domain.	The	model	
+
+OCR:	trained	on	Word	documents	performs	much	better	on	the	Word	test	set	than	the	Latex	test	set	and	vice	versa.	
+GT :	trained	on	Word	documents	performs	much	better	on	the	Word	test	set	than	the	Latex	test	set	and	vice	versa.	
+
+OCR:	Similarly,	the	model	accuracy	of	the	Word+Latex	model	is	comparable	to	other	models	on	Word	and	Latex	domains	and	better	
+GT :	Similarly,	the	model	accuracy	of	the	Word+Latex	model	is	comparable	to	other	models	on	Word	and	Latex	domains	and	better	
+
+OCR:	on	the	mixed-	domain	dataset.	This	demonstrates	that	the	mixed-domain	model	might	generalize	better	in	real	world	applications.	5.4	Analysis	
+GT :	on	the	mixed-	domain	dataset.	This	demonstrates	that	the	mixed-domain	model	might	generalize	better	in	real	world	applications.	5.4	Analysis	
+
+OCR:	For	table	detection,	we	sample	some	incorrect	examples	from	valuation	null      	data	for	the	case	study.	Figure	7	gives	three	
+GT :	For	table	detection,	we	sample	some	incorrect	examples	from	null     	evaluation	data	for	the	case	study.	Figure	7	gives	three	
+
+OCR:	typi-	cal	errors	of	detection	results.	The	first	error	type	is	partial-	detection,	where	only	part	of	the	tables	can	
+GT :	typi-	cal	errors	of	detection	results.	The	first	error	type	is	partial-	detection,	where	only	part	of	the	tables	can	
+
+OCR:	be	identified	and	some	information	is	missing.	The	second	error	type	is	un-detection,	where	some	tables	in	the	documents	can-	
+GT :	be	identified	and	some	information	is	missing.	The	second	error	type	is	un-detection,	where	some	tables	in	the	documents	can-	
+
+OCR:	not	be	identified.	The	third	error	type	is	mis-detection,	where	figures	and	text	blocks	in	the	documents	are	some-	times	
+GT :	not	be	identified.	The	third	error	type	is	mis-detection,	where	figures	and	text	blocks	in	the	documents	are	some-	times	
+
+OCR:	identified	as	tables.	Taking	the	ResNext-152	null       	model	for	Word+Latex	as	an	example,	the	number	of	un-detected	tables	is	164.	
+GT :	identified	as	tables.	Taking	the	null       	ResNeXt-152	model	for	Word+Latex	as	an	example,	the	number	of	un-detected	tables	is	164.	
+
+OCR:	Compared	with	ground	truth	tables	(2,525),	the	un-detection	rate	is	6.5%.	Meanwhile,	the	number	of	mis-	detected	tables	is	86	
+GT :	Compared	with	ground	truth	tables	(2,525),	the	un-detection	rate	is	6.5%.	Meanwhile,	the	number	of	mis-	detected	tables	is	86	
+
+OCR:	compared	with	the	total	predicted	tables	being	2,450.	Therefore,	the	mis-detection	rate	is	3.5%.	Fi-	nally,	the	number	of	partial-detected	
+GT :	compared	with	the	total	predicted	tables	being	2,450.	Therefore,	the	mis-detection	rate	is	3.5%.	Fi-	nally,	the	number	of	partial-detected	
+
+OCR:	tables	is	57,	leading	to	null	partial-detection	rate	of	2.3%.	This	illustrates	that	there	is	plenty	of	room	to	improve	
+GT :	tables	is	57,	leading	to	a   	partial-detection	rate	of	2.3%.	This	illustrates	that	there	is	plenty	of	room	to	improve	
+
+OCR:	the	accuracy	of	the	detection	mod-	els,	especially	for	un-detection	and	mis-detection	cases	null  	For	table	structure	recognition,	we	observe	
+GT :	the	accuracy	of	the	detection	mod-	els,	especially	for	un-detection	and	mis-detection	null 	cases.	For	table	structure	recognition,	we	observe	
+
+OCR:	that	the	model	accuracy	reduces	as	the	length	of	output	becomes	larger.	Tak-	ing	the	image-to-text	model	for	Word+Latex	as	
+GT :	that	the	model	accuracy	reduces	as	the	length	of	output	becomes	larger.	Tak-	ing	the	image-to-text	model	for	Word+Latex	as	
+
+OCR:	an	example,	the	number	of	exact	match	between	the	output	and	ground	truth	is	shown	in	Table	4.	We	can	
+GT :	an	example,	the	number	of	exact	match	between	the	output	and	ground	truth	is	shown	in	Table	4.	We	can	
+
+OCR:	see	that	the	ratio	of	ex-	act	match	is	around	50%	for	the	HTML	sequences	that	are	ess 	null	than	
+GT :	see	that	the	ratio	of	ex-	act	match	is	around	50%	for	the	HTML	sequences	that	are	null	less	than	
+
+OCR:	40	tokens.	As	the	number	of	tokens	becomes	larger,	the	ratio	reduces	dramatically	to	8.6%,	indicating	that	it	is	more	
+GT :	40	tokens.	As	the	number	of	tokens	becomes	larger,	the	ratio	reduces	dramatically	to	8.6%,	indicating	that	it	is	more	
+
+OCR:	difficult	to	recognize	big	and	complex	tables.	In	gen-	eral,	the	model	totally	generates	the	correct	output	for	338	Figure	
+GT :	difficult	to	recognize	big	and	complex	tables.	In	gen-	eral,	the	model	totally	generates	the	correct	output	for	338	Figure	
+
+OCR:	7:	Table	detection	examples	with	(a)	partial-detection,	(b)	un-detection	and	(c)	mis-detection	tables.	We	believe	enlarging	the	training	data	will	
+GT :	7:	Table	detection	examples	with	(a)	partial-detection,	(b)	un-detection	and	(c)	mis-detection	tables.	We	believe	enlarging	the	training	data	will	
+
+OCR:	further	im-	prove	the	current	model	especially	for	tables	with	complex	row	and	column	layouts,	which	will	be	our	next-step	
+GT :	further	im-	prove	the	current	model	especially	for	tables	with	complex	row	and	column	layouts,	which	will	be	our	next-step	
+
+OCR:	effort.	t   	Table	4:	Number	of	exact	match	between	the	generated	HTML	tag	sequence	and	ground	truth	sequence	6	Conclusion	
+GT :	effort.	null	Table	4:	Number	of	exact	match	between	the	generated	HTML	tag	sequence	and	ground	truth	sequence	6	Conclusion	
+
+OCR:	To	empower	the	research	of	table	detection	and	structure	recognition	for	document	analysis,	we	introduce	the	Table-	Bank	dataset,	a	
+GT :	To	empower	the	research	of	table	detection	and	structure	recognition	for	document	analysis,	we	introduce	the	Table-	Bank	dataset,	a	
+
+OCR:	new	image-based	table	analysis	dataset	built	with	online	Word	and	Latex	documents.	We	use	the	Faster	R-	CNN	model	and	
+GT :	new	image-based	table	analysis	dataset	built	with	online	Word	and	Latex	documents.	We	use	the	Faster	R-	CNN	model	and	
+
+OCR:	image-to-text	model	as	the	baseline	to	eval-	uate	the	performance	of	TableBank.	In	addition,	we	have	also	created	testing	data	
+GT :	image-to-text	model	as	the	baseline	to	eval-	uate	the	performance	of	TableBank.	In	addition,	we	have	also	created	testing	data	
+
+OCR:	from	Word	and	Latex	documents	respec-	tively,	where	the	model	accuracy	in	different	domains	is	eval-	uated.	Experiments	show	that	
+GT :	from	Word	and	Latex	documents	respec-	tively,	where	the	model	accuracy	in	different	domains	is	eval-	uated.	Experiments	show	that	
+
+OCR:	image-based	table	detection	and	recognition	with	deep	learning	is	a	promising	research	direction.	We	expect	the	TableBank	dataset	will	release	
+GT :	image-based	table	detection	and	recognition	with	deep	learning	is	a	promising	research	direction.	We	expect	the	TableBank	dataset	will	release	
+
+OCR:	the	power	of	deep	learning	in	the	table	analysis	task,	meanwhile	fosters	more	customized	network	structures	to	make	substan-	tial	
+GT :	the	power	of	deep	learning	in	the	table	analysis	task,	meanwhile	fosters	more	customized	network	structures	to	make	substan-	tial	
+
+OCR:	advances	in	this	task	null 	For	future	research,	we	will	further	enlarge	the	TableBank	from	more	domains	with	high	quality.	
+GT :	advances	in	this	null	task.	For	future	research,	we	will	further	enlarge	the	TableBank	from	more	domains	with	high	quality.	
+
+OCR:	Moreover,	we	plan	to	build	a	dataset	with	multiple	labels	such	as	tables,	figures,	headings,	subheadings,	text	blocks	and	more.	
+GT :	Moreover,	we	plan	to	build	a	dataset	with	multiple	labels	such	as	tables,	figures,	headings,	subheadings,	text	blocks	and	more.	
+
+OCR:	In	this	way,	we	
+GT :	In	this	way,	we	
+

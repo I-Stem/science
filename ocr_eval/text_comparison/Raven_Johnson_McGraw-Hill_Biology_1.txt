@@ -1,0 +1,60 @@
+OCR:	i   	null	The	Science	of	Biology	Concept	Outline	1.1	Biology	is	the	science	of	life.	Properties	of	Life.	Biology	is	
+GT :	null	1   	The	Science	of	Biology	Concept	Outline	1.1	Biology	is	the	science	of	life.	Properties	of	Life.	Biology	is	
+
+OCR:	the	science	that	studies	living	organisms	and	how	they	interact	with	one	another	and	their	environment.	1.2	Scientists	form	generalizations	
+GT :	the	science	that	studies	living	organisms	and	how	they	interact	with	one	another	and	their	environment.	1.2	Scientists	form	generalizations	
+
+OCR:	from	observations.	The	Nature	of	Science.	Science	employs	both	deductive	reasoning	and	inductive	reasoning	null      	How	Science	Is	Done.	Scientists	
+GT :	from	observations.	The	Nature	of	Science.	Science	employs	both	deductive	reasoning	and	inductive	null     	reasoning.	How	Science	Is	Done.	Scientists	
+
+OCR:	construct	hypotheses	from	systematically	collected	objective	data.	They	then	perform	experiments	designed	to	disprove	the	hypotheses.	1.3	Darwin's	null    	theory	
+GT :	construct	hypotheses	from	systematically	collected	objective	data.	They	then	perform	experiments	designed	to	disprove	the	hypotheses.	1.3	null    	Darwin’s	theory	
+
+OCR:	of	evolution	illustrates	how	science	works.	Darwin's	null    	Theory	of	Evolution.	On	a	round-the-world	voyage	Darwin	made	observations	that	eventually	
+GT :	of	evolution	illustrates	how	science	works.	null    	Darwin’s	Theory	of	Evolution.	On	a	round-the-world	voyage	Darwin	made	observations	that	eventually	
+
+OCR:	led	him	to	formulate	the	hypothesis	of	evolution	by	natural	selection.	Darwin's	null    	Evidence.	The	fossil	and	geographic	patterns	of	
+GT :	led	him	to	formulate	the	hypothesis	of	evolution	by	natural	selection.	null    	Darwin’s	Evidence.	The	fossil	and	geographic	patterns	of	
+
+OCR:	life	he	observed	convinced	Darwin	that	a	process	of	evolution	had	occurred.	Inventing	the	Theory	of	Natural	Selection.	The	Malthus	
+GT :	life	he	observed	convinced	Darwin	that	a	process	of	evolution	had	occurred.	Inventing	the	Theory	of	Natural	Selection.	The	Malthus	
+
+OCR:	idea	that	populations	cannot	grow	unchecked	led	Darwin,	and	another	naturalist	named	Wallace,	to	propose	the	hypothesis	of	natural	selection.	
+GT :	idea	that	populations	cannot	grow	unchecked	led	Darwin,	and	another	naturalist	named	Wallace,	to	propose	the	hypothesis	of	natural	selection.	
+
+OCR:	Evolution	After	Darwin:	More	Evidence.	In	the	century	since	Darwin,	a	mass	of	experimental	evidence	has	supported	his	theory	of	
+GT :	Evolution	After	Darwin:	More	Evidence.	In	the	century	since	Darwin,	a	mass	of	experimental	evidence	has	supported	his	theory	of	
+
+OCR:	evolution,	now	accepted	by	practically	all	prac-	ticing	biologists.	1.4	This	book	is	organized	to	help	you	learn	biology.	Core	
+GT :	evolution,	now	accepted	by	practically	all	prac-	ticing	biologists.	1.4	This	book	is	organized	to	help	you	learn	biology.	Core	
+
+OCR:	Principles	of	Biology.	The	first	half	of	this	text	is	devoted	to	general	principles	that	apply	to	all	organisms,	the	
+GT :	Principles	of	Biology.	The	first	half	of	this	text	is	devoted	to	general	principles	that	apply	to	all	organisms,	the	
+
+OCR:	second	half	to	an	examination	of	particular	organisms.	FIGURE	1.1	A	replica	of	the	Beagle,	off	the	southern	coast	of	
+GT :	second	half	to	an	examination	of	particular	organisms.	FIGURE	1.1	A	replica	of	the	Beagle,	off	the	southern	coast	of	
+
+OCR:	South	America.	The	famous	English	naturalist,	Charles	Darwin,	set	forth	on	H.M.S.	Beagle	in	1831,	at	the	age	of	22  	
+GT :	South	America.	The	famous	English	naturalist,	Charles	Darwin,	set	forth	on	H.M.S.	Beagle	in	1831,	at	the	age	of	null	
+
+OCR:	you 	null	null	are	about	to	embark	on	a	journey-a	null     	journey	of	discovery	about	the	nature	of	life.	Nearly	
+GT :	null	22. 	You 	are	about	to	embark	on	a	null     	journey—a	journey	of	discovery	about	the	nature	of	life.	Nearly	
+
+OCR:	180	years	ago,	a	young	English	naturalist	named	Charles	Darwin	set	sail	on	a	similar	journey	on	board	H.M.S.	Beagle	
+GT :	180	years	ago,	a	young	English	naturalist	named	Charles	Darwin	set	sail	on	a	similar	journey	on	board	H.M.S.	Beagle	
+
+OCR:	(figure	1.1	shows	a	replica	of	the	Beagle).	What	Darwin	learned	on	his	five-year	voyage	led	directly	to	his	development	
+GT :	(figure	1.1	shows	a	replica	of	the	Beagle).	What	Darwin	learned	on	his	five-year	voyage	led	directly	to	his	development	
+
+OCR:	of	the	theory	of	evolution	by	natural	selection,	a	theory	that	has	become	the	core	of	the	science	of	biology.	
+GT :	of	the	theory	of	evolution	by	natural	selection,	a	theory	that	has	become	the	core	of	the	science	of	biology.	
+
+OCR:	Darwin's	null    	voyage	seems	a	fitting	place	to	begin	our	exploration	of	biology,	the	scientific	study	of	living	organisms	and	
+GT :	null    	Darwin’s	voyage	seems	a	fitting	place	to	begin	our	exploration	of	biology,	the	scientific	study	of	living	organisms	and	
+
+OCR:	how	they	have	evolved.	Before	we	begin,	however,	let's	null 	take	a	moment	to	think	about	what	biology	is	and	
+GT :	how	they	have	evolved.	Before	we	begin,	however,	null 	let’s	take	a	moment	to	think	about	what	biology	is	and	
+
+OCR:	why	it's	null	important.	3	
+GT :	why	null	it’s	important.	3	
+

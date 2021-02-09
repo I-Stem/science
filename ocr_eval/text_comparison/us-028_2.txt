@@ -1,0 +1,84 @@
+OCR:	Where	did	the	incidents	occur	in	relation	to	the	IHE?	It	may	initially	seem	as	though	only	incidents	occurring	on-campus	
+GT :	Where	did	the	incidents	occur	in	relation	to	the	IHE?	It	may	initially	seem	as	though	only	incidents	occurring	on-campus	
+
+OCR:	are	relevant	to	understanding	targeted	violence	that	affects	IHEs.	However,	such	a	view	neglects	the	role	of	campus	safety	departments	
+GT :	are	relevant	to	understanding	targeted	violence	that	affects	IHEs.	However,	such	a	view	neglects	the	role	of	campus	safety	departments	
+
+OCR:	and	campus	threat	assessment	teams	in	securing	the	area	surrounding	the	campus	and	assessing	the	threats	posed	by	and	to	
+GT :	and	campus	threat	assessment	teams	in	securing	the	area	surrounding	the	campus	and	assessing	the	threats	posed	by	and	to	
+
+OCR:	THE 	null	students,	faculty,	and	staff,	regardless	of	whether	the	ultimate	act	of	violence	occurs	within	the	confines	of	the	
+GT :	null	IHE 	students,	faculty,	and	staff,	regardless	of	whether	the	ultimate	act	of	violence	occurs	within	the	confines	of	the	
+
+OCR:	campus	boundaries.	Thus,	the	current	project	aimed	to	identify	incidents	that	could	fall	within	the	purview	of	a	campus	threat	
+GT :	campus	boundaries.	Thus,	the	current	project	aimed	to	identify	incidents	that	could	fall	within	the	purview	of	a	campus	threat	
+
+OCR:	assessment.	A	majority	of	the	incidents	occurred	on-campus	(79percent,	n	=	214),	while	approximately	one-fifth	(19	percent,	n	=	52)	
+GT :	assessment.	A	majority	of	the	incidents	occurred	on-campus	(79percent,	n	=	214),	while	approximately	one-fifth	(19	percent,	n	=	52)	
+
+OCR:	were	off-campus.	The	remaining	six	incidents	occurred	either	at	non-campus	null	locations	(1	percent,	n	=	3)	or	at	undetermined	
+GT :	were	off-campus.	The	remaining	six	incidents	occurred	either	at	non-campus	30  	locations	(1	percent,	n	=	3)	or	at	undetermined	
+
+OCR:	sites	(1	percent,	n	=	3).	Of	those	incidents	that	occurred	at	on-campus	or	non-campus	sites	(n	=	217),	similar	
+GT :	sites	(1	percent,	n	=	3).	Of	those	incidents	that	occurred	at	on-campus	or	non-campus	sites	(n	=	217),	similar	
+
+OCR:	numbers	of	incidents	took	place	in	residential	buildings	(28	percent,	n	=	60),	parking	lots	or	campus	grounds	(27	percent,	
+GT :	numbers	of	incidents	took	place	in	residential	buildings	(28	percent,	n	=	60),	parking	lots	or	campus	grounds	(27	percent,	
+
+OCR:	n	=	58),	and	administrative	and/or	academic	buildings	such	as	offices,	classrooms,	laboratories	(26	percent,	n	=	56;	see	Table	
+GT :	n	=	58),	and	administrative	and/or	academic	buildings	such	as	offices,	classrooms,	laboratories	(26	percent,	n	=	56;	see	Table	
+
+OCR:	4).	In	null 	null	null	null	null      	null    	null     	null	null     	null     	only	3	percent	(n	=	6)	of	the	
+GT :	4).	In	Table	4:  	On  	and 	Non-campus	Directed	Assaults,	by  	Building,	1900-2008	only	3	percent	(n	=	6)	of	the	
+
+OCR:	on/non-campus	incidents	did	the	subject	move	from	the	campus	grounds	or	parking	lots	to	buildings,	move	between	buildings,	or	cause	
+GT :	on/non-campus	incidents	did	the	subject	move	from	the	campus	grounds	or	parking	lots	to	buildings,	move	between	buildings,	or	cause	
+
+OCR:	injuries	and/or	deaths	in	more	than	one	location	on	campus.	In	addition	to	the	Virginia	Tech	attack	in	2007,	two	
+GT :	injuries	and/or	deaths	in	more	than	one	location	on	campus.	In	addition	to	the	Virginia	Tech	attack	in	2007,	two	
+
+OCR:	other	examples	in	which	subjects	moved	from	one	location	or	building	to	another	are	the	following:	On	August	1,	1966,	
+GT :	other	examples	in	which	subjects	moved	from	one	location	or	building	to	another	are	the	following:	On	August	1,	1966,	
+
+OCR:	a	25-year-old	student	and	former	marine	seized	an	observation	tower	on	campus,	killing	and/or	injuring	several	people	on	his	way	
+GT :	a	25-year-old	student	and	former	marine	seized	an	observation	tower	on	campus,	killing	and/or	injuring	several	people	on	his	way	
+
+OCR:	up	the	tower,	then	randomly	fired	a	rifle	at	passersby	for	approximately	96	minutes.	He	was	eventually	shot	by	police.	
+GT :	up	the	tower,	then	randomly	fired	a	rifle	at	passersby	for	approximately	96	minutes.	He	was	eventually	shot	by	police.	
+
+OCR:	In	the	aftermath,	13	people	were	killed	and	31	were	wounded	on	the	campus.	The	evening	before	the	incident,	the	
+GT :	In	the	aftermath,	13	people	were	killed	and	31	were	wounded	on	the	campus.	The	evening	before	the	incident,	the	
+
+OCR:	subject	typed	a	final	letter	of	explanation	detailing	his	thoughts.	He	then	went	to	his	mother's	null    	home,	choking	and	
+GT :	subject	typed	a	final	letter	of	explanation	detailing	his	thoughts.	He	then	went	to	his	null    	mother’s	home,	choking	and	
+
+OCR:	fatally	stabbing	her	shortly	after	midnight.	After	writing	another	letter,	which	he	left	there,	he	returned	home	and	fatally	stabbed	
+GT :	fatally	stabbing	her	shortly	after	midnight.	After	writing	another	letter,	which	he	left	there,	he	returned	home	and	fatally	stabbed	
+
+OCR:	his	wife	as	she	slept.	Penning	notes	to	other	family	members,	he	prepared	for	his	attack	later	that	day.	On	
+GT :	his	wife	as	she	slept.	Penning	notes	to	other	family	members,	he	prepared	for	his	attack	later	that	day.	On	
+
+OCR:	December	14,	1992,	an	18-year-old	student	killed	one	professor,	one	student,	and	wounded	four	others	in	a	random	sweep	across	
+GT :	December	14,	1992,	an	18-year-old	student	killed	one	professor,	one	student,	and	wounded	four	others	in	a	random	sweep	across	
+
+OCR:	campus.	The	subject	first	approached	a	security-guard	shack	on	the	campus	and	shot	the	guard	inside.	Critically	wounding	him,	he	
+GT :	campus.	The	subject	first	approached	a	security-guard	shack	on	the	campus	and	shot	the	guard	inside.	Critically	wounding	him,	he	
+
+OCR:	then	fatally	shot	a	professor,	who	was	driving	past.	From	there,	he	walked	to	the	library	where	he	fatally	shot	
+GT :	then	fatally	shot	a	professor,	who	was	driving	past.	From	there,	he	walked	to	the	library	where	he	fatally	shot	
+
+OCR:	a	student.	He	then	entered	a	dormitory	and	resumed	firing.	He	surrendered	to	police	after	his	rifle	jammed	and	he	
+GT :	a	student.	He	then	entered	a	dormitory	and	resumed	firing.	He	surrendered	to	police	after	his	rifle	jammed	and	he	
+
+OCR:	called	911,	informing	them	that	he	was	the	shooter.	Reportedly,	the	subject	held	views	that	were	perceived	as	racist,	homophobic	
+GT :	called	911,	informing	them	that	he	was	the	shooter.	Reportedly,	the	subject	held	views	that	were	perceived	as	racist,	homophobic	
+
+OCR:	and	anti-Semitic	by	fellow	students	and	was	not	adjusting	well	to	the	campus	environment.	See	Appendix	B	for	descriptions	of	
+GT :	and	anti-Semitic	by	fellow	students	and	was	not	adjusting	well	to	the	campus	environment.	See	Appendix	B	for	descriptions	of	
+
+OCR:	the	remaining	three	incidents.	null	See	Appendix	A	for	definition.	Campus	Attacks	Table	4:  	On  	and 	Non-campus	Directed	Assaults,	by  	
+GT :	the	remaining	three	incidents.	30  	See	Appendix	A	for	definition.	Campus	Attacks	null 	null	null	null	null      	null    	null     	null	
+
+OCR:	Building,	1900-2008	t   	Page	13	
+GT :	null     	null     	null	Page	13	
+

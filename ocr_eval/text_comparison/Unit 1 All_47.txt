@@ -1,0 +1,54 @@
+OCR:	Internal	Anatomy	of	the	Brainstem	i   	Dorsal	horn?	Figure	4.	Section	through	the	caudal	medulla	(left	picture;	"11-medulla"	null        	in	
+GT :	Internal	Anatomy	of	the	Brainstem	null	null  	null 	Figure	4.	Section	through	the	caudal	medulla	(left	picture;	null        	“11-medulla”	in	
+
+OCR:	Sylvius4	Online).	The	shape	is	similar	to	that	of	the	spinal	cord	(a	section	through	the	cervical	cord	is	shown	
+GT :	Sylvius4	Online).	The	shape	is	similar	to	that	of	the	spinal	cord	(a	section	through	the	cervical	cord	is	shown	
+
+OCR:	in	top	right	picture;	"14-Spinal	Cord-cervical"	null      	null          	in	Sylvius4).	But,	although	the	internal	organization	bears	a	resemblance	to	that	
+GT :	in	top	right	picture;	null      	null          	“14-Spinal	Cord-cervical”	in	Sylvius4).	But,	although	the	internal	organization	bears	a	resemblance	to	that	
+
+OCR:	of	the	spinal	cord,	there	are	some	obvious	differences.	First,	the	medullary	pyramids	occupy	the	base	of	the	caudal	medulla;	
+GT :	of	the	spinal	cord,	there	are	some	obvious	differences.	First,	the	medullary	pyramids	occupy	the	base	of	the	caudal	medulla;	
+
+OCR:	the	anterior	columns	of	the	spinal	cord	do	not	contain	so	many	fibers	(and	do	not	have	the	same	pyramidal	
+GT :	the	anterior	columns	of	the	spinal	cord	do	not	contain	so	many	fibers	(and	do	not	have	the	same	pyramidal	
+
+OCR:	shape).	On	the	other	hand,	the	lateral	columns	are	quite	large	in	the	cervical	spinal	cord,	but	there	are	relatively	
+GT :	shape).	On	the	other	hand,	the	lateral	columns	are	quite	large	in	the	cervical	spinal	cord,	but	there	are	relatively	
+
+OCR:	few	myelinated	axons	in	the	lateral	part	of	the	caudal	medulla.	The	bottom	right	picture	is	a	photograph	of	the	
+GT :	few	myelinated	axons	in	the	lateral	part	of	the	caudal	medulla.	The	bottom	right	picture	is	a	photograph	of	the	
+
+OCR:	point	of	transition	between	the	spinal	cord	and	medulla	("13-medulla"	null         	in	Sylvius4	Online).	Here,	at	the	level	of	the	
+GT :	point	of	transition	between	the	spinal	cord	and	medulla	null         	(“13-medulla”	in	Sylvius4	Online).	Here,	at	the	level	of	the	
+
+OCR:	pyramidal	decussation,	the	axons	in	the	pyramids	not	only	cross	the	midline,	they	also	move	laterally	to	enter	the	lateral	
+GT :	pyramidal	decussation,	the	axons	in	the	pyramids	not	only	cross	the	midline,	they	also	move	laterally	to	enter	the	lateral	
+
+OCR:	columns	of	the	spinal	cord.	This	change	in	relative	location	of	the	axons	explains	why	the	anterior	columns	of	the	
+GT :	columns	of	the	spinal	cord.	This	change	in	relative	location	of	the	axons	explains	why	the	anterior	columns	of	the	
+
+OCR:	spinal	cord	are	smaller	in	size	and	why	the	lateral	columns	are	larger	when	the	spinal	cord	is	compared	to	
+GT :	spinal	cord	are	smaller	in	size	and	why	the	lateral	columns	are	larger	when	the	spinal	cord	is	compared	to	
+
+OCR:	the	caudal	medulla.	A	second	difference	between	the	spinal	cord	and	lower	medulla	is	that	in	the	spinal	cord,	the	
+GT :	the	caudal	medulla.	A	second	difference	between	the	spinal	cord	and	lower	medulla	is	that	in	the	spinal	cord,	the	
+
+OCR:	dorsal	columns	are	made	up	exclusively	of	white	matter.	In	the	caudal	medulla,	you	can	still	see	bundles	of	axons	
+GT :	dorsal	columns	are	made	up	exclusively	of	white	matter.	In	the	caudal	medulla,	you	can	still	see	bundles	of	axons	
+
+OCR:	dorsally	but	now	cell	groups	(the	dorsal	column	nuclei)	have	appeared	in	the	same	location.	These	nuclei	are	second	order	
+GT :	dorsally	but	now	cell	groups	(the	dorsal	column	nuclei)	have	appeared	in	the	same	location.	These	nuclei	are	second	order	
+
+OCR:	sensory	nuclei	that	will	be	discussed	in	a	later	session	of	this	course.	Finally,	note	that	a	cell	group	that	
+GT :	sensory	nuclei	that	will	be	discussed	in	a	later	session	of	this	course.	Finally,	note	that	a	cell	group	that	
+
+OCR:	resembles	the	dorsal	horn	is	also	present	in	the	caudal	medulla	(it	is	labeled	"dorsal	horn?").	null   	null    	This	is	
+GT :	resembles	the	dorsal	horn	is	also	present	in	the	caudal	medulla	(it	is	labeled	null   	null    	“dorsal	horn?”).	This	is	
+
+OCR:	a	nucleus	known	as	the	spinal	trigeminal	nucleus,	and	it	is	continuous	with	the	dorsal	horn	of	the	spinal	cord	
+GT :	a	nucleus	known	as	the	spinal	trigeminal	nucleus,	and	it	is	continuous	with	the	dorsal	horn	of	the	spinal	cord	
+
+OCR:	and	serves	comparable	functions,	except	for	representation	of	a	different	region	of	the	body.	6	
+GT :	and	serves	comparable	functions,	except	for	representation	of	a	different	region	of	the	body.	6	
+

@@ -1,0 +1,72 @@
+OCR:	MADISETTY	ET	AL. 	null	null	Expert	Systems	WILEY	11  	i   	CRF 	BIMExD	HIMEXD	2000	null	FIGURE	7	Confusion	matrix	comparison	
+GT :	MADISETTY	ET	null	AL  	.   	Expert	Systems	WILEY	null	null	null	null  	null  	null	9   	FIGURE	7	Confusion	matrix	comparison	
+
+OCR:	of	different	classes.	(a)	B-Math	confusion	matrix	comparison,	(b)	I-Math	confusion	matrix	comparison,	(c)	O-Math	confusion	matrix	comparison	The	top	
+GT :	of	different	classes.	(a)	B-Math	confusion	matrix	comparison,	(b)	I-Math	confusion	matrix	comparison,	(c)	O-Math	confusion	matrix	comparison	The	top	
+
+OCR:	three	best	performing	methods	according	to	F-Measure	(described	in	Table	3)	are	selected	for	confusion	matrix	comparison.	The	confusion	matrix	
+GT :	three	best	performing	methods	according	to	F-Measure	(described	in	Table	3)	are	selected	for	confusion	matrix	comparison.	The	confusion	matrix	
+
+OCR:	comparison	for	all	the	three	classes	B-Math,	I-Math	and	O-Math	is	shown	in	Figure	7.	The	confusion	matrix	comparison	for	
+GT :	comparison	for	all	the	three	classes	B-Math,	I-Math	and	O-Math	is	shown	in	Figure	7.	The	confusion	matrix	comparison	for	
+
+OCR:	three	methods	CRF2,	BIMEXD	null  	and	HIMEXD	null  	for	B-Math	class	is	shown	in	Figure	7a.	We	can	observe	that	
+GT :	three	methods	CRF2,	null  	BIMExD	and	null  	HIMExD	for	B-Math	class	is	shown	in	Figure	7a.	We	can	observe	that	
+
+OCR:	a	higher	number	of	B-Math	instances	are	predicted	as	O-	Math	instances	in	BIMEXD	null  	compared	to	CRF2	and	HIMExD.	
+GT :	a	higher	number	of	B-Math	instances	are	predicted	as	O-	Math	instances	in	null  	BIMExD	compared	to	CRF2	and	HIMExD.	
+
+OCR:	Our	proposed	approach	HIMEXD	null  	predicted	a	higher	number	of	B-Math	instances	correctly	compared	to	CRF2	and	BIMExD.	For	BIMExD	
+GT :	Our	proposed	approach	null  	HIMExD	predicted	a	higher	number	of	B-Math	instances	correctly	compared	to	CRF2	and	BIMExD.	For	BIMExD	
+
+OCR:	and	HIMEXD	null  	methods,	the	number	of	B-Math	instances	predicted	as	I-Math	are	lower	in	number	whereas	for	CRF2	large	
+GT :	and	null  	HIMExD	methods,	the	number	of	B-Math	instances	predicted	as	I-Math	are	lower	in	number	whereas	for	CRF2	large	
+
+OCR:	number	(120)	of	such	instances	are	predicted	as	I-Math.	So,	in	CRF2	the	proposed	features	are	in	confusion	between	B-Math	
+GT :	number	(120)	of	such	instances	are	predicted	as	I-Math.	So,	in	CRF2	the	proposed	features	are	in	confusion	between	B-Math	
+
+OCR:	and	I-Math.	Confusion	matrix	comparison	for	I-Math	class	is	shown	in	Figure	7b.	Similar	behaviour	is	observed	for	I-Math	class	
+GT :	and	I-Math.	Confusion	matrix	comparison	for	I-Math	class	is	shown	in	Figure	7b.	Similar	behaviour	is	observed	for	I-Math	class	
+
+OCR:	as	B-Math	class,	that	is,	more	I-Math	instances	are	predicted	as	O-Math	in	BIMEXD	null  	compared	to	CRF2	and	HIMExD.	
+GT :	as	B-Math	class,	that	is,	more	I-Math	instances	are	predicted	as	O-Math	in	null  	BIMExD	compared	to	CRF2	and	HIMExD.	
+
+OCR:	Similarly,	more	I-Math	instances	are	predicted	as	I-Math	for	HIMEXD	null  	compared	to	CRF2.	The	confusion	matrix	comparison	for	O-Math	
+GT :	Similarly,	more	I-Math	instances	are	predicted	as	I-Math	for	null  	HIMExD	compared	to	CRF2.	The	confusion	matrix	comparison	for	O-Math	
+
+OCR:	class	is	shown	in	Figure	7c.	All	three	methods	are	predicting	O-Math	instances	O-Math	most	of	the	times.	This	is	
+GT :	class	is	shown	in	Figure	7c.	All	three	methods	are	predicting	O-Math	instances	O-Math	most	of	the	times.	This	is	
+
+OCR:	due	to	more	number	of	O-Math	instances	are	available	for	training	null     	In	summary,	our	proposed	approach	outperforms	all	the	
+GT :	due	to	more	number	of	O-Math	instances	are	available	for	null    	training.	In	summary,	our	proposed	approach	outperforms	all	the	
+
+OCR:	methods	in	the	literature	which	indicates	that	the	method	can	be	used	to	successfully	detect	inline	mathematical	expressions	from	scientific	
+GT :	methods	in	the	literature	which	indicates	that	the	method	can	be	used	to	successfully	detect	inline	mathematical	expressions	from	scientific	
+
+OCR:	documents.	4.5.1	|	Result	analysis:	Different	cases	We	now	perform	an	in-depth	analysis	of	the	failure	cases	of	the	algorithms.	
+GT :	documents.	4.5.1	|	Result	analysis:	Different	cases	We	now	perform	an	in-depth	analysis	of	the	failure	cases	of	the	algorithms.	
+
+OCR:	We	see	that	all	the	methods	except	InftyReader	perform	very	well	for	the	O-Math	class.	The	F-Scores	for	the	O-Math	
+GT :	We	see	that	all	the	methods	except	InftyReader	perform	very	well	for	the	O-Math	class.	The	F-Scores	for	the	O-Math	
+
+OCR:	class	are	above	99%	for	most	of	the	methods	indicating	both	the	precision	and	recall	for	the	O-Math	class	are	
+GT :	class	are	above	99%	for	most	of	the	methods	indicating	both	the	precision	and	recall	for	the	O-Math	class	are	
+
+OCR:	high.	On	the	other	hand,	the	performances	of	the	methods	vary	for	the	classes	that	have	mathematical	symbols.	Hence,	in	
+GT :	high.	On	the	other	hand,	the	performances	of	the	methods	vary	for	the	classes	that	have	mathematical	symbols.	Hence,	in	
+
+OCR:	this	analysis,	we	look	closely	at	the	test	cases	containing	the	mathematical	symbols.	We	characterized	and	categorized	the	math	symbols	
+GT :	this	analysis,	we	look	closely	at	the	test	cases	containing	the	mathematical	symbols.	We	characterized	and	categorized	the	math	symbols	
+
+OCR:	or	expressions	in	multiple	groups,	as	shown	in	the	Table	5.	In	the	table,	we	also	indicate	the	performances	of	
+GT :	or	expressions	in	multiple	groups,	as	shown	in	the	Table	5.	In	the	table,	we	also	indicate	the	performances	of	
+
+OCR:	the	methods	for	expressions	of	these	types.	If	a	method	misclassifies	examples	from	a	particular	type	for	more	than	70%	
+GT :	the	methods	for	expressions	of	these	types.	If	a	method	misclassifies	examples	from	a	particular	type	for	more	than	70%	
+
+OCR:	of	the	test	cases,	we	consider	that	the	method	performs	poorly	(or	fail)	for	that	type.	Otherwise,	the	method	is	
+GT :	of	the	test	cases,	we	consider	that	the	method	performs	poorly	(or	fail)	for	that	type.	Otherwise,	the	method	is	
+
+OCR:	considered	to	do	well	(or	succeed	in	identifying)	examples	from	that	type.	
+GT :	considered	to	do	well	(or	succeed	in	identifying)	examples	from	that	type.	
+

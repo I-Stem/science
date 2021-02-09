@@ -1,0 +1,60 @@
+OCR:	Table	3.1	null                  	Macromolecules	t   	i   	Building	Macromolecules	Although	the	four	categories	of	macromolecules	contain	dif-	erent	null  	kinds	of	
+GT :	Table	3.1	MacromoleculesBuilding	Macromolecules	null	null	null    	null          	Although	the	four	categories	of	macromolecules	contain	dif-	null 	ferent	kinds	of	
+
+OCR:	subunits,	they	are	all	assembled	in	the	same	undamental	null       	way:	to	form	a	covalent	bond	between	two	sub-	unit	
+GT :	subunits,	they	are	all	assembled	in	the	same	null      	fundamental	way:	to	form	a	covalent	bond	between	two	sub-	unit	
+
+OCR:	molecules,	an	-OH 	null	group	is	removed	from	one	sub-	unit	and	a	hydrogen	atom	(H)	is	removed	from	the	
+GT :	molecules,	an	null	—OH 	group	is	removed	from	one	sub-	unit	and	a	hydrogen	atom	(H)	is	removed	from	the	
+
+OCR:	other	figure	null   	3.3a).	This	condensation	reaction	is	called	a	dehy-	dration	synthesis,	because	the	removal	of	the	-OH 	null	
+GT :	other	null  	(figure	3.3a).	This	condensation	reaction	is	called	a	dehy-	dration	synthesis,	because	the	removal	of	the	null	—OH 	
+
+OCR:	group	and	H	during	the	synthesis	of	a	new	molecule	in	effect	con-	stitutes	the	removal	of	a	molecule	of	
+GT :	group	and	H	during	the	synthesis	of	a	new	molecule	in	effect	con-	stitutes	the	removal	of	a	molecule	of	
+
+OCR:	water	(H20).	null	null	null	For	every	subunit	that	is	added	to	a	macromolecule,	one	water	mole-	cule	is	removed.	
+GT :	water	null  	(H  	2   	O). 	For	every	subunit	that	is	added	to	a	macromolecule,	one	water	mole-	cule	is	removed.	
+
+OCR:	Energy	is	required	to	break	the	chemical	bonds	when	water	is	extracted	from	the	subunits,	so	cells	must	supply	energy	
+GT :	Energy	is	required	to	break	the	chemical	bonds	when	water	is	extracted	from	the	subunits,	so	cells	must	supply	energy	
+
+OCR:	to	assemble	macromolecules.	These	and	other	biochemical	reactions	require	that	the	reacting	sub-	tances	null   	be	held	close	together	and	
+GT :	to	assemble	macromolecules.	These	and	other	biochemical	reactions	require	that	the	reacting	sub-	null  	stances	be	held	close	together	and	
+
+OCR:	that	the	correct	chemical	bonds	be	stressed	and	broken.	This	process	of	positioning	and	stressing,	termed	catalysis,	is	carried	out	
+GT :	that	the	correct	chemical	bonds	be	stressed	and	broken.	This	process	of	positioning	and	stressing,	termed	catalysis,	is	carried	out	
+
+OCR:	in	cells	by	a	special	class	of	proteins	known	as	enzymes.	Cells	disassemble	macromolecules	into	their	constituent	subunits	by	performing	
+GT :	in	cells	by	a	special	class	of	proteins	known	as	enzymes.	Cells	disassemble	macromolecules	into	their	constituent	subunits	by	performing	
+
+OCR:	reactions	that	are	essentially	the	re-	verse	of	dehydration-a	null         	molecule	of	water	is	added	instead	of	removed	(figure	3.3b).	
+GT :	reactions	that	are	essentially	the	re-	verse	of	null         	dehydration—a	molecule	of	water	is	added	instead	of	removed	(figure	3.3b).	
+
+OCR:	In	this	process,	which	is	called	hydrolysis	(Greek	hydro,	"water"	null   	+	lyse,	"break"),	null     	a	hydro-	gen	atom	is	
+GT :	In	this	process,	which	is	called	hydrolysis	(Greek	hydro,	null   	“water”	+	lyse,	null     	“break”),	a	hydro-	gen	atom	is	
+
+OCR:	attached	to	one	subunit	and	a	hydroxyl	group	to	the	other,	breaking	a	specific	covalent	bond	in	the	macromolecule.	Hydrolytic	
+GT :	attached	to	one	subunit	and	a	hydroxyl	group	to	the	other,	breaking	a	specific	covalent	bond	in	the	macromolecule.	Hydrolytic	
+
+OCR:	reactions	release	the	energy	that	was	stored	in	the	bonds	that	were	broken.	null  	null	null  	null	null    	null           	null	
+GT :	reactions	release	the	energy	that	was	stored	in	the	bonds	that	were	broken.	FIGURE	3.3 	Making	and 	breaking	macromolecules.	(a) 	
+
+OCR:	null      	null          	null	null    	null  	null	null   	null    	null     	null	null    	null	null   	null	null    	null	null  	null	null       	null      	
+GT :	Biological	macromolecules	are 	polymers	formed	by  	linking	subunits	together.	The 	covalent	bond	between	the 	subunits	is  	formed	by  	dehydration	synthesis,	
+
+OCR:	null	null            	null   	null	null   	null	null 	null    	null	null 	null	null   	null	null    	null	null	null   	null    	null    	null	
+GT :	an  	energy-requiring	process	that	creates	a   	water	molecule	for 	every	bond	formed.	(b) 	Breaking	the 	bond	between	subunits	requires	the 	
+
+OCR:	null     	null	null	null 	null    	null	null	null      	null   	null	null   	null	null   	null  	null       	Polymers	are	large	molecules	consisting	
+GT :	returning	of  	a   	water	molecule	with	a   	subsequent	release	of  	energy,	a   	process	called	hydrolysis.	Polymers	are	large	molecules	consisting	
+
+OCR:	of	long	chains	of	similar	subunits	joined	by	dehydration	reactions.	In	a	dehydration	reaction,	a	hydroxyl	(-OH)	null 	group	is	
+GT :	of	long	chains	of	similar	subunits	joined	by	dehydration	reactions.	In	a	dehydration	reaction,	a	hydroxyl	null 	(—OH)	group	is	
+
+OCR:	removed	from	one	subunit	and	a	hydrogen	atom	(H)	is	removed	from	the	other	null  	Chapter	3	The	Chemical	Building	
+GT :	removed	from	one	subunit	and	a	hydrogen	atom	(H)	is	removed	from	the	null 	other.	Chapter	3	The	Chemical	Building	
+
+OCR:	Blocks	of	Life	37	
+GT :	Blocks	of	Life	37	
+

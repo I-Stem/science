@@ -1,0 +1,66 @@
+OCR:	Subdivision	Surface	feature	Gracile	tract	(dorsal	surface)	pair	of  	extended	longitudinal	bulges	or  	columns	on  	either	side	of  	a   	deep	
+GT :	null       	null   	null   	null   	null 	null   	null    	null	null	null    	null        	null  	null	null   	null	null  	null	null	null	null	
+
+OCR:	midline	furrow;	technically,	this	bulge	is  	called	the 	tuberculum	gracilis,	which	is  	formed	by  	the 	underlying	gracile	tract	.   	continuation	
+GT :	null   	null   	null        	null	null 	null	null  	null	null      	null     	null 	null	null  	null	null	null      	null   	null 	null	null        	
+
+OCR:	of  	the 	tract	of  	the 	dorsal	spinal	cord	Cuneate	tract	(dorsal	surface)	Caudal	pair	of  	extended	longitudinal	bulges	or  	columns	
+GT :	null	null	null 	null	null	null  	null  	null	null   	null 	null   	null    	null  	null	null	null    	null        	null  	null	null   	
+
+OCR:	medulla	teral	to  	the 	gracile	tracts;	technically,	this	(Figure	4)  	bulge	is  	called	the 	tuberculum	cuneatus,	which	is  	formed	by  	
+GT :	null   	null 	null	null	null   	null   	null        	null	null   	null	null 	null	null  	null	null      	null     	null 	null	null  	null	
+
+OCR:	the 	underlying	cuneate	tract	.   	continuation	of  	the 	tract	of  	the 	dorsal	spinal	cord	Pyramidal	decussation	(ventral	surface	.   	see 	
+GT :	null	null      	null   	null 	null	null        	null	null	null 	null	null	null  	null  	null	null     	null       	null    	null   	null	null	
+
+OCR:	Medullary	pyramids	below	apparent	"stitching"	of  	fibers	that	cross	the 	midline	Medullary	pyramids	(ventral	surface)	pair	of  	extended	longitudinal	bulges	
+GT :	null     	null    	null 	null    	null       	null	null  	null	null 	null	null   	null     	null    	null    	null    	null	null	null    	null        	null  	
+
+OCR:	or  	columns	on  	either	side	of  	a   	deep	midline	furrow	Middle	to  	Inferior	olive	rostral	(ventral-lateral	surface)	medulla	(Figure	5)  	
+GT :	null	null   	null	null  	null	null	null	null	null   	null  	null  	null	null    	null 	null   	null            	null    	null   	null   	null	
+
+OCR:	pair	of  	elongated	bulges	just	lateral	to  	the 	pyramids;	a   	shallow	furrow	separates	the 	pyramid	and 	olive	on  	each	side	
+GT :	null	null	null     	null  	null	null   	null	null	null     	null	null   	null  	null     	null	null   	null	null 	null	null	null	
+
+OCR:	Hypoglossal	nerve	(XII)	ventral-lateral	surface)	.   	exits	through	ventral-medial	surface	8   	Internal	Anatomy	of	the	Brainstem	Internal	structure	Gracile	tract	
+GT :	null       	null 	null 	null           	null    	null	null 	null   	null          	null   	null	Internal	Anatomy	of	the	Brainstem	null    	null     	null   	null 	
+
+OCR:	&   	nucleus	.   	medial,	superficial	bundle	of  	myelinated	axons	arising	from	the 	dorsal	column	of  	the 	spinal	cord	.   	just	
+GT :	null	null   	null	null   	null       	null  	null	null      	null 	null   	null	null	null  	null  	null	null	null  	null	null	null	
+
+OCR:	deep	to  	the 	gracile	tract	is  	the 	gracile	nucleus,	a   	compact	gray	matter	structure	that	receives	the 	synapses	made	by  	
+GT :	null	null	null	null   	null 	null	null	null   	null    	null	null   	null	null  	null     	null	null    	null	null    	null	null	
+
+OCR:	gracile	tract	axons	Cuneate	tract	&   	nucleus	.   	just	lateral	to  	the 	gracile	tract,	superficial	bundle	of  	myelinated	axons	arising	
+GT :	null   	null 	null 	null   	null 	null	null   	null	null	null   	null	null	null   	null  	null       	null  	null	null      	null 	null   	
+
+OCR:	from	the 	dorsal	column	of  	the 	spinal	cord	.   	at  	the 	superior	"head"	of  	the 	cuneate	tract	is  	the 	cuneate	
+GT :	null	null	null  	null  	null	null	null  	null	null	null	null	null    	null  	null	null	null   	null 	null	null	null   	
+
+OCR:	nucleus,	a   	compact	gray	matter	structure	that	receives	the 	synapses	made	by  	cuneate	tract	axon	Pyramidal	decussation	see 	Medullary	pyramids	
+GT :	null    	null	null   	null	null  	null     	null	null    	null	null    	null	null	null   	null 	null	null     	null       	null	null     	null    	
+
+OCR:	below	.   	midline	crossing	of  	dense	bundles	of  	myelinated	axons	that	run 	the 	longitudinal	extent	of  	the 	ventral	brainstem	.   	
+GT :	null 	null	null   	null    	null	null 	null   	null	null      	null 	null	null	null	null        	null  	null	null	null   	null     	null	
+
+OCR:	accounts	for 	the 	formation	of  	the 	lateral	and 	ventral	(anterior)	corticospinal	tracts	of  	the 	spinal	cord	Medullary	pyramids	dense	bundle	
+GT :	null    	null	null	null     	null	null	null   	null	null   	null      	null         	null  	null	null	null  	null	null     	null    	null 	null  	
+
+OCR:	of  	myelinated	axons	that	run 	the 	longitudinal	extent	of  	the 	ventral	brainstem;	these	axons	are 	also	known	as  	the 	corticospinal	
+GT :	null	null      	null 	null	null	null	null        	null  	null	null	null   	null      	null 	null 	null	null	null 	null	null	null         	
+
+OCR:	tract	these	same	axons	are 	present	in  	the 	internal	capsule,	cerebral	peduncles,	basilar	pons,	and 	about	90% 	are 	present	in  	
+GT :	null 	null 	null	null 	null	null   	null	null	null    	null    	null    	null      	null   	null 	null	null 	null	null	null   	null	
+
+OCR:	the 	lateral	columns	of  	the 	spinal	cord	Inferior	olivary	nucleus	.   	prominent	nucleus	of  	the 	ventral-lateral	medulla	just	dorsal	to  	
+GT :	null	null   	null   	null	null	null  	null	null    	null   	null   	null	null     	null   	null	null	null           	null   	null	null  	null	
+
+OCR:	the 	medullary	pyramids	.   	note	the 	highly	convoluted	bands	of  	gray	matter	that	account	for 	the 	superficial,	ventral-lateral	bulge	Hypoglossal	
+GT :	null	null     	null    	null	null	null	null  	null      	null 	null	null	null  	null	null   	null	null	null        	null           	null 	null       	
+
+OCR:	nerve	roots	&   	nucleus	.   	nerve	roots	emerge	between	the 	medullary	pyramid	and 	the 	olive	.   	trace	these	nerve	roots	
+GT :	null 	null 	null	null   	null	null 	null 	null  	null   	null	null     	null   	null	null	null 	null	null 	null 	null 	null 	
+
+OCR:	dorsally	to  	their	origin	in  	the 	hypoglossal	nucleus,	located	along	the 	dorsal	midline	null	
+GT :	null    	null	null 	null  	null	null	null       	null    	null   	null 	null	null  	null   	8   	
+

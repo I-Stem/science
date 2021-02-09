@@ -1,0 +1,72 @@
+OCR:	Internal	Anatomy	of	the	Brainstem	three	major	subdivisions	of	the	brainstem.	Knowledge	of	their	location	and	function	will	provide	key	
+GT :	Internal	Anatomy	of	the	Brainstem	three	major	subdivisions	of	the	brainstem.	Knowledge	of	their	location	and	function	will	provide	key	
+
+OCR:	information	that	will	help	you	localize	neurological	injury	and	dysfunction	in	clinical	patients.	The	internal	anatomy	of	the	brainstem	The	
+GT :	information	that	will	help	you	localize	neurological	injury	and	dysfunction	in	clinical	patients.	The	internal	anatomy	of	the	brainstem	The	
+
+OCR:	internal	organization	of	the	brainstem	is	considerably	more	complicated	than	that	of	the	spinal	cord.	However,	two	factors	work	in	
+GT :	internal	organization	of	the	brainstem	is	considerably	more	complicated	than	that	of	the	spinal	cord.	However,	two	factors	work	in	
+
+OCR:	your	favor	as	you	study	its	features.	First,	important	general	principles	of	organization	of	the	spinal	cord	also	hold	true	
+GT :	your	favor	as	you	study	its	features.	First,	important	general	principles	of	organization	of	the	spinal	cord	also	hold	true	
+
+OCR:	for	the	brainstem.	Second,	much	of	the	complexity	of	the	brainstem	is	contributed	by	cell	groups	and	axon	tracts	that	
+GT :	for	the	brainstem.	Second,	much	of	the	complexity	of	the	brainstem	is	contributed	by	cell	groups	and	axon	tracts	that	
+
+OCR:	will	not	be	considered	in	this	course.	In	the	following	discussion,	the	general	plan	of	organization	of	the	brainstem	is	
+GT :	will	not	be	considered	in	this	course.	In	the	following	discussion,	the	general	plan	of	organization	of	the	brainstem	is	
+
+OCR:	presented	first.	Then,	the	prominent	internal	features	that	characterize	each	subdivision	are	identified.	It	would	be	convenient	if	each	subdivision	
+GT :	presented	first.	Then,	the	prominent	internal	features	that	characterize	each	subdivision	are	identified.	It	would	be	convenient	if	each	subdivision	
+
+OCR:	of	the	brainstem	were	sufficiently	homogeneous	along	its	length	that	one	cross-section	could	serve	as	a	'typical'	null     	representative	for	
+GT :	of	the	brainstem	were	sufficiently	homogeneous	along	its	length	that	one	cross-section	could	serve	as	a	null     	‘typical’	representative	for	
+
+OCR:	the	entire	subdivision.	However,	the	brainstem	changes	continuously	along	its	length-the	null      	subdivision	into	three	parts	is	somewhat	arbitrary.	As	
+GT :	the	entire	subdivision.	However,	the	brainstem	changes	continuously	along	its	null      	length—the	subdivision	into	three	parts	is	somewhat	arbitrary.	As	
+
+OCR:	a	compromise	between	examining	three	sections	(one	for	each	subdivision)	and	hundreds,	seven	sections	of	the	brainstem	are	shown	to	
+GT :	a	compromise	between	examining	three	sections	(one	for	each	subdivision)	and	hundreds,	seven	sections	of	the	brainstem	are	shown	to	
+
+OCR:	serve	as	representatives	(Figure	2)  	i   	null	Once	you	understand	the	organization	of	these	seven	levels	and	the	way	various	
+GT :	serve	as	representatives	(Figure	null	null	2). 	Once	you	understand	the	organization	of	these	seven	levels	and	the	way	various	
+
+OCR:	pathways	traverse	them,	you	should	be	able	to	identify	the	location	of	any	section	through	the	brainstem	and	the	important	
+GT :	pathways	traverse	them,	you	should	be	able	to	identify	the	location	of	any	section	through	the	brainstem	and	the	important	
+
+OCR:	pathways	represented	in	it.	Junction	of  	pons	and 	midbrain	Figure	2.	Drawing	of	the	dorsal	surface	of	the	brainstem	with	
+GT :	pathways	represented	in	it.	null    	null	null	null	null    	Figure	2.	Drawing	of	the	dorsal	surface	of	the	brainstem	with	
+
+OCR:	lines	to	indicate	the	seven	levels	that	will	be	illustrated	in	the	following	pages.	These	same	sections	are	also	annotated	
+GT :	lines	to	indicate	the	seven	levels	that	will	be	illustrated	in	the	following	pages.	These	same	sections	are	also	annotated	
+
+OCR:	in	the	Brainstem	Cross	Sectional	Atlas	in	Sylvius4	Online.	(Illustration	courtesy	of	Pyramis	Studios,	Durham	NC)	A	schematic	overview	of	
+GT :	in	the	Brainstem	Cross	Sectional	Atlas	in	Sylvius4	Online.	(Illustration	courtesy	of	Pyramis	Studios,	Durham	NC)	A	schematic	overview	of	
+
+OCR:	the	levels	of	the	brainstem	to	be	discussed	is	presented	in	Figure	3.	At	this	stage,	it	is	not	important	
+GT :	the	levels	of	the	brainstem	to	be	discussed	is	presented	in	Figure	3.	At	this	stage,	it	is	not	important	
+
+OCR:	to	study	the	details;	we	will	come	back	to	them.	For	now,	three	points	should	be	taken	from	the	figure.	
+GT :	to	study	the	details;	we	will	come	back	to	them.	For	now,	three	points	should	be	taken	from	the	figure.	
+
+OCR:	(1)	All	of	the	sections	are	shown	at	the	same	magnification.	In	most	atlases	(including	Sylvius4	Online),	the	smaller	sections	
+GT :	(1)	All	of	the	sections	are	shown	at	the	same	magnification.	In	most	atlases	(including	Sylvius4	Online),	the	smaller	sections	
+
+OCR:	are	magnified	more	than	the	larger	ones,	and	it	is	easy	to	lose	sight	of	the	relative	proportions	of	the	
+GT :	are	magnified	more	than	the	larger	ones,	and	it	is	easy	to	lose	sight	of	the	relative	proportions	of	the	
+
+OCR:	different	subdivisions.	(2)	The	cranial	nerve	nuclei	lie	in	the	tegmentum	of	the	brainstem,	as	do	many	of	the	major	
+GT :	different	subdivisions.	(2)	The	cranial	nerve	nuclei	lie	in	the	tegmentum	of	the	brainstem,	as	do	many	of	the	major	
+
+OCR:	ascending	and	descending	tracts.	(3)	Just	as	in	the	spinal	cord,	the	nuclei	that	receive	sensory	inputs	via	the	cranial	
+GT :	ascending	and	descending	tracts.	(3)	Just	as	in	the	spinal	cord,	the	nuclei	that	receive	sensory	inputs	via	the	cranial	
+
+OCR:	nerves	are	spatially	separate	from	those	that	give	rise	to	motor	output.	The	sensory	nuclei	are	located	laterally	in	the	
+GT :	nerves	are	spatially	separate	from	those	that	give	rise	to	motor	output.	The	sensory	nuclei	are	located	laterally	in	the	
+
+OCR:	brainstem,	whereas	the	motor	nuclei	are	located	medially.	The	spatial	segregation	of	sensory	and	motor	functions	provides	an	important	clue	
+GT :	brainstem,	whereas	the	motor	nuclei	are	located	medially.	The	spatial	segregation	of	sensory	and	motor	functions	provides	an	important	clue	
+
+OCR:	for	localization	of	focal	damage	in	the	brainstem.	w   	null	
+GT :	for	localization	of	focal	damage	in	the	brainstem.	null	3   	
+

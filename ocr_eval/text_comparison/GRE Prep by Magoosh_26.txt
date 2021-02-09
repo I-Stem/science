@@ -1,0 +1,81 @@
+OCR:	Think	of	how	grateful	you	would	be	if,	before	some	important	event,	you	happened	to	walk	by	a	mirror	and	
+GT :	Think	of	how	grateful	you	would	be	if,	before	some	important	event,	you	happened	to	walk	by	a	mirror	and	
+
+OCR:	notice	you	had	something	smudged	across	your	face.	Now	you	can	wipe	that	smudge	off	and	improve	your	appearance	before	
+GT :	notice	you	had	something	smudged	across	your	face.	Now	you	can	wipe	that	smudge	off	and	improve	your	appearance	before	
+
+OCR:	the	important	event.	Metaphorically,	every	question	you	get	wrong	is	such	a	mirror-a	null    	chance	to	look	at	yourself,	remove	
+GT :	the	important	event.	Metaphorically,	every	question	you	get	wrong	is	such	a	null    	mirror—a	chance	to	look	at	yourself,	remove	
+
+OCR:	the	smudge,	and	improve	your	understanding.	Our	study	plans	are	designed	with	this	in	mind.	We	have	you	jump	into	
+GT :	the	smudge,	and	improve	your	understanding.	Our	study	plans	are	designed	with	this	in	mind.	We	have	you	jump	into	
+
+OCR:	mixed	content	questions	right	away,	well	before	you	have	a	chance	to	complete	all	the	Magoosh	video	lessons.	One	reason	
+GT :	mixed	content	questions	right	away,	well	before	you	have	a	chance	to	complete	all	the	Magoosh	video	lessons.	One	reason	
+
+OCR:	is,	of	course,	that	the	GRE	itself	will	throw	nothing	but	mixed	content	at	you,	and	we	want	you	to	
+GT :	is,	of	course,	that	the	GRE	itself	will	throw	nothing	but	mixed	content	at	you,	and	we	want	you	to	
+
+OCR:	get	comfortable	with	this	"gear-	switching"	null  	null      	as	early	in	your	study	process	as	possible.	That	being	said,	we	
+GT :	get	comfortable	with	this	null  	null      	“gear-	switching”	as	early	in	your	study	process	as	possible.	That	being	said,	we	
+
+OCR:	know	this	means	you'll	null  	probably	get	many	questions	wrong	at	the	beginning,	and	we	believe	this	is	a	good	
+GT :	know	this	means	null  	you’ll	probably	get	many	questions	wrong	at	the	beginning,	and	we	believe	this	is	a	good	
+
+OCR:	thing.	Obviously,	we	aren't	null  	trying	to	punish	you	or	make	you	feel	bad	about	yourself.	Rather,	we	know	that	
+GT :	thing.	Obviously,	we	null  	aren’t	trying	to	punish	you	or	make	you	feel	bad	about	yourself.	Rather,	we	know	that	
+
+OCR:	making	mistakes	and	consciously	reflecting	on	these	mistakes	is	exactly	what	will	prime	your	mind	for	the	content	of	the	
+GT :	making	mistakes	and	consciously	reflecting	on	these	mistakes	is	exactly	what	will	prime	your	mind	for	the	content	of	the	
+
+OCR:	video	lessons.	It	takes	a	good	deal	of	confidence	and	emotional	security	to	adopt	this	attitude-to	null       	look	beyond	the	
+GT :	video	lessons.	It	takes	a	good	deal	of	confidence	and	emotional	security	to	adopt	this	null       	attitude—to	look	beyond	the	
+
+OCR:	frustration	of	getting	questions	wrong,	and	to	embrace,	with	courage	and	optimism,	the	opportunity	for	self-improvement	in	each	mistake.	In	
+GT :	frustration	of	getting	questions	wrong,	and	to	embrace,	with	courage	and	optimism,	the	opportunity	for	self-improvement	in	each	mistake.	In	
+
+OCR:	the	face	of	an	apparent	lack	of	success,	it's	null	very	hard	to	maintain	any	sort	of	courageous	optimism.	It	
+GT :	the	face	of	an	apparent	lack	of	success,	null	it’s	very	hard	to	maintain	any	sort	of	courageous	optimism.	It	
+
+OCR:	takes	a	very	strong	and	secure	individual	who	can	say,	"I've	null 	gotten	two	hundred	GRE	questions	wrong	so	far,	
+GT :	takes	a	very	strong	and	secure	individual	who	can	say,	null 	“I’ve	gotten	two	hundred	GRE	questions	wrong	so	far,	
+
+OCR:	and	that's	null  	great,	because	from	those	mistakes	I	have	learned	two	hundred	new	concepts	that	I	can	use!"	null 	
+GT :	and	null  	that’s	great,	because	from	those	mistakes	I	have	learned	two	hundred	new	concepts	that	I	can	null 	use!”	
+
+OCR:	But	remember,	if	you	want	to	stand	out,	you	must	be	a	standout.	If	you	want	extraordinary	results,	you	need	
+GT :	But	remember,	if	you	want	to	stand	out,	you	must	be	a	standout.	If	you	want	extraordinary	results,	you	need	
+
+OCR:	an	extraordinary	perspective.	Wherever	you	are	in	your	GRE	preparation,	that's	null  	exactly	the	kind	of	success	we	wish	for	
+GT :	an	extraordinary	perspective.	Wherever	you	are	in	your	GRE	preparation,	null  	that’s	exactly	the	kind	of	success	we	wish	for	
+
+OCR:	you.	Beating	Exam	Stress	If	you're	null  	already	overwhelmed	with	anxiety	about	the	test,	in	addition	to	studying,	you	should	
+GT :	you.	Beating	Exam	Stress	If	null  	you’re	already	overwhelmed	with	anxiety	about	the	test,	in	addition	to	studying,	you	should	
+
+OCR:	focus	on	managing	that	stress.	To	combat	this	problem,	you	may	want	to	try	to	make	future	mock	tests	as	
+GT :	focus	on	managing	that	stress.	To	combat	this	problem,	you	may	want	to	try	to	make	future	mock	tests	as	
+
+OCR:	stressful	as	possible.	For	instance,	when	you're	null  	giving	yourself	a	practice	test,	don't	null 	stand	up	except	at	the	
+GT :	stressful	as	possible.	For	instance,	when	null  	you’re	giving	yourself	a	practice	test,	null 	don’t	stand	up	except	at	the	
+
+OCR:	appointed	breaks	of	the	exam.	Maybe	even	turn	on	the	television	in	the	background	just	so	you	can	learn	to	
+GT :	appointed	breaks	of	the	exam.	Maybe	even	turn	on	the	television	in	the	background	just	so	you	can	learn	to	
+
+OCR:	cope	with	distractions.	Another	important	way	of	coping	with	stress	is	to	notice	your	breathing.	When	we	become	stressed,	our	
+GT :	cope	with	distractions.	Another	important	way	of	coping	with	stress	is	to	notice	your	breathing.	When	we	become	stressed,	our	
+
+OCR:	breath	becomes	shallower	and	our	bodies	tense	up.	You	can	ease	stress	by	taking	longer,	deeper	breaths.	Just	a	few	
+GT :	breath	becomes	shallower	and	our	bodies	tense	up.	You	can	ease	stress	by	taking	longer,	deeper	breaths.	Just	a	few	
+
+OCR:	deep	breaths	should	calm	your	nerves	and	help	restore	your	breathing	and,	most	importantly,	your	focus.	Tips	to	Study	More	
+GT :	deep	breaths	should	calm	your	nerves	and	help	restore	your	breathing	and,	most	importantly,	your	focus.	Tips	to	Study	More	
+
+OCR:	Effectively	When	you're	null  	trying	to	focus	on	studying,	and	especially	when	you're	null  	following	a	pretty	intense	study	plan,	
+GT :	Effectively	When	null  	you’re	trying	to	focus	on	studying,	and	especially	when	null  	you’re	following	a	pretty	intense	study	plan,	
+
+OCR:	it	can	feel	like	the	whole	world	is	trying	to	distract	you.	Between	texts	from	friends,	social	media	messages	from	
+GT :	it	can	feel	like	the	whole	world	is	trying	to	distract	you.	Between	texts	from	friends,	social	media	messages	from	
+
+OCR:	family,	and	adorable	pictures	of	kittens,	it	can	be	hard	to	stay	true	to	the	study	schedule.	9	
+GT :	family,	and	adorable	pictures	of	kittens,	it	can	be	hard	to	stay	true	to	the	study	schedule.	9	
+

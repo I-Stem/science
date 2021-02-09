@@ -1,0 +1,57 @@
+OCR:	Of	the	incidents	that	occurred	within	an	IHE	owned/operated	building	(n	=	159),	over	half	of	them	took	place	in	
+GT :	Of	the	incidents	that	occurred	within	an	IHE	owned/operated	building	(n	=	159),	over	half	of	them	took	place	in	
+
+OCR:	dorm	rooms	or	apartments,	offices,	and	instructional	areas	such	as	classrooms,	lecture	halls,	or	laboratories	(n	=	90,	57	percent;	
+GT :	dorm	rooms	or	apartments,	offices,	and	instructional	areas	such	as	classrooms,	lecture	halls,	or	laboratories	(n	=	90,	57	percent;	
+
+OCR:	see	Table	5).	Table	5:	Directed	Assaults	within	THE 	null	Buildings,	by	Locale,	1900-2008	t   	Multiple	Locales	within	the 	Same	
+GT :	see	Table	5).	Table	5:	Directed	Assaults	within	null	IHE 	Buildings,	by	Locale,	1900-2008	null	null    	null   	null  	null	null	
+
+OCR:	Building	Several	subjects	also	carried	out	their	attacks	in	multiple	locales	within	the	same	building,	moving	from	offices	and	classrooms	
+GT :	null    	Several	subjects	also	carried	out	their	attacks	in	multiple	locales	within	the	same	building,	moving	from	offices	and	classrooms	
+
+OCR:	to	common	areas,	causing	injuries	and	deaths	at	the	different	locales	(4	percent,	n	=	7).	One	example	includes	the	
+GT :	to	common	areas,	causing	injuries	and	deaths	at	the	different	locales	(4	percent,	n	=	7).	One	example	includes	the	
+
+OCR:	following:	On	October	28,	2002,	a	41-year-old	student	entered	a	college	building	shortly	before	8:30	a.m.,	looking	for	three	instructors.	
+GT :	following:	On	October	28,	2002,	a	41-year-old	student	entered	a	college	building	shortly	before	8:30	a.m.,	looking	for	three	instructors.	
+
+OCR:	The	subject	fatally	shot	the	first	in	her	2nd-floor	office.	He	then	fatally	shot	the	second	in	a	4th-floor	classroom	
+GT :	The	subject	fatally	shot	the	first	in	her	2nd-floor	office.	He	then	fatally	shot	the	second	in	a	4th-floor	classroom	
+
+OCR:	in	front	of	approximately	20	students,	walked	to	the	back	of	the	classroom	and	shot	his	final	victim.	Soon	after,	
+GT :	in	front	of	approximately	20	students,	walked	to	the	back	of	the	classroom	and	shot	his	final	victim.	Soon	after,	
+
+OCR:	he	released	the	students	and	shot	himself.	The	subject	had	been	failing	and	had	mailed	a	22-page	letter	and	other	
+GT :	he	released	the	students	and	shot	himself.	The	subject	had	been	failing	and	had	mailed	a	22-page	letter	and	other	
+
+OCR:	documents	to	a	local	media	outlet.	In	his	letter,	he	sketched	his	failed	marriage,	poor	health,	and	the	slights	he	
+GT :	documents	to	a	local	media	outlet.	In	his	letter,	he	sketched	his	failed	marriage,	poor	health,	and	the	slights	he	
+
+OCR:	perceived	from	the	nursing	school	he	claimed	treated	male	students	as	"tokens."	See	Appendix	B	for	descriptions	of	remaining	six	
+GT :	perceived	from	the	nursing	school	he	claimed	treated	male	students	as	"tokens."	See	Appendix	B	for	descriptions	of	remaining	six	
+
+OCR:	incidents.	In	turning	to	those	incidents	that	occurred	off-campus	(n	=	52),	most	took	place	at	a	private	residence	(75	
+GT :	incidents.	In	turning	to	those	incidents	that	occurred	off-campus	(n	=	52),	most	took	place	at	a	private	residence	(75	
+
+OCR:	percent,	n	=	39),	while	approximately	one-fifth	of	the	incidents	occurred	outside	of	a	structure	(e.g.,	on	a	sidewalk,	in	
+GT :	percent,	n	=	39),	while	approximately	one-fifth	of	the	incidents	occurred	outside	of	a	structure	(e.g.,	on	a	sidewalk,	in	
+
+OCR:	a	parking	lot;	19	percent,	n	=	10).	Two	examples	of	incidents	that	occurred	off-campus	include	the	following:	On	December	
+GT :	a	parking	lot;	19	percent,	n	=	10).	Two	examples	of	incidents	that	occurred	off-campus	include	the	following:	On	December	
+
+OCR:	11,	1949,	a	24-year-old	student	strangled	his	girlfriend,	a	fellow	student,	after	a	fraternity	party	at	an	off-campus	men's	null 	
+GT :	11,	1949,	a	24-year-old	student	strangled	his	girlfriend,	a	fellow	student,	after	a	fraternity	party	at	an	off-campus	null 	men’s	
+
+OCR:	rooming	house.	Two	months	prior,	a	university	psychiatrist	had	treated	the	subject	for	suicidal	ideations	and	an	impulse	to	kill	
+GT :	rooming	house.	Two	months	prior,	a	university	psychiatrist	had	treated	the	subject	for	suicidal	ideations	and	an	impulse	to	kill	
+
+OCR:	said	girlfriend.	On	February	16,	2004,	a	38-year-old	former	student	who	had	worked	for	a	psychology	professor	at	a	test	
+GT :	said	girlfriend.	On	February	16,	2004,	a	38-year-old	former	student	who	had	worked	for	a	psychology	professor	at	a	test	
+
+OCR:	center	stalked	her,	went	to	her	off-campus	private	residence,	stabbed,	and	decapitated	her.	He	then	stripped	off	his	clothing	and	
+GT :	center	stalked	her,	went	to	her	off-campus	private	residence,	stabbed,	and	decapitated	her.	He	then	stripped	off	his	clothing	and	
+
+OCR:	ran	in	front	of	a	truck	on	the	highway,	killing	himself.	Campus	Attacks	Page	14	
+GT :	ran	in	front	of	a	truck	on	the	highway,	killing	himself.	Campus	Attacks	Page	14	
+

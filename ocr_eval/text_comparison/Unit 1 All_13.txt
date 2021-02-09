@@ -1,0 +1,42 @@
+OCR:	Lateral	Surface	of	the	Brain	i   	Fig.	1.	Lateral	surface	of	the	human	brain.	This	figure	is	not	labeled	so	
+GT :	Lateral	Surface	of	the	Brain	null	Fig.	1.	Lateral	surface	of	the	human	brain.	This	figure	is	not	labeled	so	
+
+OCR:	that	you	may	refer	to	it	for	review;	see	Figures	A3	&	A10	for	an	illustrated	and	labeled	view	of	
+GT :	that	you	may	refer	to	it	for	review;	see	Figures	A3	&	A10	for	an	illustrated	and	labeled	view	of	
+
+OCR:	the	same	hemisphere.	(Image	from	Sylvius4	Online)	Just	inferior	to	the	middle	frontal	gyrus,	across	the	inferior	frontal	sulcus,	is	
+GT :	the	same	hemisphere.	(Image	from	Sylvius4	Online)	Just	inferior	to	the	middle	frontal	gyrus,	across	the	inferior	frontal	sulcus,	is	
+
+OCR:	a	much	more	complex	gyral	formation.	For	our	purposes,	we	won't	null 	be	concerned	with	the	names	of	these	subcomponents	
+GT :	a	much	more	complex	gyral	formation.	For	our	purposes,	we	null 	won’t	be	concerned	with	the	names	of	these	subcomponents	
+
+OCR:	or	their	differential	functional	contributions	to	cognition	and	behavior.	Suffice	it	to	say	that	the	inferior	frontal	gyrus	contains	a	
+GT :	or	their	differential	functional	contributions	to	cognition	and	behavior.	Suffice	it	to	say	that	the	inferior	frontal	gyrus	contains	a	
+
+OCR:	critical	functional	division	of	the	motor	cortex	that	participates	in	the	production	of	speech.	This	division	has	a	special	name,	
+GT :	critical	functional	division	of	the	motor	cortex	that	participates	in	the	production	of	speech.	This	division	has	a	special	name,	
+
+OCR:	Broca's	null   	Area,	given	in	honor	of	the	famous	French	neurologist,	Pierre	Paul	Broca',	null 	null	null	who	first	recognized	
+GT :	null   	Broca’s	Area,	given	in	honor	of	the	famous	French	neurologist,	Pierre	Paul	null   	Broca	5   	,   	who	first	recognized	
+
+OCR:	the	significance	of	this	gyral	formation	for	human	speech	in	the	mid-19th	century.	Interestingly,	the	left	hemisphere	is	dominant	in	
+GT :	the	significance	of	this	gyral	formation	for	human	speech	in	the	mid-19th	century.	Interestingly,	the	left	hemisphere	is	dominant	in	
+
+OCR:	most	individuals	(especially	males	and	right-handers)	for	this	function,	such	that	damage	to	the	left	inferior	frontal	gyrus	is	more	
+GT :	most	individuals	(especially	males	and	right-handers)	for	this	function,	such	that	damage	to	the	left	inferior	frontal	gyrus	is	more	
+
+OCR:	likely	to	produce	an	impairment	of	language	expression,	called	Broca's	null   	aphasia	(aphasia	means	"without	speech"),	null    	null     	than	a	
+GT :	likely	to	produce	an	impairment	of	language	expression,	called	null   	Broca’s	aphasia	(aphasia	means	null    	null     	“without	speech”),	than	a	
+
+OCR:	comparable	lesion	involving	the	right	inferior	frontal	gyrus.	Interestingly,	this	is	also	the	division	of	the	premotor	cortex	where	in	
+GT :	comparable	lesion	involving	the	right	inferior	frontal	gyrus.	Interestingly,	this	is	also	the	division	of	the	premotor	cortex	where	in	
+
+OCR:	non-human	primates	neurons	with	"mirror"	null    	properties	have	been	characterized.	That	is,	neurons	in	the	posterior	part	of	the	inferior	
+GT :	non-human	primates	neurons	with	null    	“mirror”	properties	have	been	characterized.	That	is,	neurons	in	the	posterior	part	of	the	inferior	
+
+OCR:	frontal	gyrus	fire	when	certain	"   	null	click	here	for	more	on	this	important	figure	in	the	history	of	human	
+GT :	frontal	gyrus	fire	when	certain	null	5   	click	here	for	more	on	this	important	figure	in	the	history	of	human	
+
+OCR:	neuroanatomy.	3	
+GT :	neuroanatomy.	3	
+

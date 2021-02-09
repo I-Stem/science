@@ -1,0 +1,120 @@
+OCR:	1.2	Scientists	form	generalizations	from	observations.	The	Nature	of	Science	Biology	is	a	fascinating	and	important	subject,	because	it	dramatically	
+GT :	1.2	Scientists	form	generalizations	from	observations.	The	Nature	of	Science	Biology	is	a	fascinating	and	important	subject,	because	it	dramatically	
+
+OCR:	affects	our	daily	lives	and	our	futures.	Many	biologists	are	working	on	problems	that	critically	affect	our	lives,	such	as	
+GT :	affects	our	daily	lives	and	our	futures.	Many	biologists	are	working	on	problems	that	critically	affect	our	lives,	such	as	
+
+OCR:	the	world's	null   	rapidly	expanding	population	and	diseases	like	cancer	and	AIDS.	The	knowledge	these	biolo-	gists	gain	will	be	
+GT :	the	null   	world’s	rapidly	expanding	population	and	diseases	like	cancer	and	AIDS.	The	knowledge	these	biolo-	gists	gain	will	be	
+
+OCR:	fundamental	to	our	ability	to	manage	the	world's	null   	resources	in	a	suitable	manner,	to	prevent	or	cure	diseases,	and	
+GT :	fundamental	to	our	ability	to	manage	the	null   	world’s	resources	in	a	suitable	manner,	to	prevent	or	cure	diseases,	and	
+
+OCR:	to	improve	the	quality	of	our	lives	and	those	of	our	children	and	grandchildren.	Biology	is	one	of	the	most	
+GT :	to	improve	the	quality	of	our	lives	and	those	of	our	children	and	grandchildren.	Biology	is	one	of	the	most	
+
+OCR:	successful	of	the	"natural	null    	sci-	ences,"	null   	explaining	what	our	world	is	like.	To	understand	biology,	you	must	first	
+GT :	successful	of	the	null    	“natural	sci-	null   	ences,”	explaining	what	our	world	is	like.	To	understand	biology,	you	must	first	
+
+OCR:	understand	the	nature	of	science.	The	basic	tool	a	scientist	uses	is	thought.	To	understand	the	nature	of	science,	it	
+GT :	understand	the	nature	of	science.	The	basic	tool	a	scientist	uses	is	thought.	To	understand	the	nature	of	science,	it	
+
+OCR:	is	useful	to	focus	for	a	moment	on	how	scientists	think.	They	reason	in	two	ways:	deductively	and	inductively.	Deductive	
+GT :	is	useful	to	focus	for	a	moment	on	how	scientists	think.	They	reason	in	two	ways:	deductively	and	inductively.	Deductive	
+
+OCR:	Reasoning	Deductive	reasoning	applies	general	principles	to	predict	specific	results.	Over	2200	years	ago,	the	Greek	Era-	tosthenes	used	deductive	
+GT :	Reasoning	Deductive	reasoning	applies	general	principles	to	predict	specific	results.	Over	2200	years	ago,	the	Greek	Era-	tosthenes	used	deductive	
+
+OCR:	reasoning	to	accurately	estimate	the	circumference	of	the	earth.	At	high	noon	on	the	longest	day	of	the	year,	when	
+GT :	reasoning	to	accurately	estimate	the	circumference	of	the	earth.	At	high	noon	on	the	longest	day	of	the	year,	when	
+
+OCR:	the	sun's	null 	rays	hit	the	bottom	of	a	deep	well	in	the	city	of	Syene,	Egypt,	Eratosthenes	mea-	sured	
+GT :	the	null 	sun’s	rays	hit	the	bottom	of	a	deep	well	in	the	city	of	Syene,	Egypt,	Eratosthenes	mea-	sured	
+
+OCR:	the	length	of	the	shadow	cast	by	a	tall	obelisk	in	Al-	exandria,	about	800	kilometers	to	the	north.	Because	
+GT :	the	length	of	the	shadow	cast	by	a	tall	obelisk	in	Al-	exandria,	about	800	kilometers	to	the	north.	Because	
+
+OCR:	he	knew	the	distance	between	the	two	cities	and	the	height	of	the	obelisk,	he	was	able	to	employ	the	
+GT :	he	knew	the	distance	between	the	two	cities	and	the	height	of	the	obelisk,	he	was	able	to	employ	the	
+
+OCR:	principles	of	Euclid-	ean	geometry	to	correctly	deduce	the	circumference	of	the	earth	(figure	1.3).	This	sort	of	analysis	of	
+GT :	principles	of	Euclid-	ean	geometry	to	correctly	deduce	the	circumference	of	the	earth	(figure	1.3).	This	sort	of	analysis	of	
+
+OCR:	specific	cases	us-	ing	general	principles	is	an	example	of	deductive	reasoning.	It	is	the	reasoning	of	mathematics	and	philosophy	
+GT :	specific	cases	us-	ing	general	principles	is	an	example	of	deductive	reasoning.	It	is	the	reasoning	of	mathematics	and	philosophy	
+
+OCR:	and	is	used	to	test	the	validity	of	general	ideas	in	all	branches	of	knowledge.	General	principles	are	constructed	and	
+GT :	and	is	used	to	test	the	validity	of	general	ideas	in	all	branches	of	knowledge.	General	principles	are	constructed	and	
+
+OCR:	then	used	as	the	basis	for	examining	specific	cases.	Inductive	Reasoning	Inductive	reasoning	uses	specific	observations	to	construct	general	scientific	
+GT :	then	used	as	the	basis	for	examining	specific	cases.	Inductive	Reasoning	Inductive	reasoning	uses	specific	observations	to	construct	general	scientific	
+
+OCR:	principles.	Webster's	null     	Dictionary	defines	sci-	ence	as	systematized	knowledge	derived	from	observation	and	experiment	carried	on	to	determine	the	
+GT :	principles.	null     	Webster’s	Dictionary	defines	sci-	ence	as	systematized	knowledge	derived	from	observation	and	experiment	carried	on	to	determine	the	
+
+OCR:	principles	un-	derlying	what	is	being	studied.	In	other	words,	a	scientist	determines	principles	from	observations,	discovering	gen-	eral	principles	
+GT :	principles	un-	derlying	what	is	being	studied.	In	other	words,	a	scientist	determines	principles	from	observations,	discovering	gen-	eral	principles	
+
+OCR:	by	careful	examination	of	specific	cases.	In-	ductive	reasoning	first	became	important	to	science	in	the	1600s	in	Europe,	when	
+GT :	by	careful	examination	of	specific	cases.	In-	ductive	reasoning	first	became	important	to	science	in	the	1600s	in	Europe,	when	
+
+OCR:	Francis	Bacon,	Isaac	Newton,	and	others	began	to	use	the	results	of	particular	experiments	to	infer	general	principles	about	how	
+GT :	Francis	Bacon,	Isaac	Newton,	and	others	began	to	use	the	results	of	particular	experiments	to	infer	general	principles	about	how	
+
+OCR:	the	world	operates.	If	6	Part	I	The	Origin	of	Living	Things	FIGURE	1.3	Deductive	reasoning:	How	Eratosthenes	estimated	the	
+GT :	the	world	operates.	If	6	Part	I	The	Origin	of	Living	Things	FIGURE	1.3	Deductive	reasoning:	How	Eratosthenes	estimated	the	
+
+OCR:	cir-	cumference	of	the	earth	using	deductive	reasoning.	1.	On	a	day	when	sunlight	shone	straight	down	a	deep	well	
+GT :	cir-	cumference	of	the	earth	using	deductive	reasoning.	1.	On	a	day	when	sunlight	shone	straight	down	a	deep	well	
+
+OCR:	at	Syene	in	Egypt,	Eratosthenes	measured	the	length	of	the	shadow	cast	by	a	all 	null	obelisk	in	the	city	
+GT :	at	Syene	in	Egypt,	Eratosthenes	measured	the	length	of	the	shadow	cast	by	a	null	tall	obelisk	in	the	city	
+
+OCR:	of	Alexandria,	about	800	kilometers	away.	2.	The	shadow's	null    	length	and	the	obelisk's	null     	height	formed	two	sides	of	
+GT :	of	Alexandria,	about	800	kilometers	away.	2.	The	null    	shadow’s	length	and	the	null     	obelisk’s	height	formed	two	sides	of	
+
+OCR:	a	triangle.	Using	the	recently	developed	principles	of	Euclidean	geometry,	he	calculated	the	angle,	a,	to	be	7   	null	and	
+GT :	a	triangle.	Using	the	recently	developed	principles	of	Euclidean	geometry,	he	calculated	the	angle,	a,	to	be	null	7°  	and	
+
+OCR:	12',	null	exactly	so  	null	of	a	circle	(360%).	null   	3.	If	angle	a	=	50	of	a	circle,	then	
+GT :	null	12′,	exactly	null	1/50	of	a	circle	null   	(360°).	3.	If	angle	a	=	50	of	a	circle,	then	
+
+OCR:	the	distance	between	the	obelisk	(in	Alexandria)	and	the	well	(in	Syene)	must	equal	50  	null	of	the	circumference	of	
+GT :	the	distance	between	the	obelisk	(in	Alexandria)	and	the	well	(in	Syene)	must	equal	null	1/50	of	the	circumference	of	
+
+OCR:	the	earth.	4.	Eratosthenes	had	heard	that	it	was	a	50-day	camel	trip	from	Alexandria	to	Syene.	Assuming	that	a	
+GT :	the	earth.	4.	Eratosthenes	had	heard	that	it	was	a	50-day	camel	trip	from	Alexandria	to	Syene.	Assuming	that	a	
+
+OCR:	camel	travels	about	18.5	kilometers	per	day,	he	estimated	the	distance	between	obelisk	and	well	as	925	kilometers	(using	different	
+GT :	camel	travels	about	18.5	kilometers	per	day,	he	estimated	the	distance	between	obelisk	and	well	as	925	kilometers	(using	different	
+
+OCR:	units	of	measure,	of	course).	5.	Eratosthenes	thus	de-	Sunlight	Light	rays	at  	midday	parallel	duced	the	circumference	of	the	
+GT :	units	of	measure,	of	course).	5.	Eratosthenes	thus	de-	null    	null 	null	null	null  	null    	duced	the	circumference	of	the	
+
+OCR:	earth	to	be	50	x	Distance	between	925 	=   	null	46,250	cities	=   	800 	km  	kilometers.	Modern	Well	measurements	put	
+GT :	earth	to	be	50	x	null    	null   	null	null	925=	46,250	null  	null	null	null	kilometers.	Modern	null	measurements	put	
+
+OCR:	the	Height	of  	distance	from	the	well	to	obelisk	the	obelisk	at	just	over	Length	of  	800	kilometers.	Employ-	shadow	
+GT :	the	null  	null	distance	from	the	well	to	null   	the	obelisk	at	just	over	null  	null	800	kilometers.	Employ-	null  	
+
+OCR:	ing	a	distance	of	800	kilometers,	Era 	tosthenes's	null	null       	value	would	have	been	50	x   	null	800	=	10,000	
+GT :	ing	a	distance	of	800	kilometers,	null	null       	Era-	tosthenes’s	value	would	have	been	50	null	×   	800	=	null  	
+
+OCR:	null  	kilometers.	The	actual	circumference	is	40,075	kilometers.	you	release	an	apple	from	your	hand,	what	happens?	The	apple	falls	
+GT :	40,000	kilometers.	The	actual	circumference	is	40,075	kilometers.	you	release	an	apple	from	your	hand,	what	happens?	The	apple	falls	
+
+OCR:	to	the	ground.	From	a	host	of	simple,	specific	observations	like	this,	Newton	inferred	a	general	principle:	all	objects	fall	
+GT :	to	the	ground.	From	a	host	of	simple,	specific	observations	like	this,	Newton	inferred	a	general	principle:	all	objects	fall	
+
+OCR:	toward	the	center	of	the	earth.	What	New-	ton	did	was	construct	a	mental	model	of	how	the	world	works,	
+GT :	toward	the	center	of	the	earth.	What	New-	ton	did	was	construct	a	mental	model	of	how	the	world	works,	
+
+OCR:	a	family	of	general	principles	consistent	with	what	he	could	see	and	learn.	Scientists	do	the	same	today.	They	use	
+GT :	a	family	of	general	principles	consistent	with	what	he	could	see	and	learn.	Scientists	do	the	same	today.	They	use	
+
+OCR:	specific	observations	to	build	general	models,	and	then	rest	null	the	models	to	see	how	well	they	work.	Science	is	
+GT :	specific	observations	to	build	general	models,	and	then	null	test	the	models	to	see	how	well	they	work.	Science	is	
+
+OCR:	a	way	of	viewing	the	world	that	focuses	on	objective	information,	putting	that	information	to	work	to	build	understanding	null          	
+GT :	a	way	of	viewing	the	world	that	focuses	on	objective	information,	putting	that	information	to	work	to	build	null         	understanding.	
+

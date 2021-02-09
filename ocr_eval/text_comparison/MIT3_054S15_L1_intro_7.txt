@@ -1,0 +1,9 @@
+OCR:	Engineering	Foams	i   	null        	null  	null    	null 	null        	null  	Mullite	(combination	of	alumina	and	silica)	null     	Gibson,	L.	J.,	and	
+GT :	Engineering	Foams	null	Polyurethane	Nickel	Zirconia	Glass	Polyethylene	Copper	Mullite	(combination	of	alumina	and	silica)	Polyether	Gibson,	L.	J.,	and	
+
+OCR:	M.	F.	Ashby.	Cellular	Solids:	Structure	and	Properties.	2nd 	null	null	ed.	Cambridge	University	Press.	@   	null	1997.	Figures	courtesy	
+GT :	M.	F.	Ashby.	Cellular	Solids:	Structure	and	Properties.	null	2   	nd  	ed.	Cambridge	University	Press.	null	©   	1997.	Figures	courtesy	
+
+OCR:	of	Lorna	Gibson	and	Cambridge	University	Press.	null	
+GT :	of	Lorna	Gibson	and	Cambridge	University	Press.	7   	
+

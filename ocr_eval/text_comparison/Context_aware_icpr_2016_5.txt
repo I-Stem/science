@@ -1,0 +1,81 @@
+OCR:	i   	Fig.	7.	Expression	level	evaluation	results	of	S1  	null	null	(top	left),	S2  	null	null	(top	right)	and	S3  	
+GT :	null	Fig.	7.	Expression	level	evaluation	results	of	null	S   	1   	(top	left),	null	S   	2   	(top	right)	and	null	
+
+OCR:	null	null	(bottom	left).	The	solid	lines	represent	origin	results	and	the	dashed	ones	represent	results	with	less	symbol	evaluated.	
+GT :	S   	3   	(bottom	left).	The	solid	lines	represent	origin	results	and	the	dashed	ones	represent	results	with	less	symbol	evaluated.	
+
+OCR:	i   	Fig.	8.	Results	of	context-aware	framework	for	hard	tackling	cases.	(a)	Auto-cut	touching	symbols.	We	use	'-  	-'  	null	
+GT :	null	Fig.	8.	Results	of	context-aware	framework	for	hard	tackling	cases.	(a)	Auto-cut	touching	symbols.	We	use	null	null	‘-  	
+
+OCR:	null	to	represent	fraction	line	and	\	to	represent	':';	null	(b)	(c)	Auto-combine	multi-parts	symbols	like	':' 	'='.	'xx'	
+GT :	-’  	to	represent	fraction	line	and	\	to	represent	null	‘÷’;	(b)	(c)	Auto-combine	multi-parts	symbols	like	null	null	null	
+
+OCR:	null	null	null	that	represents	multiplication	sign	is	used	to	distinguish	from	letter	'x';	null	(d)	Ambiguous	symbol	'1',	'o' 	
+GT :	‘÷’ 	‘=’.	‘xx’	that	represents	multiplication	sign	is	used	to	distinguish	from	letter	null	‘x’;	(d)	Ambiguous	symbol	null	null	
+
+OCR:	null	null	in	'log'	null 	is	correctly	recognized.	We	use	'll'	null	here	to	distinguish	from	digit	'1';	null	(e)	
+GT :	‘1’,	‘o’ 	in	null 	‘log’	is	correctly	recognized.	We	use	null	‘ll’	here	to	distinguish	from	digit	null	‘1’;	(e)	
+
+OCR:	(f)	Failed	cases	for	long	symbols	like	brackets	and	blurred	ones	C.	Case	Analysis	The	purpose	of	context-aware	framework	is	
+GT :	(f)	Failed	cases	for	long	symbols	like	brackets	and	blurred	ones	C.	Case	Analysis	The	purpose	of	context-aware	framework	is	
+
+OCR:	to	solve	the	existing	problems	in	ME	recognition.	The	Fig	8	displays	some	hard-tackling	cases	for	previous	methods	and	results	
+GT :	to	solve	the	existing	problems	in	ME	recognition.	The	Fig	8	displays	some	hard-tackling	cases	for	previous	methods	and	results	
+
+OCR:	of	our	model.	The	results	in	Fig	8	display	the	effectiveness	of	proposed	method	to	handle	multi-parts	symbols	like	':',	
+GT :	of	our	model.	The	results	in	Fig	8	display	the	effectiveness	of	proposed	method	to	handle	multi-parts	symbols	like	null	
+
+OCR:	":',	null	null	touching	case	in	Fig	8.a	and	ambiguous	symbols	like	fraction	ine,	null 	minus	sign,	letter	'I' 	null	
+GT :	null	‘÷’,	‘:’,	touching	case	in	Fig	8.a	and	ambiguous	symbols	like	fraction	null	line,	minus	sign,	letter	null	‘l’ 	
+
+OCR:	and	digit	'1'.	null	We	also	display	some	failed	cases	like	long	and	blurred	symbols.	For	long	symbols	like	bracket,	
+GT :	and	digit	null	‘1’.	We	also	display	some	failed	cases	like	long	and	blurred	symbols.	For	long	symbols	like	bracket,	
+
+OCR:	regression	task	tends	to	output	poor	results	and	for	blurred	images	like	Fig	8.f,	we	human	could	recognize	he  	null	
+GT :	regression	task	tends	to	output	poor	results	and	for	blurred	images	like	Fig	8.f,	we	human	could	recognize	null	the 	
+
+OCR:	symbols	'FeSO4'	null	null	null	null	depending	on	our	much	more	abundant	prior	knowledge.	D.  	Effectiveness	of  	Multi-task	Learning	To  	
+GT :	symbols	null   	‘F  	eSO 	4   	’   	depending	on	our	much	more	abundant	prior	knowledge.	null	null         	null	null      	null    	null	
+
+OCR:	test	the 	effectiveness	of  	triple	tasks,	we  	have	designed	for 	ME  	recognition,	by  	introducing	a   	CNN 	based	structure	two 	extra	
+GT :	null	null	null         	null	null  	null  	null	null	null    	null	null	null        	null	null       	null	null	null 	null     	null	null 	
+
+OCR:	networks.	The 	first	one 	removes	detection	task	and 	takes	the 	background	category	into	recognition.	This	no- 	3250	i   	Fig.	9.	
+GT :	null     	null	null 	null	null   	null     	null	null	null 	null	null      	null    	null	null        	null	null	null	null	Fig.	9.	
+
+OCR:	(a)	The	structure	without	shared	convolutional	features.	(b)	The	structure	with	no	detection.	(c)	The	proposed	method	detection	network	is	
+GT :	(a)	The	structure	without	shared	convolutional	features.	(b)	The	structure	with	no	detection.	(c)	The	proposed	method	detection	network	is	
+
+OCR:	designed	to	demonstrate	the	importance	of	detection	task	though	the	recognition	task	could	also	handle	detection.	The	second	network	trains	
+GT :	designed	to	demonstrate	the	importance	of	detection	task	though	the	recognition	task	could	also	handle	detection.	The	second	network	trains	
+
+OCR:	recognition	task	separately	with	the	same	convolution	structure	as	detection	and	regression	tasks.	The	latter	network	intends	to	prove	the	
+GT :	recognition	task	separately	with	the	same	convolution	structure	as	detection	and	regression	tasks.	The	latter	network	intends	to	prove	the	
+
+OCR:	benefit	of	shared	feature	design.	Simplified	structures	of	three	networks	for	comparison	are	shown	in	Fig	9.	The	results	are	
+GT :	benefit	of	shared	feature	design.	Simplified	structures	of	three	networks	for	comparison	are	shown	in	Fig	9.	The	results	are	
+
+OCR:	shown	in	Table	4.	By	comparison	we	can	come	to	the	conclusion	that	triple-task	structure	indeed	benefits	the	performance.	The	
+GT :	shown	in	Table	4.	By	comparison	we	can	come	to	the	conclusion	that	triple-task	structure	indeed	benefits	the	performance.	The	
+
+OCR:	no-detection	network	gives	a	much	lower	precision	which	indicates	the	idea	that	splitting	a	complicated	task	into	two	indeed	helps	
+GT :	no-detection	network	gives	a	much	lower	precision	which	indicates	the	idea	that	splitting	a	complicated	task	into	two	indeed	helps	
+
+OCR:	improve	the	overall	performance.	For	the	unshared	feature	structure,	precision	and	recall	are	both	slightly	lower	than	that	of	the	
+GT :	improve	the	overall	performance.	For	the	unshared	feature	structure,	precision	and	recall	are	both	slightly	lower	than	that	of	the	
+
+OCR:	proposed	method.	It	is	obvious	that	the	shared	feature	structure	could	provide	enough	information	and	save	much	more	computation	than	
+GT :	proposed	method.	It	is	obvious	that	the	shared	feature	structure	could	provide	enough	information	and	save	much	more	computation	than	
+
+OCR:	the	other.	VI.	CONCLUSION	null	null     	null	null         	null	null      	null    	null	null	null	null         	null	null  	null  	null	null	
+GT :	the	other.	VI.	null      	C   	ONCLUSION	D.  	Effectiveness	of  	Multi-task	Learning	To  	test	the 	effectiveness	of  	triple	tasks,	we  	have	
+
+OCR:	null    	null	null 	null     	null	null 	null	null   	null     	null	null	null 	null	null      	null    	null	null        	null	null	In	
+GT :	designed	two 	extra	networks.	The 	first	one 	removes	detection	task	and 	takes	the 	background	category	into	recognition.	This	no- 	In	
+
+OCR:	this	paper,	we	present	a	context-aware	end-to-end	system	null	null	null        	null	null       	null	null	null 	null     	with	multi-task	learning	
+GT :	this	paper,	we	present	a	context-aware	end-to-end	system	for 	ME  	recognition,	by  	introducing	a   	CNN 	based	structure	with	multi-task	learning	
+
+OCR:	to	perform	mathematical	symbols	detection	and	recognition	simultaneously.	Experiments	verify	null	
+GT :	to	perform	mathematical	symbols	detection	and	recognition	simultaneously.	Experiments	verify	3250	
+

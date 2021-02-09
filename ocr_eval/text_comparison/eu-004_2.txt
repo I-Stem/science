@@ -1,0 +1,15 @@
+OCR:	Table	6.1:	Size	of	the	market	across	the	member	states	t   	Sources:	for	GNP	and	population,	World	Bank,	"World	null  	
+GT :	Table	6.1:	Size	of	the	market	across	the	member	states	null	Sources:	for	GNP	and	population,	World	Bank,	null  	“World	
+
+OCR:	Atlas	1997";	for	number	of	outlets	and	their	sales,	Corporate	Intelligence	on	Retailing,	as	reported	in	"The	null	European	Retail	
+GT :	Atlas	1997";	for	number	of	outlets	and	their	sales,	Corporate	Intelligence	on	Retailing,	as	reported	in	null	“The	European	Retail	
+
+OCR:	Handbook	1998",	null  	for	'the	null	latest	available	year'	null 	Table	6.2:	Numbers	of	Retail	Food	Outlets	across	the	member	
+GT :	Handbook	null  	1998”,	for	null	‘the	latest	available	null 	year’	Table	6.2:	Numbers	of	Retail	Food	Outlets	across	the	member	
+
+OCR:	states	t   	Sources:	*	La	Distribution	Alimentaire,	ACNielson,	1998;	**	"Retailing	null      	in	the	European	Economic	Area",	null  	EUROSTAT,	1996	
+GT :	states	null	Sources:	*	La	Distribution	Alimentaire,	ACNielson,	1998;	**	null      	“Retailing	in	the	European	Economic	null  	Area”,	EUROSTAT,	1996	
+
+OCR:	41	
+GT :	41	
+

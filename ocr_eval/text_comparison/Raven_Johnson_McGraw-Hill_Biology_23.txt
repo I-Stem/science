@@ -1,0 +1,30 @@
+OCR:	Table	2.1	The	Most	Common	Elements	on	Earth	and	Their	Distribution	in	the	Human	Body	t   	Distribution	of	the	Elements	
+GT :	Table	2.1	The	Most	Common	Elements	on	Earth	and	Their	Distribution	in	the	Human	Body	null	Distribution	of	the	Elements	
+
+OCR:	Of	the	92	naturally	occurring	elements	on	earth,	only	11	are	found	in	organisms	in	more	than	trace	amounts	(0.01%	
+GT :	Of	the	92	naturally	occurring	elements	on	earth,	only	11	are	found	in	organisms	in	more	than	trace	amounts	(0.01%	
+
+OCR:	or	higher).	These	11	elements	have	atomic	numbers	less	than	21	and,	thus,	have	low	atomic	masses.	Table	2.1	lists	
+GT :	or	higher).	These	11	elements	have	atomic	numbers	less	than	21	and,	thus,	have	low	atomic	masses.	Table	2.1	lists	
+
+OCR:	the	levels	of	various	elements	in	the	human	body;	their	levels	in	other	organisms	are	similar.	Inspection	of	this	table	
+GT :	the	levels	of	various	elements	in	the	human	body;	their	levels	in	other	organisms	are	similar.	Inspection	of	this	table	
+
+OCR:	suggests	that	the	distribution	of	elements	in	living	systems	is	by	no	means	accidental.	The	most	common	elements	inside	or-	
+GT :	suggests	that	the	distribution	of	elements	in	living	systems	is	by	no	means	accidental.	The	most	common	elements	inside	or-	
+
+OCR:	ganisms	are	not	the	elements	that	are	most	abundant	in	the	earth's	null   	crust.	For	example,	silicon,	aluminum,	and	iron	
+GT :	ganisms	are	not	the	elements	that	are	most	abundant	in	the	null   	earth’s	crust.	For	example,	silicon,	aluminum,	and	iron	
+
+OCR:	con-	stitute	39.2%	of	the	earth's	null   	crust,	but	they	exist	in	trace	amounts	in	the	human	body.	On	the	
+GT :	con-	stitute	39.2%	of	the	null   	earth’s	crust,	but	they	exist	in	trace	amounts	in	the	human	body.	On	the	
+
+OCR:	other	hand,	carbon	at-	oms	make	up	18.5%	of	the	human	body	but	only	0.03%	of	the	earth's	null   	crust.	
+GT :	other	hand,	carbon	at-	oms	make	up	18.5%	of	the	human	body	but	only	0.03%	of	the	null   	earth’s	crust.	
+
+OCR:	Ninety-two	elements	occur	naturally	on	earth;	only	eleven	of	them	are	found	in	significant	amounts	in	living	organisms.	Four	of	
+GT :	Ninety-two	elements	occur	naturally	on	earth;	only	eleven	of	them	are	found	in	significant	amounts	in	living	organisms.	Four	of	
+
+OCR:	them-oxygen,	null        	hydrogen,	carbon,	nitrogen-constitute	null               	96.3%	of	the	weight	of	your	body.	Chapter	2	The	Nature	of	Molecules	25	
+GT :	null        	them—oxygen,	hydrogen,	carbon,	null               	nitrogen—constitute	96.3%	of	the	weight	of	your	body.	Chapter	2	The	Nature	of	Molecules	25	
+

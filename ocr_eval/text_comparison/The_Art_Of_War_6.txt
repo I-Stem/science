@@ -1,0 +1,30 @@
+OCR:	SUN 	TZU 	ON  	THE 	ART 	OF  	WAR 	null	null	null	null	null	null	null	(6)	On	which	side	are	officers	
+GT :	null	null	null	null	null	null	null	Sun 	Tzu 	on  	the 	Art 	of  	War 	(6)	On	which	side	are	officers	
+
+OCR:	and	men	more	high-	ly	trained?	(7)	In	which	army	is	there	the	greater	constancy	both	in	reward	and	punishment?	
+GT :	and	men	more	high-	ly	trained?	(7)	In	which	army	is	there	the	greater	constancy	both	in	reward	and	punishment?	
+
+OCR:	14.	By	means	of	these	seven	considerations	I	can	fore-	cast	victory	or	defeat.	15.	The	general	that	hearkens	to	
+GT :	14.	By	means	of	these	seven	considerations	I	can	fore-	cast	victory	or	defeat.	15.	The	general	that	hearkens	to	
+
+OCR:	my	counsel	and	acts	upon	it,	will	conquer:	let	such	a	one	be	retained	in	command!	The	general	that	hearkens	
+GT :	my	counsel	and	acts	upon	it,	will	conquer:	let	such	a	one	be	retained	in	command!	The	general	that	hearkens	
+
+OCR:	not	to	my	coun-	sel	nor	acts	upon	it,	will	suffer	defeat:-let	null       	such	a	one	be	dismissed!	16.	While	
+GT :	not	to	my	coun-	sel	nor	acts	upon	it,	will	suffer	null       	defeat:—let	such	a	one	be	dismissed!	16.	While	
+
+OCR:	heading	the	profit	of	my	counsel,	avail	your-	self	also	of	any	helpful	circumstances	over	and	beyond	the	ordinary	rules.	
+GT :	heading	the	profit	of	my	counsel,	avail	your-	self	also	of	any	helpful	circumstances	over	and	beyond	the	ordinary	rules.	
+
+OCR:	17.	According	as	circumstances	are	favorable,	one	should	modify	one's	null 	plans.	18.	All	warfare	is	based	on	deception.	19.	
+GT :	17.	According	as	circumstances	are	favorable,	one	should	modify	null 	one’s	plans.	18.	All	warfare	is	based	on	deception.	19.	
+
+OCR:	Hence,	when	able	to	attack,	we	must	seem	unable;	when	using	our	forces,	we	must	seem	inactive;	when	we	are	
+GT :	Hence,	when	able	to	attack,	we	must	seem	unable;	when	using	our	forces,	we	must	seem	inactive;	when	we	are	
+
+OCR:	near,	we	must	make	the	enemy	believe	we	are	far	away;	when	far	away,	we	must	make	him	believe	we	
+GT :	near,	we	must	make	the	enemy	believe	we	are	far	away;	when	far	away,	we	must	make	him	believe	we	
+
+OCR:	are	near.	20.	Hold	out	baits	to	entice	the	enemy.	Feign	disor-	der,	and	crush	him.	null	
+GT :	are	near.	20.	Hold	out	baits	to	entice	the	enemy.	Feign	disor-	der,	and	crush	him.	3   	
+

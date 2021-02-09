@@ -1,0 +1,30 @@
+OCR:	SUN 	TZU 	ON  	THE 	ART 	OF  	WAR 	null	null	null	null	null	null	null	8.	Earth	comprises	distances,	great	and	
+GT :	null	null	null	null	null	null	null	Sun 	Tzu 	on  	the 	Art 	of  	War 	8.	Earth	comprises	distances,	great	and	
+
+OCR:	small;	danger	and	security;	open	ground	and	narrow	passes;	the	chances	of	life	and	death.	9.	The	Commander	stands	for	
+GT :	small;	danger	and	security;	open	ground	and	narrow	passes;	the	chances	of	life	and	death.	9.	The	Commander	stands	for	
+
+OCR:	the	virtues	of	wisdom,	sincerely,	benevolence,	courage	and	strict-	ness.	10.	By	method	and	discipline	are	to	be	understood	the	
+GT :	the	virtues	of	wisdom,	sincerely,	benevolence,	courage	and	strict-	ness.	10.	By	method	and	discipline	are	to	be	understood	the	
+
+OCR:	marshaling	of	the	army	in	its	proper	subdivisions,	the	graduations	of	rank	among	the	officers,	the	mainte-	nance	of	roads	
+GT :	marshaling	of	the	army	in	its	proper	subdivisions,	the	graduations	of	rank	among	the	officers,	the	mainte-	nance	of	roads	
+
+OCR:	by	which	supplies	may	reach	the	army,	and	the	control	of	military	expenditure.	11.	These	five	heads	should	be	familiar	
+GT :	by	which	supplies	may	reach	the	army,	and	the	control	of	military	expenditure.	11.	These	five	heads	should	be	familiar	
+
+OCR:	to	every	gener-	al:	he	who	knows	them	will	be	victorious;	he	who	knows	them	not	will	fail.	12.	Therefore,	
+GT :	to	every	gener-	al:	he	who	knows	them	will	be	victorious;	he	who	knows	them	not	will	fail.	12.	Therefore,	
+
+OCR:	in	your	deliberations,	when	seeking	to	determine	the	military	conditions,	let	them	be	made	the	basis	of	a	comparison,	in	
+GT :	in	your	deliberations,	when	seeking	to	determine	the	military	conditions,	let	them	be	made	the	basis	of	a	comparison,	in	
+
+OCR:	this	wise:-	null  	13.	(1)	Which	of	the	two	sovereigns	is	imbued	with	the	Moral	law?	(2)	Which	of	the	
+GT :	this	null  	wise:—	13.	(1)	Which	of	the	two	sovereigns	is	imbued	with	the	Moral	law?	(2)	Which	of	the	
+
+OCR:	two	generals	has	most	ability?	(3)	With	whom	lie	the	advantages	derived	from	Heaven	and	Earth?	(4)	On	which	side	
+GT :	two	generals	has	most	ability?	(3)	With	whom	lie	the	advantages	derived	from	Heaven	and	Earth?	(4)	On	which	side	
+
+OCR:	is	discipline	most	rigorously	enforced?	(5)	Which	army	is	stronger?	2	
+GT :	is	discipline	most	rigorously	enforced?	(5)	Which	army	is	stronger?	2	
+

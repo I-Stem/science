@@ -1,0 +1,15 @@
+OCR:	Cellular	Solids	.   	null	Engineering	cellular	solids	-   	null	Honeycombs:	2D	prismatic	cells	-   	null	Foams:	3D	polyhedral	cells	-   	
+GT :	Cellular	Solids	null	•   	Engineering	cellular	solids	null	–   	Honeycombs:	2D	prismatic	cells	null	–   	Foams:	3D	polyhedral	cells	null	
+
+OCR:	null	Applications:	sandwich	panels,	energy	absorption,	insulation	.   	null	Cellular	materials	in	medicine	-   	null	Trabecular	bone,	osteoporosis	-   	null	
+GT :	–   	Applications:	sandwich	panels,	energy	absorption,	insulation	null	•   	Cellular	materials	in	medicine	null	–   	Trabecular	bone,	osteoporosis	null	–   	
+
+OCR:	Tissue	engineering	scaffolds;	cell-scaffold	mechanics	.   	null	Cellular	materials	in	nature	null	Honeycomb-like:	wood,	cork	-   	null	Foam-like:	trabecular	bone,	
+GT :	Tissue	engineering	scaffolds;	cell-scaffold	mechanics	null	•   	Cellular	materials	in	nature	–   	Honeycomb-like:	wood,	cork	null	–   	Foam-like:	trabecular	bone,	
+
+OCR:	plant	parenchyma,	sponges	-   	null	Cellular/solid	structural	components	in	nature	.   	null	Sandwich	panels	(leaves,	skulls)	.   	null	Radial	density	
+GT :	plant	parenchyma,	sponges	null	–   	Cellular/solid	structural	components	in	nature	null	•   	Sandwich	panels	(leaves,	skulls)	null	•   	Radial	density	
+
+OCR:	gradients	(palm	stems,	bamboo)	.   	null	Cylindrical	shells	with	compliant	cores	(plant	stems,	animal	quills,	toucan	beak)	3	
+GT :	gradients	(palm	stems,	bamboo)	null	•   	Cylindrical	shells	with	compliant	cores	(plant	stems,	animal	quills,	toucan	beak)	3	
+

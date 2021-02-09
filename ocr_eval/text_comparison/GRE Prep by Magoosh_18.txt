@@ -1,0 +1,33 @@
+OCR:	Chapter	1	Meet	the	GRE	The	Test	Breakdown	The	sections	The	GRE	consists	of	two	Quantitative	Reasoning	sections,	two	Verbal	
+GT :	Chapter	1	Meet	the	GRE	The	Test	Breakdown	The	sections	The	GRE	consists	of	two	Quantitative	Reasoning	sections,	two	Verbal	
+
+OCR:	Reasoning	sections,	and	one	experimental	section,	which	can	be	either	Verbal	or	Quantitative.	In	addition,	there	are	two	timed	essay-writing	
+GT :	Reasoning	sections,	and	one	experimental	section,	which	can	be	either	Verbal	or	Quantitative.	In	addition,	there	are	two	timed	essay-writing	
+
+OCR:	assignments	in	the	Analytical	Writing	Assessment	(AWA)	section	of	the	GRE.	The	experimental	section	won't	null 	count	toward	your	score,	
+GT :	assignments	in	the	Analytical	Writing	Assessment	(AWA)	section	of	the	GRE.	The	experimental	section	null 	won’t	count	toward	your	score,	
+
+OCR:	but	you	won't	null 	know	which	section	is	the	experimental	one.	You	should	treat	all	sections	like	they're	null   	the	
+GT :	but	you	null 	won’t	know	which	section	is	the	experimental	one.	You	should	treat	all	sections	like	null   	they’re	the	
+
+OCR:	real	deal.	Both	the	overall	GRE	Verbal	and	GRE	Quantitative	scores	can	range	from	130	to	170.	The	essays	are	
+GT :	real	deal.	Both	the	overall	GRE	Verbal	and	GRE	Quantitative	scores	can	range	from	130	to	170.	The	essays	are	
+
+OCR:	scored	from	0	to	6	in	half-point	increments.	Number	of	questions	and	time	limit	The	GRE	Quantitative	sections	contain	twenty	
+GT :	scored	from	0	to	6	in	half-point	increments.	Number	of	questions	and	time	limit	The	GRE	Quantitative	sections	contain	twenty	
+
+OCR:	questions	each.	You'll	null  	be	given	thirty-five	minutes	to	complete	each	section.	The	Verbal	sections	also	consist	of	twenty	questions	
+GT :	questions	each.	null  	You’ll	be	given	thirty-five	minutes	to	complete	each	section.	The	Verbal	sections	also	consist	of	twenty	questions	
+
+OCR:	each,	but	you'll	null  	have	just	thirty	minutes	to	complete	those	sections.	GRE	Quantitative	overview	The	two	sections	in	this	
+GT :	each,	but	null  	you’ll	have	just	thirty	minutes	to	complete	those	sections.	GRE	Quantitative	overview	The	two	sections	in	this	
+
+OCR:	category	are	made	up	of	approximately	seven	quantitative	comparison	questions	and	thirteen	non-quantitative	null            	comparison	questions	(don't	null  	worry,	we'll	
+GT :	category	are	made	up	of	approximately	seven	quantitative	comparison	questions	and	thirteen	null            	non–quantitative	comparison	questions	null  	(don’t	worry,	null 	
+
+OCR:	null 	explain	comparison	and	non-comparison	questions	soon).	Possible	question	types	include	the	following	(these	four	example	practice	questions	will	be	
+GT :	we’ll	explain	comparison	and	non-comparison	questions	soon).	Possible	question	types	include	the	following	(these	four	example	practice	questions	will	be	
+
+OCR:	explained	starting	on	page	35;	no	need	to	worry	about	solving	them	now!):	null	
+GT :	explained	starting	on	page	35;	no	need	to	worry	about	solving	them	now!):	1   	
+

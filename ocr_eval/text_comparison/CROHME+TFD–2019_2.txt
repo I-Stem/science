@@ -1,0 +1,132 @@
+OCR:	TABLE	I:	CROHME	2019	DATA	SETS	t   	null	null	null	null	to	render	images.	Participants	then	convert	these	handwritten	formula	
+GT :	TABLE	I:	CROHME	2019	null	null	null	D   	ATA 	S   	ETS 	to	render	images.	Participants	then	convert	these	handwritten	formula	
+
+OCR:	images	to	a	Symbol	Layout	Tree.	For	evaluation,	the	same	evaluation	tools	are	used	as	for	Task	1.	Again,	participants	
+GT :	images	to	a	Symbol	Layout	Tree.	For	evaluation,	the	same	evaluation	tools	are	used	as	for	Task	1.	Again,	participants	
+
+OCR:	are	ranked	by	the	expression	rate	of	their	system.	participants	were	welcome	to  	resize	the 	original	images	using	.   	null	
+GT :	are	ranked	by	the	expression	rate	of	their	system.	null        	null	null   	null	null  	null	null    	null  	null 	null	•   	
+
+OCR:	Task	2a	(symbols):	subtask	where	participants	recog-	ize 	null	isolated	symbols,	including	'junk'	null  	(invalid	symbols).	Ranked	by	symbol	recognition	
+GT :	Task	2a	(symbols):	subtask	where	participants	recog-	null	nize	isolated	symbols,	including	null  	‘junk’	(invalid	symbols).	Ranked	by	symbol	recognition	
+
+OCR:	rate.	.   	null	Task	2b	(parsing	from	provided	symbols):	subtask	allow	all 	segmentation,	classification,	and 	structural	errors	where	participants	parse	
+GT :	rate.	null	•   	Task	2b	(parsing	from	provided	symbols):	subtask	null 	null	null         	null           	null	null      	null  	where	participants	parse	
+
+OCR:	formulas	from	provided	symbols	to  	be  	identified	unambiguously,	even	when	segmentations	(bounding	boxes	+	labels).	Ranked	by	expression	rate.	Task	
+GT :	formulas	from	provided	symbols	null	null	null      	null          	null	null	null         	(bounding	boxes	+	labels).	Ranked	by	expression	rate.	Task	
+
+OCR:	3.	Detection	of	Formulas	in	Document	Pages.	Given	a	document	page	along	with	the	bounding	boxes	of	characters	on	that	
+GT :	3.	Detection	of	Formulas	in	Document	Pages.	Given	a	document	page	along	with	the	bounding	boxes	of	characters	on	that	
+
+OCR:	page	(as	are	available	for	born-digital	PDF	files),	participating	systems	identify	formulas	using	bounding	boxes.	Evaluation	is	performed	using	Intersection-over-Union	
+GT :	page	(as	are	available	for	born-digital	PDF	files),	participating	systems	identify	formulas	using	bounding	boxes.	Evaluation	is	performed	using	Intersection-over-Union	
+
+OCR:	(IoU,	or	equivalently	the	Jaccard	similarity	coefficient),	and	systems	are	ranked	based	on	their	F-measure	after	matching	output	formula	boxes	
+GT :	(IoU,	or	equivalently	the	Jaccard	similarity	coefficient),	and	systems	are	ranked	based	on	their	F-measure	after	matching	output	formula	boxes	
+
+OCR:	to	ground	truth	formula	regions.	III.	DATASETS	null	null   	AND	FORMULA	ENCODINGS	null	null  	null	null    	In	this	Section	we	
+GT :	to	ground	truth	formula	regions.	III.	null    	D   	ATASETS	AND	null   	null     	F   	ORMULA	E   	NCODINGS	In	this	Section	we	
+
+OCR:	describe	data	used	in	the	competition,	how	it	was	collected,	and	the	encodings	used.	Table	I	summa-	rizes	the	datasets	
+GT :	describe	data	used	in	the	competition,	how	it	was	collected,	and	the	encodings	used.	Table	I	summa-	rizes	the	datasets	
+
+OCR:	used	for	the	competition.	Handwritten	Formulas:	Input	Data.	For	Task	1,	we	use	online	data	in	the	same	InkML	and	
+GT :	used	for	the	competition.	Handwritten	Formulas:	Input	Data.	For	Task	1,	we	use	online	data	in	the	same	InkML	and	
+
+OCR:	Label	Graph	(LG)	file	formats	from	previous	CROHMEs.	Strokes	are	defined	by	lists	of	(x,y)	coordinates,	representing	sampled	points	as	
+GT :	Label	Graph	(LG)	file	formats	from	previous	CROHMEs.	Strokes	are	defined	by	lists	of	(x,y)	coordinates,	representing	sampled	points	as	
+
+OCR:	a	stroke	is	written.	Groupings	of	strokes	into	symbols,	symbol	labels,	and	formula	structure	are	provided	in	both	the	InkML	
+GT :	a	stroke	is	written.	Groupings	of	strokes	into	symbols,	symbol	labels,	and	formula	structure	are	provided	in	both	the	InkML	
+
+OCR:	and	LG	formats.	In	InkML	structure	is	represented	using	Presentation	MathML	(an	XML-based	representation),	while	e   	child	symbols.	Using	this	
+GT :	and	LG	formats.	In	InkML	structure	is	represented	using	Presentation	MathML	(an	XML-based	representation),	while	null	null 	null    	null 	null	
+
+OCR:	representation,	we  	can 	determine	in	LG	a	simpler	CSV-based	representation	is	used.	In	both	how 	formulas	in  	an  	SLT 	representation	
+GT :	null           	null	null	null     	in	LG	a	simpler	CSV-based	representation	is	used.	In	both	null	null    	null	null	null	null          	
+
+OCR:	differ	in  	structure	and 	cases,	formula	structure	is	represented	by	a	Symbol	Layout	symbol	labels,	but 	not 	the 	correspondence	between	
+GT :	null  	null	null     	null	cases,	formula	structure	is	represented	by	a	Symbol	Layout	null  	null   	null	null	null	null          	null   	
+
+OCR:	symbols	Tree,	as	seen	in	Figure	1(b).	Roughly	speaking,	this	format	and 	relationships	in  	a   	symLG	file	and 	the 	input	
+GT :	null   	Tree,	as	seen	in	Figure	1(b).	Roughly	speaking,	this	format	null	null         	null	null	null 	null	null	null	null 	
+
+OCR:	data	(i.e.,	represents	the	appearance	of	a	formula	by	the	placement	of	strokes/images).	Still,	the 	symLG	representation	allows	ex- 	symbols	
+GT :	null	null  	represents	the	appearance	of	a	formula	by	the	placement	of	null            	null  	null	null 	null          	null  	null	symbols	
+
+OCR:	on	the	different	writing	lines	of	the	expression.	Spatial	isting	metrics	and 	tools	designed	for 	evaluation	of  	stroke-	relationships	between	
+GT :	on	the	different	writing	lines	of	the	expression.	Spatial	null  	null   	null	null 	null    	null	null      	null	null   	relationships	between	
+
+OCR:	symbols	(e.g,	'R' 	null	for	adjacent-at-right)	level	LG  	files	at  	the 	symbol	level	to  	be  	used	directly.	We  	are	indicated	
+GT :	symbols	(e.g,	null	‘R’ 	for	adjacent-at-right)	null 	null	null 	null	null	null  	null 	null	null	null	null     	null	are	indicated	
+
+OCR:	using	edge	labels.	For	Task	2,	the	offline	formula	data	is	provided	as	greyscale	representation	from	earlier	CROHME	competitions	[1],	
+GT :	using	edge	labels.	For	Task	2,	the	offline	formula	data	is	provided	as	greyscale	null          	null	null   	null  	null        	null	
+
+OCR:	but 	images.	These	were	rendered	automatically	from	the	online	permits	more	detailed	error	analysis.	data	with	1000	x   	null	1000	
+GT :	null	images.	These	were	rendered	automatically	from	the	online	null   	null	null    	null 	null     	data	with	1000	null	×   	1000	
+
+OCR:	pixels	with	5	pixels	of	padding.	This	format	is	used	for	the	main	task	(Task	2)	and	Task	2b.	For	
+GT :	pixels	with	5	pixels	of	padding.	This	format	is	used	for	the	main	task	(Task	2)	and	Task	2b.	For	
+
+OCR:	formulae	from	previous	CROHMEs	that	are 	publicly	available	the	isolated	symbol	sub-task,	isolated	symbols	are	rendered	at	28	x   	null	
+GT :	null    	null	null    	null   	null	null	null    	null     	the	isolated	symbol	sub-task,	isolated	symbols	are	rendered	at	28	null	×   	
+
+OCR:	28	pixels	with	the	same	amount	of	padding	(5	pixels).	The	resolution	of	the	inputs	files	is	fixed	for	Task	
+GT :	28	pixels	with	the	same	amount	of	padding	(5	pixels).	The	resolution	of	the	inputs	files	is	fixed	for	Task	
+
+OCR:	2,	but	null        	null	null   	null	null  	null	null    	null  	null 	pre-processing	methods	of	their	choice.	Symbol	Layout	Graph	(symLG)	
+GT :	2,	but	participants	were	welcome	to  	resize	the 	original	images	using	pre-processing	methods	of	their	choice.	Symbol	Layout	Graph	(symLG)	
+
+OCR:	Formula	Representa-	tion.	The	stroke-based	LG	files	used	in	previous	CROHMEs	null 	null	null         	null           	null	null      	null  	null	null	
+GT :	Formula	Representa-	tion.	The	stroke-based	LG	files	used	in	previous	CROHMEs	allow	all 	segmentation,	classification,	and 	structural	errors	to  	be  	
+
+OCR:	null      	null          	null	null	null         	disagree	[1].	However,	with	the	success	of	encoder-decoder-	based	systems	that	generate	LATEX	null	null	
+GT :	identified	unambiguously,	even	when	segmentations	disagree	[1].	However,	with	the	success	of	encoder-decoder-	based	systems	that	generate	null 	L   	A   	
+
+OCR:	null	output,	a	new	representation	is	needed	-	these	systems	do	not	output	information	about	stroke	segmentation	or	the	location	
+GT :	TEX 	output,	a	new	representation	is	needed	-	these	systems	do	not	output	information	about	stroke	segmentation	or	the	location	
+
+OCR:	of	symbols	in	the	input,	instead	producing	Symbol	Layout	Trees	directly.	Figure	1	shows	two	graph	representations	for	the	same	
+GT :	of	symbols	in	the	input,	instead	producing	Symbol	Layout	Trees	directly.	Figure	1	shows	two	graph	representations	for	the	same	
+
+OCR:	expression	'2+3c.'	null	null	null	In	the	Stroke	Label	Graph	(LG),	there	are	5	nodes	(one	per	stroke),	and	edges	
+GT :	expression	null   	‘2+3	c   	.’  	In	the	Stroke	Label	Graph	(LG),	there	are	5	nodes	(one	per	stroke),	and	edges	
+
+OCR:	represent	segmentation	and	patial	null   	relationships	between	pairs	of	strokes	(including	'no 	relationship').	null	null           	For	the	Stroke	Label	Graph,	
+GT :	represent	segmentation	and	null  	spatial	relationships	between	pairs	of	strokes	(including	null	null           	‘no 	relationship’).	For	the	Stroke	Label	Graph,	
+
+OCR:	node	identifiers	are	for	individual	strokes.	In	the	Symbol	Label	Graph	(symLG),	there	are	4	nodes	(one	per	symbol)	and	
+GT :	node	identifiers	are	for	individual	strokes.	In	the	Symbol	Label	Graph	(symLG),	there	are	4	nodes	(one	per	symbol)	and	
+
+OCR:	edges	represent	relationships	between	symbols	(no	segmentation	information	is	provided).	For	symLG,	node	identifiers	are	constructed	from	the	sequence	of	
+GT :	edges	represent	relationships	between	symbols	(no	segmentation	information	is	provided).	For	symLG,	node	identifiers	are	constructed	from	the	sequence	of	
+
+OCR:	relation	labels	on	the	path	from	root	to	the	symbol.	For	example,	'c' 	null	in	Figure	I   	null	has	the	
+GT :	relation	labels	on	the	path	from	root	to	the	symbol.	For	example,	null	’c’ 	in	Figure	null	1   	has	the	
+
+OCR:	identifier	'ORRSup'	null    	(origin/root,	Right,	Right,	Superscript).	To	compute	the	similarity	of	two	Symbol	Layout	Trees	in	our	symLG	representation,	
+GT :	identifier	null    	’oRRSup’	(origin/root,	Right,	Right,	Superscript).	To	compute	the	similarity	of	two	Symbol	Layout	Trees	in	our	symLG	representation,	
+
+OCR:	we	use	an	adjacency	matrix.	Labels	on	the	diagonal	define	symbol	labels,	while	off-diagonal	elements	represent	spatial	relationships	between	parent	
+GT :	we	use	an	adjacency	matrix.	Labels	on	the	diagonal	define	symbol	labels,	while	off-diagonal	elements	represent	spatial	relationships	between	parent	
+
+OCR:	and	null 	null    	null 	null	null           	null	null	null     	null	null    	null	null	null	null          	null  	null	null     	null	null  	
+GT :	and	child	symbols.	Using	this	representation,	we  	can 	determine	how 	formulas	in  	an  	SLT 	representation	differ	in  	structure	and 	symbol	
+
+OCR:	null   	null	null	null	null          	null   	null   	null	null         	null	null	null 	null	null	null	null 	null	null  	null            	null  	
+GT :	labels,	but 	not 	the 	correspondence	between	symbols	and 	relationships	in  	a   	symLG	file	and 	the 	input	data	(i.e.,	strokes/images).	Still,	
+
+OCR:	null	null 	null          	null  	null	null  	null   	null	null 	null    	null	null      	null	null   	null 	null	null 	null	null	null  	
+GT :	the 	symLG	representation	allows	ex- 	isting	metrics	and 	tools	designed	for 	evaluation	of  	stroke-	level	LG  	files	at  	the 	symbol	
+
+OCR:	null 	null	null	null	null     	null	note	that	symLG	is	closely	related	to	the	tree-based	symbolic	null          	null	null   	null  	
+GT :	level	to  	be  	used	directly.	We  	note	that	symLG	is	closely	related	to	the	tree-based	symbolic	representation	from	earlier	CROHME	
+
+OCR:	null        	null	null	null   	null	null    	null 	null     	Formula	Data	Collection.	We	used	the	labeled	handwritten	null    	null	null    	null   	
+GT :	competitions	[1],	but 	permits	more	detailed	error	analysis.	Formula	Data	Collection.	We	used	the	labeled	handwritten	formulae	from	previous	CROHMEs	
+
+OCR:	null	null	null    	null     	
+GT :	that	are 	publicly	available	
+

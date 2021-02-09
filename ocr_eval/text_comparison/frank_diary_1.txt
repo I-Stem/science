@@ -1,0 +1,57 @@
+OCR:	THE	DIARY	OF	A	YOUNG	GIRL	:	THE	DEFINITIVE	EDITION	Anne	Frank	Edited	by	Otto	H.	Frank	and	Mirjam	Pressler	
+GT :	THE	DIARY	OF	A	YOUNG	GIRL	:	THE	DEFINITIVE	EDITION	Anne	Frank	Edited	by	Otto	H.	Frank	and	Mirjam	Pressler	
+
+OCR:	Translated	by	Susan	Massotty	-   	null	:	-   	-   	null	BOOK	FLAP	Anne	Frank's	The	Diary	of	a	Young	Girl	
+GT :	Translated	by	Susan	Massotty	null	--  	:	null	null	--  	BOOK	FLAP	Anne	Frank's	The	Diary	of	a	Young	Girl	
+
+OCR:	is	among	the	most	enduring	documents	of	the	twentieth	century.	Since	its	publication	in	1947,	it	has	been	read	by	
+GT :	is	among	the	most	enduring	documents	of	the	twentieth	century.	Since	its	publication	in	1947,	it	has	been	read	by	
+
+OCR:	tens	of	millions	of	people	all	over	the	world.	It	remains	a	beloved	and	deeply	admired	testament	to	the	indestructable	
+GT :	tens	of	millions	of	people	all	over	the	world.	It	remains	a	beloved	and	deeply	admired	testament	to	the	indestructable	
+
+OCR:	nature	of	the	human	spirit.	Restore	in	this	Definitive	Edition	are	diary	entries	that	had	been	omitted	from	the	original	
+GT :	nature	of	the	human	spirit.	Restore	in	this	Definitive	Edition	are	diary	entries	that	had	been	omitted	from	the	original	
+
+OCR:	edition.	These	passages,	which	constitute	30	percent	more	material,	reinforce	the	fact	that	Anne	was	first	and	foremost	a	teenage	
+GT :	edition.	These	passages,	which	constitute	30	percent	more	material,	reinforce	the	fact	that	Anne	was	first	and	foremost	a	teenage	
+
+OCR:	girl,	not	a	remote	and	flawless	symbol.	She	fretted	about,	and	tried	to	copie	with,	her	own	emerging	sexuality.	Like	
+GT :	girl,	not	a	remote	and	flawless	symbol.	She	fretted	about,	and	tried	to	copie	with,	her	own	emerging	sexuality.	Like	
+
+OCR:	many	young	girls,	she	often	found	herself	in	disagreement	with	her	mother.	And	like	any	teenager,	she	veered	between	the	
+GT :	many	young	girls,	she	often	found	herself	in	disagreement	with	her	mother.	And	like	any	teenager,	she	veered	between	the	
+
+OCR:	carefree	nature	of	a	child	and	the	full-fledged	sorrow	of	an	adult.	Anne	emerges	more	human,	more	vulnerable,	and	more	
+GT :	carefree	nature	of	a	child	and	the	full-fledged	sorrow	of	an	adult.	Anne	emerges	more	human,	more	vulnerable,	and	more	
+
+OCR:	vital	than	ever.	Anne	Frank	and	her	family,	fleeing	the	horrors	of	Nazi	occupation,	hid	in	the	back	of	an	
+GT :	vital	than	ever.	Anne	Frank	and	her	family,	fleeing	the	horrors	of	Nazi	occupation,	hid	in	the	back	of	an	
+
+OCR:	Amsterdam	warehouse	for	two	years.	She	was	thirteen	when	the	family	went	into	the	Secret	Annex,	and	in	these	pages	
+GT :	Amsterdam	warehouse	for	two	years.	She	was	thirteen	when	the	family	went	into	the	Secret	Annex,	and	in	these	pages	
+
+OCR:	she	grows	to	be	a	young	woman	and	a	wise	observer	of	human	nature	as	well.	With	unusual	insight,	she	
+GT :	she	grows	to	be	a	young	woman	and	a	wise	observer	of	human	nature	as	well.	With	unusual	insight,	she	
+
+OCR:	reveals	the	relations	between	eight	people	living	under	extraordinary	conditions,	facing	hunger,	the	ever-present	threat	of	discovery	and	death,	complete	
+GT :	reveals	the	relations	between	eight	people	living	under	extraordinary	conditions,	facing	hunger,	the	ever-present	threat	of	discovery	and	death,	complete	
+
+OCR:	estrangement	from	the	outside	world,	and	above	all,	the	boredom,	the	petty	misunderstandings,	and	the	frustrations	of	living	under	such	
+GT :	estrangement	from	the	outside	world,	and	above	all,	the	boredom,	the	petty	misunderstandings,	and	the	frustrations	of	living	under	such	
+
+OCR:	unbearable	strain,	in	such	confined	quarters.	A	timely	story	rediscovered	by	each	new	generation,	The	Diary	of	a	Young	Girl	
+GT :	unbearable	strain,	in	such	confined	quarters.	A	timely	story	rediscovered	by	each	new	generation,	The	Diary	of	a	Young	Girl	
+
+OCR:	stands	without	peer.	For	both	young	readers	and	adults	it	continues	to	bring	to	life	this	young	woman,	who	for	
+GT :	stands	without	peer.	For	both	young	readers	and	adults	it	continues	to	bring	to	life	this	young	woman,	who	for	
+
+OCR:	a	time	survived	the	worst	horror	of	the	modern	world	had	seen	null	and	who	remained	triumphantly	and	heartbreakingly	human	
+GT :	a	time	survived	the	worst	horror	of	the	modern	world	had	seen	--  	and	who	remained	triumphantly	and	heartbreakingly	human	
+
+OCR:	throughout	her	ordeal.	For	those	who	know	and	love	Anne	Frank,	The	Definitive	Edition	is	a	chance	to	discover	her	
+GT :	throughout	her	ordeal.	For	those	who	know	and	love	Anne	Frank,	The	Definitive	Edition	is	a	chance	to	discover	her	
+
+OCR:	anew.	For	readers	who	have	not	yet	encountered	her,	this	is	the	edition	to	cherish.	
+GT :	anew.	For	readers	who	have	not	yet	encountered	her,	this	is	the	edition	to	cherish.	
+

@@ -1,0 +1,111 @@
+OCR:	ICDAR	2019	CROHME	+	TFD:	Competition	on	Recognition	of	Handwritten	Mathematical	Expressions	and	Typeset	Formula	Detection	Mahshad	Mahdavi,	Richard	Zanibbi	
+GT :	ICDAR	2019	CROHME	+	TFD:	Competition	on	Recognition	of	Handwritten	Mathematical	Expressions	and	Typeset	Formula	Detection	Mahshad	Mahdavi,	Richard	Zanibbi	
+
+OCR:	null    	null	null   	null       	null	null     	null     	null	null      	null      	null	null	null           	null          	Harold	Mouchere,	Document	and 	Pattern	Recognition	
+GT :	Document	and 	Pattern	Recognition	Lab 	Rochester	Institute	of  	Technology	Rochester,	NY, 	USA 	mxm7832@rit.edu	rxzvcs@rit.edu	Harold	null     	null    	null	null   	null       	
+
+OCR:	Lab 	null     	Christian	Viard-Gaudin	Rochester	Institute	of  	Technology	LS2N	-	UMR	CNRS	6004	Rochester,	NY, 	USA 	University	of	Nantes	mxm7832	
+GT :	null	Mouchère,	Christian	Viard-Gaudin	null     	null     	null	null      	LS2N	-	UMR	CNRS	6004	null      	null	null	University	of	Nantes	null   	
+
+OCR:	@rit.edu	Nantes,	France	rxzves	@rit.edu	harold.mouchere	@Is2n.fr	christian.	viard-gaudin	@Is2n.fr	Abstract-We	null                   	null                          	null 	null  	null    	null  	null	null   	null       	
+GT :	null    	Nantes,	France	null  	null    	null           	null    	null      	null        	null    	null       	harold.mouchere@ls2n.fr	christian.viard-gaudin@ls2n.fr	Utpal	Garain	Computer	Vision	and 	Pattern	Recognition	
+
+OCR:	null	null  	null	null  	null  	null	null 	null   	null  	null       	null     	null    	null 	null              	null       	summarize	the	tasks,	protocol,	and	
+GT :	Unit	Centre	for 	Artif.	Intel.	and 	Mach.	Leaning	Indian	Statistical	Institute	Kolkata,	India	utpal@isical.ac.in	Abstract—We	summarize	the	tasks,	protocol,	and	
+
+OCR:	outcome	for	the	6th	Competition	on	Recognition	of	Handwritten	Mathemat-	ical	Expressions	(CROHME),	which	includes	a	new	formula	detection	in	
+GT :	outcome	for	the	6th	Competition	on	Recognition	of	Handwritten	Mathemat-	ical	Expressions	(CROHME),	which	includes	a	new	formula	detection	in	
+
+OCR:	document	images	task	(+	TFD).	For	CROHME	+	TFD	2019,	participants	chose	between	two	tasks	for	recog-	nizing	handwritten	formulas	
+GT :	document	images	task	(+	TFD).	For	CROHME	+	TFD	2019,	participants	chose	between	two	tasks	for	recog-	nizing	handwritten	formulas	
+
+OCR:	from	1)	online	stroke	data,	or	2)	images	generated	from	the	handwritten	strokes.	To	compare	ATEX	null	null	null	strings	
+GT :	from	1)	online	stroke	data,	or	2)	images	generated	from	the	handwritten	strokes.	To	compare	null	L   	A   	TEX 	strings	
+
+OCR:	and	the	labeled	directed	trees	over	strokes	(label	graphs)	used	in	previous	CROHMEs,	we	convert	LTEX	null	null	null	and	
+GT :	and	the	labeled	directed	trees	over	strokes	(label	graphs)	used	in	previous	CROHMEs,	we	convert	null	L   	A   	TEX 	and	
+
+OCR:	stroke-based	label	graphs	to	label	graphs	defined	over	symbols	(symbol-level	label	graphs,	or	symLG).	More	than	thirty	(33)	participants	registered	
+GT :	stroke-based	label	graphs	to	label	graphs	defined	over	symbols	(symbol-level	label	graphs,	or	symLG).	More	than	thirty	(33)	participants	registered	
+
+OCR:	for	the	competition,	with	nineteen	(19)	teams	submitting	results.	The	strongest	formula	recognition	results	were	produced	by	the	USTC-iFLYTEK	research	
+GT :	for	the	competition,	with	nineteen	(19)	teams	submitting	results.	The	strongest	formula	recognition	results	were	produced	by	the	USTC-iFLYTEK	research	
+
+OCR:	team,	for	both	stroke-based	(81%)	and	image-based	(77%)	input.	For	the	new	typeset	formula	detection	task,	the	Samsung	R&D	Institute	
+GT :	team,	for	both	stroke-based	(81%)	and	image-based	(77%)	input.	For	the	new	typeset	formula	detection	task,	the	Samsung	R&D	Institute	
+
+OCR:	Ukraine	(Team	2)	obtained	a	very	strong	F-score	(93%).	System	performance	has	improved	since	the	last	CROHME	-	still,	the	
+GT :	Ukraine	(Team	2)	obtained	a	very	strong	F-score	(93%).	System	performance	has	improved	since	the	last	CROHME	-	still,	the	
+
+OCR:	competition	results	suggest	that	recognition	of	handwritten	formulae	remains	a	difficult	structural	pattern	recognition	task	null 	Index	Terms-mathematical	null              	expression	
+GT :	competition	results	suggest	that	recognition	of	handwritten	formulae	remains	a	difficult	structural	pattern	recognition	null	task.	Index	null              	Terms—mathematical	expression	
+
+OCR:	recognition,	handwrit-	ing	recognition,	formula	detection,	performance	evaluation	I.	INTRODUCTION	During	its	history,	the	CROHME	competition	has	advanced	the	state-of-the-art	
+GT :	recognition,	handwrit-	ing	recognition,	formula	detection,	performance	evaluation	I.	INTRODUCTION	During	its	history,	the	CROHME	competition	has	advanced	the	state-of-the-art	
+
+OCR:	for	handwritten	math	recognition	systems,	and	produced	a	standard	benchmark	for	online	handwritten	math	recognition	research.	An	IJDAR	paper	summarizing	
+GT :	for	handwritten	math	recognition	systems,	and	produced	a	standard	benchmark	for	online	handwritten	math	recognition	research.	An	IJDAR	paper	summarizing	
+
+OCR:	the	outcomes	and	innovations	in	evaluating	handwritten	mathe-	matical	recognition	during	the	first	four	years	of	the	compe-	tition	(2011-2014,	
+GT :	the	outcomes	and	innovations	in	evaluating	handwritten	mathe-	matical	recognition	during	the	first	four	years	of	the	compe-	tition	(2011-2014,	
+
+OCR:	2016)	is	available	[1],	[2].	CROHME	data	ranked	based	on  	the 	number	of  	correctly	recognized	formulas	has	been	used	by	
+GT :	2016)	is	available	[1],	[2].	CROHME	data	null  	null 	null	null	null  	null	null     	null      	null    	has	been	used	by	
+
+OCR:	research	groups	from	around	the	world.	This	sixth	edition	of	CROHME	was	organized	to	continue	encouraging	activities	in	handwritten	math	
+GT :	research	groups	from	around	the	world.	This	sixth	edition	of	CROHME	was	organized	to	continue	encouraging	activities	in	handwritten	math	
+
+OCR:	recognition	re-	search,	and	to	improve	the	available	data,	tools	and	bench-	marks	for	research	in	this	area.	In	CROHME	
+GT :	recognition	re-	search,	and	to	improve	the	available	data,	tools	and	bench-	marks	for	research	in	this	area.	In	CROHME	
+
+OCR:	2019,	there	are	three	tasks:	1)	online	handwritten	formula	recognition	(from	strokes),	2)	offline	handwritten	formula	recognition	(from	images	generated	
+GT :	2019,	there	are	three	tasks:	1)	online	handwritten	formula	recognition	(from	strokes),	2)	offline	handwritten	formula	recognition	(from	images	generated	
+
+OCR:	using	strokes),	and	3)	typeset	formula	detection	in	document	images.	Utpal	Garain	Computer	Vision	and 	Pattern	Recognition	Unit	Centre	for 	
+GT :	using	strokes),	and	3)	typeset	formula	detection	in	document	images.	null 	null  	null    	null  	null	null   	null       	null	null  	null	
+
+OCR:	Artif.	Intel.	and 	Mach.	Leaning	Indian	Statistical	Institute	Kolkata,	India	utpal	@isical.ac.in	To	accommodate	the	growing	number	of	encoder-decoder	formula	
+GT :	null  	null  	null	null 	null   	null  	null       	null     	null    	null 	null 	null         	To	accommodate	the	growing	number	of	encoder-decoder	formula	
+
+OCR:	recognition	systems	producing	BIEX	null	null	null	as	output,	in	this	edition	we	consider	only	symbolic	formula	structure,	rather	than	
+GT :	recognition	systems	producing	null	L   	A   	TEX 	as	output,	in	this	edition	we	consider	only	symbolic	formula	structure,	rather	than	
+
+OCR:	in	previous	CROHMEs	where	systems	were	evaluated	at	the	stroke	level.	For	this	purpose,	we	developed	a	new	Symbolic	Label	
+GT :	in	previous	CROHMEs	where	systems	were	evaluated	at	the	stroke	level.	For	this	purpose,	we	developed	a	new	Symbolic	Label	
+
+OCR:	Graph	(symLG)	representation	that	can	be	used	with	the	existing	evaluation	tools	for	the	competition	(LgEval	and	CROHMELib).	Thirty-three	(33)	
+GT :	Graph	(symLG)	representation	that	can	be	used	with	the	existing	evaluation	tools	for	the	competition	(LgEval	and	CROHMELib).	Thirty-three	(33)	
+
+OCR:	groups	and	individuals	registered	for	the	competition,	and	nineteen	(19)	groups	submitted	results.	For	the	main	task	(online	handwritten	formula	
+GT :	groups	and	individuals	registered	for	the	competition,	and	nineteen	(19)	groups	submitted	results.	For	the	main	task	(online	handwritten	formula	
+
+OCR:	recognition),	the	highest	recognition	rate	is	13%	higher	than	in	CROHME	2016	(67.65%	vs.	80.73%).	While	encouraging,	these	rates	suggest	
+GT :	recognition),	the	highest	recognition	rate	is	13%	higher	than	in	CROHME	2016	(67.65%	vs.	80.73%).	While	encouraging,	these	rates	suggest	
+
+OCR:	that	recognizing	handwritten	math	remains	a	difficult	problem,	likely	due	to	the	high	number	of	symbol	classses	(101	for	CROHME),	
+GT :	that	recognizing	handwritten	math	remains	a	difficult	problem,	likely	due	to	the	high	number	of	symbol	classses	(101	for	CROHME),	
+
+OCR:	and	the	complex	two	dimensional	structure	of	math,	which	can	include	recursive	and	hierarchical	structures.	In	the	following	Sections	we	
+GT :	and	the	complex	two	dimensional	structure	of	math,	which	can	include	recursive	and	hierarchical	structures.	In	the	following	Sections	we	
+
+OCR:	describe	the	competition	tasks,	dataset	collection	and	encodings,	evaluation	metrics	and	tools,	system	descriptions,	results,	and	then	provide	a	brief	
+GT :	describe	the	competition	tasks,	dataset	collection	and	encodings,	evaluation	metrics	and	tools,	system	descriptions,	results,	and	then	provide	a	brief	
+
+OCR:	conclusion.	II.	TASKS	Task	1.	Online	Handwritten	Formula	Recognition.	For	the	main	task	in	CROHME,	participants	convert	a	list	of	
+GT :	conclusion.	II.	TASKS	Task	1.	Online	Handwritten	Formula	Recognition.	For	the	main	task	in	CROHME,	participants	convert	a	list	of	
+
+OCR:	handwritten	strokes	captured	from	a	tablet	or	similar	device	to	a	Symbol	Layout	Tree	(SLT)	[3].	Participating	systems	are	expression	
+GT :	handwritten	strokes	captured	from	a	tablet	or	similar	device	to	a	Symbol	Layout	Tree	(SLT)	[3].	Participating	systems	are	null      	
+
+OCR:	rate)	.   	null  	null 	null	null	null  	null	null     	null      	null    	null       	null  	null	Task	la  	null	(symbols):	subtask	where	
+GT :	null 	null	ranked	based	on  	the 	number	of  	correctly	recognized	formulas	(expression	rate).	•   	Task	null	1a  	(symbols):	subtask	where	
+
+OCR:	participants	recog-	nize	isolated	symbols,	including	'junk'	null  	(invalid	symbols).	Ranked	by	symbol	recognition	rate.	.   	null	Task	1b	(parsing	
+GT :	participants	recog-	nize	isolated	symbols,	including	null  	‘junk’	(invalid	symbols).	Ranked	by	symbol	recognition	rate.	null	•   	Task	1b	(parsing	
+
+OCR:	from	provided	symbols):	subtask	where	participants	parse	formulas	from	provided	symbols	(stroke	groups	+	labels).	Ranked	by	expression	rate.	Task	
+GT :	from	provided	symbols):	subtask	where	participants	parse	formulas	from	provided	symbols	(stroke	groups	+	labels).	Ranked	by	expression	rate.	Task	
+
+OCR:	2.	Offline	Handwritten	Formula	Recognition.	Strokes	from	the	handwritten	formulas	in	Task	1	are	used	
+GT :	2.	Offline	Handwritten	Formula	Recognition.	Strokes	from	the	handwritten	formulas	in	Task	1	are	used	
+

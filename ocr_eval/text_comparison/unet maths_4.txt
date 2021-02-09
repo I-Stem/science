@@ -1,0 +1,75 @@
+OCR:	W.	Ohyama	et	al.:	Detecting	MEs	in	Scientific	Document	Images	Using	a	U-Net	Trained	on	a	Diverse	Dataset	i   	null	
+GT :	W.	Ohyama	et	al.:	Detecting	MEs	in	Scientific	Document	Images	Using	a	U-Net	Trained	on	a	Diverse	Dataset	null	IEEE	
+
+OCR:	null  	FIGURE	3.	Outline	of	the	proposed	method.	The	method	consists	of	three	main	stages:	preprocessing,	image	conversion	by	U-Net	
+GT :	Access	FIGURE	3.	Outline	of	the	proposed	method.	The	method	consists	of	three	main	stages:	preprocessing,	image	conversion	by	U-Net	
+
+OCR:	and	postprocessing.	FCN 	null	architecture	for	DIA	tasks.	Ma	et	al.	[33]	proposed	a	method	that	adopts	a	stacked	architecture	
+GT :	and	postprocessing.	null	CN  	architecture	for	DIA	tasks.	Ma	et	al.	[33]	proposed	a	method	that	adopts	a	stacked	architecture	
+
+OCR:	of	U-Nets	to	correct	the	warping	distortion	of	a	document	image.	The	pinarization	null        	of	document	images	is	a	basic	
+GT :	of	U-Nets	to	correct	the	warping	distortion	of	a	document	image.	The	null        	binarization	of	document	images	is	a	basic	
+
+OCR:	and	very	impor-	tant	problem	in	DIA.	The	report	on	the	document	image	inarization	null        	(DIB)	competition	[34]	remarked	that	
+GT :	and	very	impor-	tant	problem	in	DIA.	The	report	on	the	document	image	null       	binarization	(DIB)	competition	[34]	remarked	that	
+
+OCR:	some	competitors	used	U-Net	for	DIB	and	obtained	high	perfor-	mance.	Base	line	detection	[35],	text	line	segmentation	[36]	and	
+GT :	some	competitors	used	U-Net	for	DIB	and	obtained	high	perfor-	mance.	Base	line	detection	[35],	text	line	segmentation	[36]	and	
+
+OCR:	page	segmentation	[37],	[38],	which	are	also	common	problems	in	DIA,	can	be	managed	using	image	conversion	by	U-Net.	These	
+GT :	page	segmentation	[37],	[38],	which	are	also	common	problems	in	DIA,	can	be	managed	using	image	conversion	by	U-Net.	These	
+
+OCR:	methods	also	intend	to	take	advantage	of	U-Net	so	that	it	is	easy	to	apply	end-to-end	training.	If	a	large	
+GT :	methods	also	intend	to	take	advantage	of	U-Net	so	that	it	is	easy	to	apply	end-to-end	training.	If	a	large	
+
+OCR:	number	of	training	image	datasets	that	consist	of	input	and	desired	output	images	is	available,	then	U-Net	is	expected	to	
+GT :	number	of	training	image	datasets	that	consist	of	input	and	desired	output	images	is	available,	then	U-Net	is	expected	to	
+
+OCR:	achieve	required	image	conversion	from	the	input	to	the	output.	The	proposed	method	also	uses	these	properties	of	U-Net	for	
+GT :	achieve	required	image	conversion	from	the	input	to	the	output.	The	proposed	method	also	uses	these	properties	of	U-Net	for	
+
+OCR:	ME	detection	for	printed	documents.	Additionally,	it	has	the	following	distinguishing	properties	from	the	aforemen-	tioned	conventional	methods:	First,	the	
+GT :	ME	detection	for	printed	documents.	Additionally,	it	has	the	following	distinguishing	properties	from	the	aforemen-	tioned	conventional	methods:	First,	the	
+
+OCR:	proposed	method	is	based	on	image	conversion	from	an	original	document	image	to	an	image	containing	only	mathematical	symbols.	Instead	
+GT :	proposed	method	is	based	on	image	conversion	from	an	original	document	image	to	an	image	containing	only	mathematical	symbols.	Instead	
+
+OCR:	of	handcrafted	rules	for	determining	MEs,	the	proposed	method	uses	end-to-end	training	on	a	large-scale	dataset.	Second,	he  	null	proposed	
+GT :	of	handcrafted	rules	for	determining	MEs,	the	proposed	method	uses	end-to-end	training	on	a	large-scale	dataset.	Second,	null	the 	proposed	
+
+OCR:	method	does	not	require	any	mathematical	and	linguistic	knowledge.	Third,	the	proposed	method	can	be	embedded	in	the	standard	pipeline	
+GT :	method	does	not	require	any	mathematical	and	linguistic	knowledge.	Third,	the	proposed	method	can	be	embedded	in	the	standard	pipeline	
+
+OCR:	of	ME	recognition	because	VOLUME	7,	2019	IEEE	Access	it	is	implemented	with	no	assistance	from	layout	analysis	and	symbol	
+GT :	of	ME	recognition	because	VOLUME	7,	2019	null	null  	it	is	implemented	with	no	assistance	from	layout	analysis	and	symbol	
+
+OCR:	recognition.	III.	MATHEMATICAL	EXPRESSION	DETECTION	BY	U-NET	The	outline	of	the	proposed	method	is	shown	in	Figure	3.	The	proposed	
+GT :	recognition.	III.	MATHEMATICAL	EXPRESSION	DETECTION	BY	U-NET	The	outline	of	the	proposed	method	is	shown	in	Figure	3.	The	proposed	
+
+OCR:	method	takes	a	binary	document	page	image	as	input	and	outputs	an	image	containing	CCs	that	construct	displayed	and	in-line	
+GT :	method	takes	a	binary	document	page	image	as	input	and	outputs	an	image	containing	CCs	that	construct	displayed	and	in-line	
+
+OCR:	MEs.	The	proposed	method	mainly	con-	sists	of	three	stages:	(1)	preprocessing;	(2)	image	conversion	by	U-Net;	and	(3)	postprocessing.	
+GT :	MEs.	The	proposed	method	mainly	con-	sists	of	three	stages:	(1)	preprocessing;	(2)	image	conversion	by	U-Net;	and	(3)	postprocessing.	
+
+OCR:	We	detail	each	stage	in	the	following	subsections.	null	A.	PREPROCESSING	The	proposed	method	takes	a	binary	(black	and	white)	
+GT :	We	detail	each	stage	in	the	following	subsections.	1   	A.	PREPROCESSING	The	proposed	method	takes	a	binary	(black	and	white)	
+
+OCR:	image	captured	by	a	flat-bed	scanner	with	a	resolution	of	150dpi	as	an	input	document	image.	Whereas	many	conventional	OCR	
+GT :	image	captured	by	a	flat-bed	scanner	with	a	resolution	of	150dpi	as	an	input	document	image.	Whereas	many	conventional	OCR	
+
+OCR:	software	typically	requests	higher	resolution	images	(approx-	imately	600	dpi)	to	prevent	recognition	errors,	the	proposed	method	can	extract	MEs	
+GT :	software	typically	requests	higher	resolution	images	(approx-	imately	600	dpi)	to	prevent	recognition	errors,	the	proposed	method	can	extract	MEs	
+
+OCR:	from	low-resolution	images.	This	property	also	contributes	to	the	efficiency	of	memory	and	computation	time	for	subsequent	ME	detection	processes	
+GT :	from	low-resolution	images.	This	property	also	contributes	to	the	efficiency	of	memory	and	computation	time	for	subsequent	ME	detection	processes	
+
+OCR:	using	U-Net.	If	only	a	grayscale	or	color	image	is	available,	binarization	with	a	threshold	is	requested.	To	handle	the	
+GT :	using	U-Net.	If	only	a	grayscale	or	color	image	is	available,	binarization	with	a	threshold	is	requested.	To	handle	the	
+
+OCR:	white	pixel	regions	that	belong	to	the	fore-	ground,	the	input	image	is	negated	so	that	the	characters	and	null	
+GT :	white	pixel	regions	that	belong	to	the	fore-	ground,	the	input	image	is	negated	so	that	the	characters	and	1   	
+
+OCR:	The	implementation	of	the	proposed	method	is	available	at	https://github.	com/uchidalab/MathExtraction_Unet	null                                            	144033	
+GT :	The	implementation	of	the	proposed	method	is	available	at	null           	null                             	https://github.com/uchidalab/MathExtraction_Unet	144033	
+

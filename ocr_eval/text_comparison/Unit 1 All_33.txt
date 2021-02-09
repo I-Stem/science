@@ -1,0 +1,69 @@
+OCR:	Blood	Supply	to	the	Brain	the	posterior	communicating	artery	and	the	posterior	cerebral	artery.	In	most	humans,	the	posterior	cerebral	
+GT :	Blood	Supply	to	the	Brain	the	posterior	communicating	artery	and	the	posterior	cerebral	artery.	In	most	humans,	the	posterior	cerebral	
+
+OCR:	artery	receives	its	blood	supply	from	the	vertebral/basilar	system.	In	some	people,	the	posterior	communicating	artery	is	quite	large,	and	
+GT :	artery	receives	its	blood	supply	from	the	vertebral/basilar	system.	In	some	people,	the	posterior	communicating	artery	is	quite	large,	and	
+
+OCR:	the	posterior	cerebral	artery	may	be	perfused	significantly	by	the	carotid	artery.	Generally	speaking,	the	anterior	circulation	supplies	the	forebrain	
+GT :	the	posterior	cerebral	artery	may	be	perfused	significantly	by	the	carotid	artery.	Generally	speaking,	the	anterior	circulation	supplies	the	forebrain	
+
+OCR:	(the	cerebral	hemispheres	and	the	diencephalon),	and	the	posterior	circulation	supplies	the	brainstem	and	the	upper	spinal	cord.	However,	for	
+GT :	(the	cerebral	hemispheres	and	the	diencephalon),	and	the	posterior	circulation	supplies	the	brainstem	and	the	upper	spinal	cord.	However,	for	
+
+OCR:	most	people,	the	arterial	supply	to	the	CNS	is	not	quite	that	simple.	As	just	mentioned,	the	posterior	cerebral	artery	
+GT :	most	people,	the	arterial	supply	to	the	CNS	is	not	quite	that	simple.	As	just	mentioned,	the	posterior	cerebral	artery	
+
+OCR:	supplies	the	posterior	forebrain,	including	some	deep	structures,	and	it	also	supplies	parts	of	the	midbrain	in	the	brainstem.	Thus,	
+GT :	supplies	the	posterior	forebrain,	including	some	deep	structures,	and	it	also	supplies	parts	of	the	midbrain	in	the	brainstem.	Thus,	
+
+OCR:	as	indicated	in	the	chart	(by	listing	the	posterior	cerebral	artery	twice,	once	in	each	group),	the	posterior	cerebral	artery	
+GT :	as	indicated	in	the	chart	(by	listing	the	posterior	cerebral	artery	twice,	once	in	each	group),	the	posterior	cerebral	artery	
+
+OCR:	contributes	to	both	the	anterior	and	posterior	circulations.	As	you	study	this	tutorial,	you	should	learn	the	distributions	of	these	
+GT :	contributes	to	both	the	anterior	and	posterior	circulations.	As	you	study	this	tutorial,	you	should	learn	the	distributions	of	these	
+
+OCR:	8	arteries	listed	in	this	chart.	t   	The	anterior	circulation	The	four	major	arteries	that	arise	from	the	internal	carotid	
+GT :	8	arteries	listed	in	this	chart.	null	The	anterior	circulation	The	four	major	arteries	that	arise	from	the	internal	carotid	
+
+OCR:	artery	plus	the	posterior	cerebral	artery	form	the	anterior	circulation.	The	pattern	of	branching	of	each	artery	is	similar:	each	
+GT :	artery	plus	the	posterior	cerebral	artery	form	the	anterior	circulation.	The	pattern	of	branching	of	each	artery	is	similar:	each	
+
+OCR:	gives	rise	to	branches	that	supply	cortical	structures	and	each	gives	rise	to	branches	that	penetrate	the	ventral	surface	of	
+GT :	gives	rise	to	branches	that	supply	cortical	structures	and	each	gives	rise	to	branches	that	penetrate	the	ventral	surface	of	
+
+OCR:	the	brain	and	supply	deep	structures	(the	basal	ganglia,	thalamus	and	internal	capsule),	as	illustrated	in	the	Figures	A17	&	
+GT :	the	brain	and	supply	deep	structures	(the	basal	ganglia,	thalamus	and	internal	capsule),	as	illustrated	in	the	Figures	A17	&	
+
+OCR:	A18.	(The	branches	that	supply	deep	structures	are	known	collectively	as	perforating	arteries,	central	arteries,	striate	arteries,	or	ganglionic	arteries.)	
+GT :	A18.	(The	branches	that	supply	deep	structures	are	known	collectively	as	perforating	arteries,	central	arteries,	striate	arteries,	or	ganglionic	arteries.)	
+
+OCR:	An	extensive	region	of	the	central	and	lateral	cerebral	hemispheres	is	supplied	by	the	middle	cerebral	artery	(green	shade	in	
+GT :	An	extensive	region	of	the	central	and	lateral	cerebral	hemispheres	is	supplied	by	the	middle	cerebral	artery	(green	shade	in	
+
+OCR:	Figure	A18).	Included	in	this	region	are	the	sensorimotor	areas	that	govern	the	upper	extremities	and	face,	and	the	language	
+GT :	Figure	A18).	Included	in	this	region	are	the	sensorimotor	areas	that	govern	the	upper	extremities	and	face,	and	the	language	
+
+OCR:	areas	of	the	left	hemisphere	(Broca's	null    	area	and	Wernicke's	null      	area).	The	anterior	cerebral	artery	supplies	regions	in	the	
+GT :	areas	of	the	left	hemisphere	null    	(Broca’s	area	and	null      	Wernicke’s	area).	The	anterior	cerebral	artery	supplies	regions	in	the	
+
+OCR:	medial	aspect	and	dorsal	and	orbital	margins	of	the	frontal	lobe,	and	the	medial	aspect	and	dorsal	margin	of	the	
+GT :	medial	aspect	and	dorsal	and	orbital	margins	of	the	frontal	lobe,	and	the	medial	aspect	and	dorsal	margin	of	the	
+
+OCR:	anterior	parietal	lobe	(yellow	shade	in	Figure	A18).	Included	in	this	extended	territory	are	sensorimotor	areas	in	the	paracentral	lobule	
+GT :	anterior	parietal	lobe	(yellow	shade	in	Figure	A18).	Included	in	this	extended	territory	are	sensorimotor	areas	in	the	paracentral	lobule	
+
+OCR:	that	govern	the	lower	extremity,	accessory	motor	areas	in	the	cingulare	null     	gyrus	that	govern	the	upper	face	(see	Box	
+GT :	that	govern	the	lower	extremity,	accessory	motor	areas	in	the	null     	cingulate	gyrus	that	govern	the	upper	face	(see	Box	
+
+OCR:	17A	in	Neuroscience,	5"  	null	null	Ed.),	and	limbic	areas	in	the	medial	frontal	lobe.	The	posterior	cerebral	artery	supplies	
+GT :	17A	in	Neuroscience,	null	5   	th  	Ed.),	and	limbic	areas	in	the	medial	frontal	lobe.	The	posterior	cerebral	artery	supplies	
+
+OCR:	regions	in	the	posterior	parietal	lobe,	inferior	temporal	lobe	and	occipital	lobe	(blue	shade	in	Figure	A18).	Included	in	this	
+GT :	regions	in	the	posterior	parietal	lobe,	inferior	temporal	lobe	and	occipital	lobe	(blue	shade	in	Figure	A18).	Included	in	this	
+
+OCR:	region	are	primary	and	associational	(higher-order)	visual	areas	in	each	lobe	and	'limbic'	null    	regions	in	the	posterior	cingulare	null     	
+GT :	region	are	primary	and	associational	(higher-order)	visual	areas	in	each	lobe	and	null    	‘limbic’	regions	in	the	posterior	null     	cingulate	
+
+OCR:	and	parahippocampal	gyri.	2	
+GT :	and	parahippocampal	gyri.	2	
+

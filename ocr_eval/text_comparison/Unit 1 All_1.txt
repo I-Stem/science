@@ -1,0 +1,45 @@
+OCR:	Functional	Microanatomy	of	Neurons	Medical	Neuroscience	|	Tutorial	Notes	Functional	Microanatomy	of	Neurons	MAP 	null	null	TO	NEUROSCIENCE	CORE	CONCEPTS'	
+GT :	Functional	Microanatomy	of	Neurons	Medical	Neuroscience	|	Tutorial	Notes	Functional	Microanatomy	of	Neurons	null	M   	AP  	TO	null        	null	null     	
+
+OCR:	null	null       	null	null	null	null   	null	NCC1.	The	brain	is	the	body's	most	complex	organ.	NCC2.	Neurons	communicate	using	
+GT :	N   	EUROSCIENCE	C   	ORE 	C   	ONCEPTS	1   	NCC1.	The	brain	is	the	body's	most	complex	organ.	NCC2.	Neurons	communicate	using	
+
+OCR:	both	electrical	and	chemical	signals.	LEARNING	null	null   	OBJECTIVES	After	study	of	the	assigned	learning	materials,	the	student	will:	1.	
+GT :	both	electrical	and	chemical	signals.	null    	L   	EARNING	OBJECTIVES	After	study	of	the	assigned	learning	materials,	the	student	will:	1.	
+
+OCR:	Differentiate	the	basic	classes	of	cells	found	in	the	central	nervous	system	(CNS).	2.	Characterize	the	"functional	microanatomy"	null       	null         	
+GT :	Differentiate	the	basic	classes	of	cells	found	in	the	central	nervous	system	(CNS).	2.	Characterize	the	null       	null         	“functional	microanatomy”	
+
+OCR:	of	neurons	(differentiate	neuronal	cell	bodies,	dendrites,	axons	and	synapses).	3.	Describe	the	microanatomical	composition	of	gray	matter	and	white	
+GT :	of	neurons	(differentiate	neuronal	cell	bodies,	dendrites,	axons	and	synapses).	3.	Describe	the	microanatomical	composition	of	gray	matter	and	white	
+
+OCR:	matter	in	the	CNS.	TUTORIAL	OUTLINE	1.  	null	Functional	microanatomy	of	neurons	A.	null	general	features	of	neurons	1.	Neurons	
+GT :	matter	in	the	CNS.	TUTORIAL	OUTLINE	null	I.  	Functional	microanatomy	of	neurons	A.	B.  	general	features	of	neurons	1.	Neurons	
+
+OCR:	are	the	fundamental	unit	of	function	in	the	CNS	2.	possess	all	cellular	and	metabolic	machinery	common	to	all	other	
+GT :	are	the	fundamental	unit	of	function	in	the	CNS	2.	possess	all	cellular	and	metabolic	machinery	common	to	all	other	
+
+OCR:	somatic	cells	(see	Figure	1.3")	null	null	null	3.	but	they	are	distinguished	from	most	other	somatic	cells	by	their:	
+GT :	somatic	cells	(see	Figure	null 	1.3 	2   	)   	3.	but	they	are	distinguished	from	most	other	somatic	cells	by	their:	
+
+OCR:	a.	rich	diversity	in	morphology	(shape)	b.	bioelectrical	properties	(they	generate	electrical	signals)	C   	.   	null	specializations	for	intercellular	communication	
+GT :	a.	rich	diversity	in	morphology	(shape)	b.	bioelectrical	properties	(they	generate	electrical	signals)	null	null	c.  	specializations	for	intercellular	communication	
+
+OCR:	B.  	survey	of	neuronal	microanatomy	(see	Figure	1.2)	1.	cell	body,	also	called	a	soma	(=	"body";	null   	plural	=	
+GT :	null	survey	of	neuronal	microanatomy	(see	Figure	1.2)	1.	cell	body,	also	called	a	soma	(=	null   	“body”;	plural	=	
+
+OCR:	somata)	a.	contains	nucleus,	nucleic	acids,	and	the	usual	organelles	b   	null	typically,	neurons	are	very	active	metabolically	in	order	
+GT :	somata)	a.	contains	nucleus,	nucleic	acids,	and	the	usual	organelles	null	b.  	typically,	neurons	are	very	active	metabolically	in	order	
+
+OCR:	to	support	neural	signaling	and	the	synthetic	requirements	that	are	necessary	to	maintain	the	intricate	protoplasmic	processes	that	arise	from	
+GT :	to	support	neural	signaling	and	the	synthetic	requirements	that	are	necessary	to	maintain	the	intricate	protoplasmic	processes	that	arise	from	
+
+OCR:	neuronal	somata	null	Visit	BrainFacts.org	for	Neuroscience	Core	Concepts	(@2012	null  	Society	for	Neuroscience	)	that	offer	fundamental	principles	about	
+GT :	neuronal	somata	1   	Visit	BrainFacts.org	for	Neuroscience	Core	Concepts	null  	(©2012	Society	for	Neuroscience	)	that	offer	fundamental	principles	about	
+
+OCR:	the	brain	and	nervous	system,	the	most	complex	living	structure	known	in	the	universe	2Figure	null     	null	null  	references	to	
+GT :	the	brain	and	nervous	system,	the	most	complex	living	structure	known	in	the	null    	null   	universe.	2   	Figure	references	to	
+
+OCR:	Purves	et	al.,	Neuroscience,	5"  	null	null	Ed.,	Sinauer	Assoc.,	Inc.,	2012.	[click	here]	null	
+GT :	Purves	et	al.,	Neuroscience,	null	5   	th  	Ed.,	Sinauer	Assoc.,	Inc.,	2012.	[click	here]	1   	
+

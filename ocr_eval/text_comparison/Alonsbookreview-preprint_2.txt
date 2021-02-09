@@ -1,0 +1,33 @@
+OCR:	Book	review:	Uri	Alon	(2007).	"An 	null	introduction	to	systems	biology:	design	principles	of	biological	circuits"	null     	London:	Chapman	&	
+GT :	Book	review:	Uri	Alon	(2007).	null	“An 	introduction	to	systems	biology:	design	principles	of	biological	null     	circuits”	London:	Chapman	&	
+
+OCR:	Hall/CRC	ISBN	1584886420,	GBP	30.99,	320	pp	Armindo	Salvador	Molecular	Systems	Biology	Group	-   	null	Centre	for	Neuroscience	and	Cell	
+GT :	Hall/CRC	ISBN	1584886420,	GBP	30.99,	320	pp	Armindo	Salvador	Molecular	Systems	Biology	Group	null	–   	Centre	for	Neuroscience	and	Cell	
+
+OCR:	Biology	and	Biological	Chemistry	Group	-   	null	Chemistry	Department	The	University	of	Coimbra	Largo	D.	Diniz	3004-535	Coimbra	Portugal	Email:	
+GT :	Biology	and	Biological	Chemistry	Group	null	–   	Chemistry	Department	The	University	of	Coimbra	Largo	D.	Diniz	3004-535	Coimbra	Portugal	Email:	
+
+OCR:	salvador@cnc.uc.pt	Phone:	+351-91-9619593	Fax:	+351-239-827703	Over	a	dozen	books	carrying	the	term	"systems	biology"	null    	null    	in	the	title	have	
+GT :	salvador@cnc.uc.pt	Phone:	+351-91-9619593	Fax:	+351-239-827703	Over	a	dozen	books	carrying	the	term	null    	null    	“systems	biology”	in	the	title	have	
+
+OCR:	been	published	recently,	riding	the	recent	rise	of	this	field	to	scientific	prominence.	Most	of	these	books	[e.	g.,	1;	
+GT :	been	published	recently,	riding	the	recent	rise	of	this	field	to	scientific	prominence.	Most	of	these	books	[e.	g.,	1;	
+
+OCR:	2;	3;	4;	5]	null	emphasize	the	analysis	of	"omic"	null  	experimental	data	and/or	large-scale	mathematical	modeling	so	as	to	
+GT :	2;	3;	4;	5]	1   	emphasize	the	analysis	of	null  	“omic”	experimental	data	and/or	large-scale	mathematical	modeling	so	as	to	
+
+OCR:	describe	how	biological	systems	work	at	the	molecular	level.	While	this	is	doubtlessly	a	very	important	problem	in	biology,	the	
+GT :	describe	how	biological	systems	work	at	the	molecular	level.	While	this	is	doubtlessly	a	very	important	problem	in	biology,	the	
+
+OCR:	object	of	this	review	null	Uri	Alon	(2007).	"An 	null	introduction	to	systems	biology:	design	principles	of	biological	circuits"	null     	
+GT :	object	of	this	review	—   	Uri	Alon	(2007).	null	“An 	introduction	to	systems	biology:	design	principles	of	biological	null     	circuits”	
+
+OCR:	London:	Chapman	&	Hall/CRC	(ISBN	1584886420,	GBP	30.99,	320	pp)	-   	null	focuses	null	This	is	just	a	list	of	
+GT :	London:	Chapman	&	Hall/CRC	(ISBN	1584886420,	GBP	30.99,	320	pp)	null	—   	focuses	1   	This	is	just	a	list	of	
+
+OCR:	books	I	happened	to	have	the	occasion	to	consult	recently.	It	is	neither	the	result	of	a	systematic	survey	of	
+GT :	books	I	happened	to	have	the	occasion	to	consult	recently.	It	is	neither	the	result	of	a	systematic	survey	of	
+
+OCR:	the	literature	on	systems	biology	or	an	implicit	endorsement	of	these	books.	
+GT :	the	literature	on	systems	biology	or	an	implicit	endorsement	of	these	books.	
+

@@ -1,0 +1,129 @@
+OCR:	W.	Ohyama	et	al.:	Detecting	MEs	in	Scientific	Document	Images	Using	a	U-Net	Trained	on	a	Diverse	Dataset	where	X	
+GT :	W.	Ohyama	et	al.:	Detecting	MEs	in	Scientific	Document	Images	Using	a	U-Net	Trained	on	a	Diverse	Dataset	where	X	
+
+OCR:	and	Y	are	the	binary	image	of	the	network	output	and	that	of	the	ground	truth.	X	n   	null	Y	
+GT :	and	Y	are	the	binary	image	of	the	network	output	and	that	of	the	ground	truth.	X	null	∩   	Y	
+
+OCR:	denotes	the	overlap	between	X	and	Y,  	null	null	and	|X	|	is	the	LI-norm	null	null	null 	of	image	
+GT :	denotes	the	overlap	between	X	and	null	Y   	,   	and	|X	|	is	the	null   	L   	1   	-norm	of	image	
+
+OCR:	X.  	null	null	The	proposed	method	does	not	use	any	information	from	either	mathematical	grammar	or	the	character	recognition	results.	
+GT :	null	X   	.   	The	proposed	method	does	not	use	any	information	from	either	mathematical	grammar	or	the	character	recognition	results.	
+
+OCR:	The	image	conversion	module	in	the	proposed	method	is	requested	to	obtain	information	that	is	crucial	to	determine	the	components	
+GT :	The	image	conversion	module	in	the	proposed	method	is	requested	to	obtain	information	that	is	crucial	to	determine	the	components	
+
+OCR:	that	should	remain	as	MEs	only	from	the	appearance	of	documents	in	the	surrounding	image	area.	A	limited	size	of	
+GT :	that	should	remain	as	MEs	only	from	the	appearance	of	documents	in	the	surrounding	image	area.	A	limited	size	of	
+
+OCR:	small	regions	may	cause	dif-	ficulty	regarding	making	a	decision	even	for	humans	in	this	scenario.	C.	POSTPROCESSING	Through	the	
+GT :	small	regions	may	cause	dif-	ficulty	regarding	making	a	decision	even	for	humans	in	this	scenario.	C.	POSTPROCESSING	Through	the	
+
+OCR:	image	conversion	process,	we	obtain	sub-block	images	that	contain	CCs	that	correspond	to	MEs.	In	the	postprocessing	stage,	we	reconstruct	
+GT :	image	conversion	process,	we	obtain	sub-block	images	that	contain	CCs	that	correspond	to	MEs.	In	the	postprocessing	stage,	we	reconstruct	
+
+OCR:	the	page	image	and	extract	CCs	that	correspond	to	mathematical	symbols	and	characters.	To	reconstruct	the	entire	page	image,	each	
+GT :	the	page	image	and	extract	CCs	that	correspond	to	mathematical	symbols	and	characters.	To	reconstruct	the	entire	page	image,	each	
+
+OCR:	sub-block	image	s   	null	rearranged	in	the	equivalent	position	and	the	maximum	pixel	value	among	the	overlapping	pixels	is	assigned	
+GT :	sub-block	image	null	is  	rearranged	in	the	equivalent	position	and	the	maximum	pixel	value	among	the	overlapping	pixels	is	assigned	
+
+OCR:	to	the	corresponding	pixel	in	the	page	image.	Additionally,	pixel-wise	multiplication	between	the	resized	reconstructed	image	and	the	original	image	
+GT :	to	the	corresponding	pixel	in	the	page	image.	Additionally,	pixel-wise	multiplication	between	the	resized	reconstructed	image	and	the	original	image	
+
+OCR:	is	per-	formed	to	eliminate	dilated	pixels	caused	by	the	morphology	operation	in	preprocessing,	and	artifacts	and	noise	injected	during	
+GT :	is	per-	formed	to	eliminate	dilated	pixels	caused	by	the	morphology	operation	in	preprocessing,	and	artifacts	and	noise	injected	during	
+
+OCR:	the	image	conversion	process.	IV.	PERFORMANCE	EVALUATION	A.	DATASETS	For	a	quantitative	evaluation	of	the	performance	of	mathe-	matical	OCR,	
+GT :	the	image	conversion	process.	IV.	PERFORMANCE	EVALUATION	A.	DATASETS	For	a	quantitative	evaluation	of	the	performance	of	mathe-	matical	OCR,	
+
+OCR:	a	number	of	datasets	have	been	proposed	in	the	literature.	InftyCDB	datasets	[39],	[40]	are	large	collections	of	mathematical	symbols	
+GT :	a	number	of	datasets	have	been	proposed	in	the	literature.	InftyCDB	datasets	[39],	[40]	are	large	collections	of	mathematical	symbols	
+
+OCR:	and	notation	from	actual	mathemat-	ical	documents.	UW	databases	[41]	contain	100	typeset	MEs	from	25	document	pages.	However,	these	
+GT :	and	notation	from	actual	mathemat-	ical	documents.	UW	databases	[41]	contain	100	typeset	MEs	from	25	document	pages.	However,	these	
+
+OCR:	datasets	are	not	applicable	for	evaluating	ME	detection	performance	because	the	content	in	the	dataset	is	rearranged	not	to	keep	
+GT :	datasets	are	not	applicable	for	evaluating	ME	detection	performance	because	the	content	in	the	dataset	is	rearranged	not	to	keep	
+
+OCR:	the	original	articles	because	of	copyright	reasons.	We	collected	two	large	datasets	to	train	U-Net	and	evalu-	ate	the	performance	
+GT :	the	original	articles	because	of	copyright	reasons.	We	collected	two	large	datasets	to	train	U-Net	and	evalu-	ate	the	performance	
+
+OCR:	of	the	proposed	ME	detection	method.	The	datasets,	called	GTDB-1	and	GTDB-2,	consist	of	doc-	ament	null 	page	images	collected	
+GT :	of	the	proposed	ME	detection	method.	The	datasets,	called	GTDB-1	and	GTDB-2,	consist	of	doc-	null 	ument	page	images	collected	
+
+OCR:	from	scientific	journals	and	textbooks.	The	GTDB-1	dataset,	which	was	used	to	train	the	U-Net	model,	contains	31	English	articles	
+GT :	from	scientific	journals	and	textbooks.	The	GTDB-1	dataset,	which	was	used	to	train	the	U-Net	model,	contains	31	English	articles	
+
+OCR:	on	mathemat-	ics.	The	GTDB-2	dataset,	which	was	used	for	quantitative	and	qualitative	evaluations	of	the	performance	of	the	pro-	
+GT :	on	mathemat-	ics.	The	GTDB-2	dataset,	which	was	used	for	quantitative	and	qualitative	evaluations	of	the	performance	of	the	pro-	
+
+OCR:	posed	method,	contains	16	articles.	Diverse	font	faces	and	mathematical	notation	styles	are	included	in	these	articles.	A	list	of	
+GT :	posed	method,	contains	16	articles.	Diverse	font	faces	and	mathematical	notation	styles	are	included	in	these	articles.	A	list	of	
+
+OCR:	the	articles	in	both	datasets	is	provided	in	the	appendix.	The	statistics	of	each	dataset	are	shown	in	Table	1.	
+GT :	the	articles	in	both	datasets	is	provided	in	the	appendix.	The	statistics	of	each	dataset	are	shown	in	Table	1.	
+
+OCR:	The	article	pages	were	originally	scanned	at	600	dpi.	The	ground	VOLUME	7,  	2019	IEEE	Access	TABLE	1.	Statistics	of	
+GT :	The	article	pages	were	originally	scanned	at	600	dpi.	The	ground	null  	null	null	null	null  	TABLE	1.	Statistics	of	
+
+OCR:	the	datasets:	Two	datasets	collected	from	scientific	journals	and	textbooks.	t   	truth	annotations	for	each	math	symbol	and	ordinary	charac-	
+GT :	the	datasets:	Two	datasets	collected	from	scientific	journals	and	textbooks.	null	truth	annotations	for	each	math	symbol	and	ordinary	charac-	
+
+OCR:	er  	null	were	attached	manually.	null	B.	EVALUATION	EXPERIMENTS	To	train	the	U-Net	model,	we	extracted	1,000	pairs	of	sub-	
+GT :	null	ter 	were	attached	manually.	2   	B.	EVALUATION	EXPERIMENTS	To	train	the	U-Net	model,	we	extracted	1,000	pairs	of	sub-	
+
+OCR:	blocks	from	each	document	page	and	the	corresponding	ground	truth	image	from	the	GTDB-1	dataset.	The	locations	of	sub-blocks	on	
+GT :	blocks	from	each	document	page	and	the	corresponding	ground	truth	image	from	the	GTDB-1	dataset.	The	locations	of	sub-blocks	on	
+
+OCR:	each	page	image	were	determined	randomly.	The	dataset	consisted	of	544	images,	so	the	total	number	of	sub-block	images	for	
+GT :	each	page	image	were	determined	randomly.	The	dataset	consisted	of	544	images,	so	the	total	number	of	sub-block	images	for	
+
+OCR:	training	was	544,000.	We	mainly	used	mathematical	symbol	(character)	recall	Rs, 	null	null	null	precision	Ps  	null	null	and	F-measure	
+GT :	training	was	544,000.	We	mainly	used	mathematical	symbol	(character)	recall	null	R   	s   	,   	precision	null	P   	s   	and	F-measure	
+
+OCR:	Fs  	null	null	as	the	performance	measures.	Each	measure	is	defined	as	follows:	nTP 	Rs  	=   	(2) 	nTP 	+   	NEN 	
+GT :	null	F   	s   	as	the	performance	measures.	Each	measure	is	defined	as	null    	null	null	null	null	null	null	null	
+
+OCR:	nTP 	Ps  	=   	(3) 	nTP 	+   	nFP 	2   	PSRS	Fs  	=   	(4) 	Ps  	+   	RS  	null   	where	nTP,	nFP 	null	
+GT :	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	follows	where	null	null	n   	
+
+OCR:	null	null	null	null	and	nEN 	null	null	are	the	numbers	of	correctly	detected	mathematical	symbols,	falsely	detected	symbols	or	
+GT :	TP  	,   	n   	FP  	and	null	n   	FN  	are	the	numbers	of	correctly	detected	mathematical	symbols,	falsely	detected	symbols	or	
+
+OCR:	ordinary	text,	and	undetected	mathematical	symbols,	respectively.	Pixel-level	majority	voting	is	used	for	the	symbol-level	eval-	uation.	If	the	majority	
+GT :	ordinary	text,	and	undetected	mathematical	symbols,	respectively.	Pixel-level	majority	voting	is	used	for	the	symbol-level	eval-	uation.	If	the	majority	
+
+OCR:	of	pixels	in	a	candidate	symbol	were	detected	as	a	mathematical	symbol,	the	candidate	symbol	is	determined	as	a	mathematical	
+GT :	of	pixels	in	a	candidate	symbol	were	detected	as	a	mathematical	symbol,	the	candidate	symbol	is	determined	as	a	mathematical	
+
+OCR:	symbol.	We	also	used	ME-based	recall	(Re),	null	null	null	precision	(Pe)	null	null	null	and	F-measure	(Fe)	null	null	
+GT :	symbol.	We	also	used	ME-based	recall	null 	(R  	e   	),  	precision	null	(P  	e   	)   	and	F-measure	null	(F  	e   	
+
+OCR:	null	as	supplemental	performance	measures.	Their	definitions	are	similar	to	(2)-(4),	null    	but	the	numbers	in	the	equations	are	counted	
+GT :	)   	as	supplemental	performance	measures.	Their	definitions	are	similar	to	null    	(2)–(4),	but	the	numbers	in	the	equations	are	counted	
+
+OCR:	for	regions.	To	determine	MEs	over	the	detected	mathematical	sym-	pols,	null 	mathematical	layout	analysis	is	requested	to	obtain	the	
+GT :	for	regions.	To	determine	MEs	over	the	detected	mathematical	sym-	null 	bols,	mathematical	layout	analysis	is	requested	to	obtain	the	
+
+OCR:	spatial	relationship	between	the	symbols.	We	do	not	intend	to	implement	layout	analysis	in	the	present	study.	Therefore,	note	that	
+GT :	spatial	relationship	between	the	symbols.	We	do	not	intend	to	implement	layout	analysis	in	the	present	study.	Therefore,	note	that	
+
+OCR:	the	evaluations	using	ME-based	measures	are	based	on	the	assumption	that	the	candidates	of	mathematical	regions	are	obtained	using	some	
+GT :	the	evaluations	using	ME-based	measures	are	based	on	the	assumption	that	the	candidates	of	mathematical	regions	are	obtained	using	some	
+
+OCR:	layout	analysis	method.	In	this	study,	we	extracted	candidate	regions	using	the	ground	truth	so	that	the	candidate	regions	contain	
+GT :	layout	analysis	method.	In	this	study,	we	extracted	candidate	regions	using	the	ground	truth	so	that	the	candidate	regions	contain	
+
+OCR:	in-line	and	displayed	MEs,	and	"The	null	null	ground	truth	annotation	has	been	released	to	the	public	to	benchmark	OCR	
+GT :	in-line	and	displayed	MEs,	and	null	2   	The 	ground	truth	annotation	has	been	released	to	the	public	to	benchmark	OCR	
+
+OCR:	performance	for	scientific	documents.	Although	we	could	not	include	the	original	document	images	of	articles	for	copyright	reasons,	we	provide	
+GT :	performance	for	scientific	documents.	Although	we	could	not	include	the	original	document	images	of	articles	for	copyright	reasons,	we	provide	
+
+OCR:	hyperlinks	on	our	website	to	the	web	pages	of	the	original	documents,	where	the	readers	can	obtain	the	document	images:	
+GT :	hyperlinks	on	our	website	to	the	web	pages	of	the	original	documents,	where	the	readers	can	obtain	the	document	images:	
+
+OCR:	https	:   	/   	/github.	com/	null               	uchidalab/GTDB-Dataset/tree/master	144035	
+GT :	null 	null	null	null    	null	https://github.com/	uchidalab/GTDB-Dataset/tree/master	144035	
+

@@ -1,0 +1,117 @@
+OCR:	www.gradeup.co	gradeup	33.	Direction:	Find	the	missing	term	in	38. 	Direction:	In  	the 	following	question	given	series.	two 	equations	are 	
+GT :	www.gradeup.co	null   	33.	Direction:	Find	the	missing	term	in	null	null      	null	null	null     	null    	given	series.	null	null     	null	
+
+OCR:	given	in  	variables	X   	222,	110,	54,	26,	?	and 	Y.  	You 	have	to  	solve	these	equations	A.	8	and 	
+GT :	null 	null	null     	null	222,	110,	54,	26,	?	null	null	null	null	null	null 	null 	null     	A.	8	null	
+
+OCR:	determine	the 	relation	between	X   	and 	B.	11	Y   	.   	C.	13	A)  	(x  	+   	1)2 	=   	122 	D.	9	
+GT :	null     	null	null    	null   	null	null	B.	11	null	null	C.	13	null	null	null	null	null	null	D.	9	
+
+OCR:	B)  	y2  	+   	2y  	-   	143 	=   	0   	E.	12	A.  	X   	>   	Y   	B.  	X   	Z   	Y   	34.	Direction:	
+GT :	null	null	null	null	null	null	null	null	E.	12	null	null	null	null	null	null	null	null	34.	Direction:	
+
+OCR:	Find	the	missing	term	in	C.  	X   	<   	Y   	given	series.	D.  	X   	SY  	2,	1,	1,	1.5,	3,	?	
+GT :	Find	the	missing	term	in	null	null	null	null	given	series.	null	null	null	2,	1,	1,	1.5,	3,	?	
+
+OCR:	E.  	X   	=   	Y   	or  	No  	relation	can 	be  	established	A.	4.5	B.	6	39. 	Direction:	In  	the 	following	question	
+GT :	null	null	null	null	null	null	null    	null	null	null       	A.	4.5	B.	6	null	null      	null	null	null     	null    	
+
+OCR:	C.	7.5	two 	equations	are 	given	in  	variables	X   	D.	8	and 	Y.  	You 	have	to  	solve	these	equations	E.	
+GT :	C.	7.5	null	null     	null	null 	null	null     	null	D.	8	null	null	null	null	null	null 	null 	null     	E.	
+
+OCR:	7.2	and 	determine	the 	relation	between	X   	and 	Y   	.   	35.	Direction:	Find	the	missing	term	in	6x2 	+   	5x  	
+GT :	7.2	null	null     	null	null    	null   	null	null	null	null	35.	Direction:	Find	the	missing	term	in	null	null	null	
+
+OCR:	+   	1   	=   	0   	given	series.	4y2 	+   	4y  	+   	1   	=   	0   	26,	63,	124,	215,	?	A.	If  	
+GT :	null	null	null	null	given	series.	null	null	null	null	null	null	null	26,	63,	124,	215,	?	A.	null	
+
+OCR:	X   	>   	Y   	A.  	315	B.	If  	X   	<   	Y   	B.  	421	C.	If  	X   	2   	Y   	C.  	342	D.	
+GT :	null	null	null	null	315	B.	null	null	null	null	null	421	C.	null	null	null	null	null	342	D.	
+
+OCR:	If  	X   	<   	Y   	D.  	426	E.	If  	X   	=   	Y   	or  	no  	relation	can 	be  	E.  	388	established	36.	
+GT :	null	null	null	null	null	426	E.	null	null	null	null	null	null	null    	null	null	null	388	null       	36.	
+
+OCR:	Direction:	In	the	following	question,	40. 	Direction:	In  	the 	following	question	two	equations	are	given	in	variables	x   	null	null	
+GT :	Direction:	In	the	following	question,	null	null      	null	null	null     	null    	two	equations	are	given	in	variables	null	X   	and 	
+
+OCR:	null	null	null	null	null 	null 	null     	null	null     	null	null    	null   	null	null	null	null	null	null	null	null	
+GT :	Y.  	You 	have	to  	solve	these	equations	and 	determine	the 	relation	between	X   	and 	Y.  	A)  	5x  	+   	2y  	=   	
+
+OCR:	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	
+GT :	31  	B)  	3x  	+   	7y  	=   	36  	A.  	X   	>   	Y   	B.  	X   	≥   	Y   	C.  	X   	<   	Y   	D.  	
+
+OCR:	null	null	null	null	null	null	null	null	null	null    	null	null	null       	null	null      	null	null	null     	null    	two	
+GT :	X   	≤   	Y   	E.  	X   	=   	Y   	or  	No  	relation	can 	be  	established	37. 	Direction:	In  	the 	following	question	two	
+
+OCR:	equations	are	given	in	variables	x   	null	and	Y.	You	have	to	solve	these	equations	and	null     	null	null    	null   	
+GT :	equations	are	given	in	variables	null	X   	and	Y.	You	have	to	solve	these	equations	and	determine	the 	relation	between	
+
+OCR:	null	null	Y.	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	
+GT :	X   	and 	Y.	A)  	x   	2   	–   	7x  	+   	12  	=   	0   	B   	)   	y   	2   	–   	9y  	+   	20  	
+
+OCR:	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	
+GT :	=   	0   	A.  	X   	>   	Y   	B.  	X   	≥   	Y   	C.  	X   	<   	Y   	D.  	X   	≤   	Y   	E.  	X   	
+
+OCR:	null	null	null	null	null    	null	null	null       	null	null      	null	null	null     	null    	null	null     	null	null 	null	null     	
+GT :	=   	Y   	or  	No  	relation	can 	be  	established	38. 	Direction:	In  	the 	following	question	two 	equations	are 	given	in  	variables	
+
+OCR:	null	null	null	You	have	to	solve	these	equations	and	determine	the	relation	between	X	and	null	null	null	null	
+GT :	X   	and 	Y.  	You	have	to	solve	these	equations	and	determine	the	relation	between	X	and	Y.  	A)  	(x  	+   	
+
+OCR:	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	
+GT :	1)  	2   	=   	12  	2   	B)  	y   	2   	+   	2y  	–   	143 	=   	0   	A.  	X   	>   	Y   	B.  	X   	
+
+OCR:	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null    	null	null	null       	
+GT :	≥   	Y   	C.  	X   	<   	Y   	D.  	X   	≤   	Y   	E.  	X   	=   	Y   	or  	No  	relation	can 	be  	established	
+
+OCR:	null	null      	null	null	null     	null    	null	null     	null	null 	null	null     	null	and	null	null	null	null	null 	null 	
+GT :	39. 	Direction:	In  	the 	following	question	two 	equations	are 	given	in  	variables	X   	and	Y.  	You 	have	to  	solve	these	
+
+OCR:	null     	null	determine	the	relation	between	X	and	Y   	.   	Y.	A)  	null	null	null	5x	+	2y  	null	=	
+GT :	equations	and 	determine	the	relation	between	X	and	null	null	Y.	null	6x  	2   	+   	5x	+	null	1   	=	
+
+OCR:	31  	x2  	-   	16x 	+   	64  	=   	0	B)  	3x  	null	null	+	7y  	null	null	null	=	36  	Y2  	
+GT :	null	null	null	null	null	null	null	0	null	null	4y  	2   	+	null	4y  	+   	1   	=	null	null	
+
+OCR:	=   	64  	null	A.	X   	>   	Y   	A.  	If	X	>	Y	B.	X   	ZY  	B   	.   	If	X	<	
+GT :	null	null	0   	A.	null	null	null	null	If	X	>	Y	B.	null	null	null	null	If	X	<	
+
+OCR:	Y	C.	X   	<   	Y   	C.  	If	X	2   	null	Y	D.	X   	SY  	D.  	If	X	<   	null	Y	
+GT :	Y	C.	null	null	null	null	If	X	null	≥   	Y	D.	null	null	null	If	X	null	≤   	Y	
+
+OCR:	E.	null	X	=	Y	or	No  	null	relation	can	be	established	null	null      	null	null	null     	null    	null	null     	
+GT :	E.	If  	X	=	Y	or	null	no  	relation	can	be	established	40. 	Direction:	In  	the 	following	question	two 	equations	
+
+OCR:	null	null 	null	null     	null	null	null	null	null	null	null 	null 	null     	null	null     	null	null    	null   	null	null	
+GT :	are 	given	in  	variables	X   	and 	Y.  	You 	have	to  	solve	these	equations	and 	determine	the 	relation	between	X   	and 	
+
+OCR:	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	
+GT :	Y.  	x   	2   	–   	16x 	+   	64  	=   	0   	Y   	2   	=   	64  	A.  	If  	X   	>   	Y   	B.  	If  	
+
+OCR:	null	null	null	null	null	null	null	null	null	null	null	null	null	E.	If	X=Y	or	No	relation	can	
+GT :	X   	<   	Y   	C.  	If  	X   	≥   	Y   	D.  	If  	X   	≤   	Y   	E.	If	X=Y	or	No	relation	can	
+
+OCR:	be	established	37. 	Direction:	In  	the 	following	question	41.	Direction:	Study	the	following	pie-	two 	equations	are 	given	in  	variables	
+GT :	be	established	null	null      	null	null	null     	null    	41.	Direction:	Study	the	following	pie-	null	null     	null	null 	null	null     	
+
+OCR:	X   	chart	and	table	carefully	to	answer	the	and 	Y.  	You 	have	to  	solve	these	equations	questions	that	follow.	and 	
+GT :	null	chart	and	table	carefully	to	answer	the	null	null	null	null	null	null 	null 	null     	questions	that	follow.	null	
+
+OCR:	determine	the 	relation	between	X   	and 	Percentage	of	visitors	(male	and	female)	Y.  	in	a	museum	on	the	given	3	
+GT :	null     	null	null    	null   	null	null	Percentage	of	visitors	(male	and	female)	null	in	a	museum	on	the	given	3	
+
+OCR:	days-Friday,	A)  	x2  	-   	7x  	+   	12  	=   	0   	Saturday	and	Sunday	is	depicted	in	the	B   	)   	y2  	-   	
+GT :	days-Friday,	null	null	null	null	null	null	null	null	Saturday	and	Sunday	is	depicted	in	the	null	null	null	null	
+
+OCR:	9y  	+   	20  	=   	0   	pie	chart	given	below.	A.  	X   	>   	Y   	Total	number	of	visitors	on	the	given	
+GT :	null	null	null	null	null	pie	chart	given	below.	null	null	null	null	Total	number	of	visitors	on	the	given	
+
+OCR:	B.  	X   	Z   	Y   	three	days	=	400	C.  	X   	<   	Y   	D.  	X   	SY  	E.  	X   	=   	Y   	or  	
+GT :	null	null	null	null	three	days	=	400	null	null	null	null	null	null	null	null	null	null	null	null	
+
+OCR:	No  	relation	can 	be  	established	Gradeup	Green	Card	Unlimited	Access	to	All	700+	Bank	null 	&	Insurance	CLICK	HERE	Mock	
+GT :	null	null    	null	null	null       	Gradeup	Green	Card	Unlimited	Access	to	All	700+	null	Banks	&	Insurance	CLICK	HERE	Mock	
+
+OCR:	Tests	7	
+GT :	Tests	7	
+

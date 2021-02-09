@@ -1,0 +1,6 @@
+OCR:	Engineering	Honeycombs	i   	null    	null   	null 	null	null 	null   	null   	null	null	null	null	null	null  	null    	null   	null     	null	
+GT :	Engineering	Honeycombs	null	Aluminum	Ceramic	Paper	-   	resin	Ceramic	Gibson,	L.  	J., 	and 	M.  	F.  	Ashby.	Cellular	Solids:	Structure	and 	
+
+OCR:	null       	null	null	null	null     	University	Press.	@   	null	1997.	Figures	courtesy	of	Lorna	Gibson	and	Cambridge	University	Press.	6	
+GT :	Properties.	2   	nd  	ed. 	Cambridge	University	Press.	null	©   	1997.	Figures	courtesy	of	Lorna	Gibson	and	Cambridge	University	Press.	6	
+

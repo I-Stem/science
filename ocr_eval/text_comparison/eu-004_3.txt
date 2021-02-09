@@ -1,0 +1,57 @@
+OCR:	null	In	general,	(and	as	might	be	expected),	the	larger	member	states	tend	to	have	more	retail	outlets.	However,	the	
+GT :	•   	In	general,	(and	as	might	be	expected),	the	larger	member	states	tend	to	have	more	retail	outlets.	However,	the	
+
+OCR:	number	does	not	rise	proportionately	with	population	size,	and	this	means	that,	when	judged	by	the	number	of	inhabitants	served	
+GT :	number	does	not	rise	proportionately	with	population	size,	and	this	means	that,	when	judged	by	the	number	of	inhabitants	served	
+
+OCR:	by	each	outlet,	Germany,	UK	and	France	have	the	highest	rankings,	and	Portugal,	Greece	and	Ireland	the	lowest.	Given	that	
+GT :	by	each	outlet,	Germany,	UK	and	France	have	the	highest	rankings,	and	Portugal,	Greece	and	Ireland	the	lowest.	Given	that	
+
+OCR:	a	larger	inhabitant	per	outlet	ratio	will	translate,	ceteris	paribus,	into	higher	turnover	per	outlet,	there	are	obvious	implications	of	
+GT :	a	larger	inhabitant	per	outlet	ratio	will	translate,	ceteris	paribus,	into	higher	turnover	per	outlet,	there	are	obvious	implications	of	
+
+OCR:	this	for	the	differential	ability	of	retailers	from	the	different	member	states	to	achieve	scale	economies.	Quite	obviously,	this	suggests	
+GT :	this	for	the	differential	ability	of	retailers	from	the	different	member	states	to	achieve	scale	economies.	Quite	obviously,	this	suggests	
+
+OCR:	that	full	exploitation	of	scale	economies	in	the	smaller	member	states	may	only	be	possible	for	a	limited	number	of	
+GT :	that	full	exploitation	of	scale	economies	in	the	smaller	member	states	may	only	be	possible	for	a	limited	number	of	
+
+OCR:	firms,	giving	rise	to	the	possibility	that	there	will	be	natural	oligopolies.	Moreover,	some	members	currently	record	an	"inhabitants	null        	
+GT :	firms,	giving	rise	to	the	possibility	that	there	will	be	natural	oligopolies.	Moreover,	some	members	currently	record	an	null        	“inhabitants	
+
+OCR:	per	outlet"	null   	rating	which	is	relatively	low,	given	the	size	of	the	national	market.	This	is	especially	true	for	
+GT :	per	null   	outlet”	rating	which	is	relatively	low,	given	the	size	of	the	national	market.	This	is	especially	true	for	
+
+OCR:	Italy	and	(to	a	slightly	lesser	extent)	Spain.	(The	reverse	is	true	for	Austria	and,	to	a	lesser	extent,	Netherlands	
+GT :	Italy	and	(to	a	slightly	lesser	extent)	Spain.	(The	reverse	is	true	for	Austria	and,	to	a	lesser	extent,	Netherlands	
+
+OCR:	and	the	Scandinavian	countries.)	This	is	sometimes	ascribed	historically	to	cultural	north-south	factors,	but,	whatever	the	reason,	there	might	be	
+GT :	and	the	Scandinavian	countries.)	This	is	sometimes	ascribed	historically	to	cultural	north-south	factors,	but,	whatever	the	reason,	there	might	be	
+
+OCR:	the	a	priori	expectation	that	future	consolidation	of	outlet	size	will	be	greatest	in	Italy	and	Spain.	To	add	a	
+GT :	the	a	priori	expectation	that	future	consolidation	of	outlet	size	will	be	greatest	in	Italy	and	Spain.	To	add	a	
+
+OCR:	wider	perspective,	Table	6.3	compares	the	EU	as	a	whole	with	Japan	and	the	USA.	Judged	on	this	evidence,	EU15	
+GT :	wider	perspective,	Table	6.3	compares	the	EU	as	a	whole	with	Japan	and	the	USA.	Judged	on	this	evidence,	EU15	
+
+OCR:	has	"too	many"	null	null 	retail	outlets	compared	to	the	USA,	given	their	comparative	sizes.	However,	"too	many"	null	null 	
+GT :	has	null	null 	“too	many”	retail	outlets	compared	to	the	USA,	given	their	comparative	sizes.	However,	null	null 	“too	many”	
+
+OCR:	is	an	ambiguous	term,	and	this	comparison	probably	only	carries	much	meaning	if	one	believes	that	the	current	level	of	
+GT :	is	an	ambiguous	term,	and	this	comparison	probably	only	carries	much	meaning	if	one	believes	that	the	current	level	of	
+
+OCR:	integration	within	the	states	of	the	USA	provides	a	useful	indicator	of	what	is	to	come	with	ongoing	European	integration.	
+GT :	integration	within	the	states	of	the	USA	provides	a	useful	indicator	of	what	is	to	come	with	ongoing	European	integration.	
+
+OCR:	Japanese	outlets,	on	the	other	hand,	serve	far	fewer	inhabitants	than	their	European	counterparts	-	as	might	be	expected	given	
+GT :	Japanese	outlets,	on	the	other	hand,	serve	far	fewer	inhabitants	than	their	European	counterparts	-	as	might	be	expected	given	
+
+OCR:	the	smaller	population,	although	there	is	far	less	difference	when	judged	by	average	turnover.	Table	6.3:	Comparison	of	the	EU	
+GT :	the	smaller	population,	although	there	is	far	less	difference	when	judged	by	average	turnover.	Table	6.3:	Comparison	of	the	EU	
+
+OCR:	retail	sector	with	Japan	and	the	USA	t   	Sources:	Derived	using	"Panorama	null     	of	EU	Industry,	1997",	p.21-15,	Table	5.	
+GT :	retail	sector	with	Japan	and	the	USA	null	Sources:	Derived	using	null     	“Panorama	of	EU	Industry,	1997",	p.21-15,	Table	5.	
+
+OCR:	42	
+GT :	42	
+

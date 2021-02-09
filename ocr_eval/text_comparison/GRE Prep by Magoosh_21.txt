@@ -1,0 +1,81 @@
+OCR:	How	Is	the	GRE	Scored?	The	GRE	scale	may	seem	pretty	arbitrary.	After	all,	who	has	ever	seen	a	test	
+GT :	How	Is	the	GRE	Scored?	The	GRE	scale	may	seem	pretty	arbitrary.	After	all,	who	has	ever	seen	a	test	
+
+OCR:	graded	on	a	130-170	null   	scale?	A	range	of	0-100,	null  	yes,	but	130-170?	null    	Weird!	Well,	according	to	ETS,	
+GT :	graded	on	a	null   	130–170	scale?	A	range	of	null  	0–100,	yes,	but	null    	130–170?	Weird!	Well,	according	to	ETS,	
+
+OCR:	when	they	revised	the	GRE	scoring	back	in	2011,	they	wanted	to	stick	to	three	digits	so	that	schools	wouldn't	
+GT :	when	they	revised	the	GRE	scoring	back	in	2011,	they	wanted	to	stick	to	three	digits	so	that	schools	null    	
+
+OCR:	null    	have	to	overhaul	all	the	textbox	entries	that	call	for	that	specific	number	of	digits.	Fair	enough.	Also,	to	
+GT :	wouldn’t	have	to	overhaul	all	the	textbox	entries	that	call	for	that	specific	number	of	digits.	Fair	enough.	Also,	to	
+
+OCR:	avoid	confusion,	ETS	made	sure	the	current	scoring	system	didn't	null  	overlap	numbers	with	the	old	GRE	scoring	system.	The	
+GT :	avoid	confusion,	ETS	made	sure	the	current	scoring	system	null  	didn’t	overlap	numbers	with	the	old	GRE	scoring	system.	The	
+
+OCR:	GRE	scoring	system	makes	up	for	the	limited	range	(just	40	points!)	by	giving	more	significance	to	the	extreme	ends	
+GT :	GRE	scoring	system	makes	up	for	the	limited	range	(just	40	points!)	by	giving	more	significance	to	the	extreme	ends	
+
+OCR:	of	the	scale.	For	example,	on	the	GRE,	the	difference	between	a	score	of	165	and	a	score	of	170	
+GT :	of	the	scale.	For	example,	on	the	GRE,	the	difference	between	a	score	of	165	and	a	score	of	170	
+
+OCR:	will	be	the	difference	between	being	in	the	96th	percentile	and	being	in	the	99th	percentile.	At	the	end	of	
+GT :	will	be	the	difference	between	being	in	the	96th	percentile	and	being	in	the	99th	percentile.	At	the	end	of	
+
+OCR:	the	day,	you're	null  	not	going	to	be	tested	on	these	statistical	nuances.	The	important	thing	to	remember	is	that	
+GT :	the	day,	null  	you’re	not	going	to	be	tested	on	these	statistical	nuances.	The	important	thing	to	remember	is	that	
+
+OCR:	many	admissions	offices	base	their	evaluations	on	a	percentile	score,	which	you'll	null  	also	receive	as	part	of	your	score	
+GT :	many	admissions	offices	base	their	evaluations	on	a	percentile	score,	which	null  	you’ll	also	receive	as	part	of	your	score	
+
+OCR:	report.	Questions	are	static,	but	the	GRE	is	adaptive	The	GRE	is	adaptive,	but	not	in	the	way	some	other	
+GT :	report.	Questions	are	static,	but	the	GRE	is	adaptive	The	GRE	is	adaptive,	but	not	in	the	way	some	other	
+
+OCR:	tests	are.	Many	tests	(such	as	the	GMAT,	for	instance)	will	adapt	to	your	proficiency	level.	The	more	questions	you	
+GT :	tests	are.	Many	tests	(such	as	the	GMAT,	for	instance)	will	adapt	to	your	proficiency	level.	The	more	questions	you	
+
+OCR:	get	right,	the	harder	they'll	null   	get;	if	you	get	more	questions	wrong,	they'll	null   	get	easier	and	easier.	The	
+GT :	get	right,	the	harder	null   	they’ll	get;	if	you	get	more	questions	wrong,	null   	they’ll	get	easier	and	easier.	The	
+
+OCR:	GRE	isn't	null 	adaptive	in	this	way.	Question	difficulty	within	a	section	doesn't	null   	change	depending	on	whether	you	answer	
+GT :	GRE	null 	isn’t	adaptive	in	this	way.	Question	difficulty	within	a	section	null   	doesn’t	change	depending	on	whether	you	answer	
+
+OCR:	questions	correctly.	However,	your	performance	on	the	first	GRE	Verbal	and	Quantitative	sections	will	determine	whether	the	next	sections	of	
+GT :	questions	correctly.	However,	your	performance	on	the	first	GRE	Verbal	and	Quantitative	sections	will	determine	whether	the	next	sections	of	
+
+OCR:	the	same	type	are	easier	or	more	difficult	than	the	first.	Questions	have	random	levels	of	difficulty	Questions	might	be	
+GT :	the	same	type	are	easier	or	more	difficult	than	the	first.	Questions	have	random	levels	of	difficulty	Questions	might	be	
+
+OCR:	static,	but	that	doesn't	null   	mean	a	section	can't	null 	become	progressively	harder	or	easier,	theoretically.	There	is	no	order	
+GT :	static,	but	that	null   	doesn’t	mean	a	section	null 	can’t	become	progressively	harder	or	easier,	theoretically.	There	is	no	order	
+
+OCR:	of	difficulty	on	the	GRE.	The	first	question	can	be	the	hardest	and	the	last	question	the	easiest.	Each	question	
+GT :	of	difficulty	on	the	GRE.	The	first	question	can	be	the	hardest	and	the	last	question	the	easiest.	Each	question	
+
+OCR:	is	weighted	the	same	Each	question	is	basically	weighted	the	same.	So	the	question	that	seems	like	it	will	take	
+GT :	is	weighted	the	same	Each	question	is	basically	weighted	the	same.	So	the	question	that	seems	like	it	will	take	
+
+OCR:	fifteen	minutes	to	answer	is	worth	the	same	as	the	question	you	can	answer	in	fifteen	seconds.	How	Difficult	Is	
+GT :	fifteen	minutes	to	answer	is	worth	the	same	as	the	question	you	can	answer	in	fifteen	seconds.	How	Difficult	Is	
+
+OCR:	the	GRE?	Simply	put,	the	GRE	can	be	a	very	difficult	test,	especially	if	you've	null  	been	out	of	school	
+GT :	the	GRE?	Simply	put,	the	GRE	can	be	a	very	difficult	test,	especially	if	null  	you’ve	been	out	of	school	
+
+OCR:	for	a	while.	Typically,	this	tends	to	hold	truer	for	the	GRE	Quantitative	than	for	the	GRE	Verbal	or	AWA.	
+GT :	for	a	while.	Typically,	this	tends	to	hold	truer	for	the	GRE	Quantitative	than	for	the	GRE	Verbal	or	AWA.	
+
+OCR:	So	let's	null 	break	it	down	by	category.	How	hard	is	GRE	Quantitative?	The	truth	is,	as	soon	as	you	
+GT :	So	null 	let’s	break	it	down	by	category.	How	hard	is	GRE	Quantitative?	The	truth	is,	as	soon	as	you	
+
+OCR:	leave	college,	the	likelihood	of	using	math	diminishes	Meet	the 	GRE 	drastically.	Compounding	the	"rusty	null  	math-brain	syndrome"	null     	is	
+GT :	leave	college,	the	likelihood	of	using	math	diminishes	null	null	null	drastically.	Compounding	the	null  	“rusty	math-brain	null     	syndrome”	is	
+
+OCR:	the	fact	that	GRE	math	is	different	from	the	math	you	probably	did	in	college;	it's	null	much	closer	to	
+GT :	the	fact	that	GRE	math	is	different	from	the	math	you	probably	did	in	college;	null	it’s	much	closer	to	
+
+OCR:	the	math	you	did	in	your	junior	year	of	high	school.	That's	null  	not	to	say	it's	null	easy.	It's	
+GT :	the	math	you	did	in	your	junior	year	of	high	school.	null  	That’s	not	to	say	null	it’s	easy.	null	
+
+OCR:	null	generally	much	null	null	null	4	
+GT :	It’s	generally	much	Meet	the 	GRE 	4	
+

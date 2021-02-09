@@ -1,0 +1,96 @@
+OCR:	Document	Page	Decomposition	by	the	Bounding-Box	Projection	Technique	Jaekyu	Ha	&	Robert	M.	Haralick	null 	Dept.	of	Electrical	Engineering,	FT-10	
+GT :	Document	Page	Decomposition	by	the	Bounding-Box	Projection	Technique	Jaekyu	Ha	&	Robert	M.	Haralick	Ihsin	Dept.	of	Electrical	Engineering,	FT-10	
+
+OCR:	University	of	Washington	Seattle,	WA	9819	null 	null	null    	null 	null	null    	null   	null   	null      	null    	null	null 	Abstract	This	
+GT :	University	of	Washington	Seattle,	WA	null	98195	T.  	Phillips	Dept.	of  	Computer	Science	Seattle	University	Seattle,	WA  	98122	Abstract	This	
+
+OCR:	paper	describes	a	method	for	extracting	words,	textlines	and	text	blocks	by	analyzing	the	spatial	con-	figuration	of	bounding	boxes	
+GT :	paper	describes	a	method	for	extracting	words,	textlines	and	text	blocks	by	analyzing	the	spatial	con-	figuration	of	bounding	boxes	
+
+OCR:	of	connected	components	on	a	given	document	image.	The	basic	idea	is	that	connected	components	of	black	pixels	can	be	
+GT :	of	connected	components	on	a	given	document	image.	The	basic	idea	is	that	connected	components	of	black	pixels	can	be	
+
+OCR:	used	as	computational	units	in	document	image	analysis.	In	this	paper,	the	problem	of	extracting	words,	textlines	and	text	blocks	
+GT :	used	as	computational	units	in	document	image	analysis.	In	this	paper,	the	problem	of	extracting	words,	textlines	and	text	blocks	
+
+OCR:	is	viewed	as	a	clustering	problem	in	the	2-dimensional	null        	discrete	domain.	Our	main	strategy	is	that	profiling	analysis	is	
+GT :	is	viewed	as	a	clustering	problem	in	the	null         	&dimensional	discrete	domain.	Our	main	strategy	is	that	profiling	analysis	is	
+
+OCR:	utilized	to	measure	horizontal	or	vertical	gaps	of	(groups	of)	components	during	the	process	of	image	segmentation.	For	this	purpose,	
+GT :	utilized	to	measure	horizontal	or	vertical	gaps	of	(groups	of)	components	during	the	process	of	image	segmentation.	For	this	purpose,	
+
+OCR:	we	compute	the	smallest	rectangular	bor,	null	called	the	bound-	ing	bor,	null	which	circumscribes	a	connected	component.	Those	boxes	
+GT :	we	compute	the	smallest	rectangular	null	box,	called	the	bound-	ing	null	box,	which	circumscribes	a	connected	component.	Those	boxes	
+
+OCR:	are	projected	horizontally	and/or	verti-	cally,	and	local	and	global	projection	profiles	are	an-	lyzed	null  	for	word,	textline	and	
+GT :	are	projected	horizontally	and/or	verti-	cally,	and	local	and	global	projection	profiles	are	an-	null 	alyzed	for	word,	textline	and	
+
+OCR:	text-block	segmentation.	In	the	last	step	of	segmentation,	the	document	decom-	position	hierarchy	is	produced	from	these	segmented	objects.	null   	
+GT :	text-block	segmentation.	In	the	last	step	of	segmentation,	the	document	decom-	position	hierarchy	is	produced	from	these	segmented	null    	objects	
+
+OCR:	1	Introduction	The	printing	process	is	the	transformation	of	the	logical	hierarchy	of	a	given	document	into	the	physi-	cal	
+GT :	1	Introduction	The	printing	process	is	the	transformation	of	the	logical	hierarchy	of	a	given	document	into	the	physi-	cal	
+
+OCR:	hierarchy.	The	process	must	follow	the	set	of	rules	or	protocols	which	prescribe	the	physical	document	layout	requirements	at	the	
+GT :	hierarchy.	The	process	must	follow	the	set	of	rules	or	protocols	which	prescribe	the	physical	document	layout	requirements	at	the	
+
+OCR:	time	of	production.	The	requirements	may	include	the	font	type,	size	and	style	for	each	symbol,	the	column	format	(including	
+GT :	time	of	production.	The	requirements	may	include	the	font	type,	size	and	style	for	each	symbol,	the	column	format	(including	
+
+OCR:	the	number	of	columns	and	column	width),	the	header,	the	footer	and	margin	dimensions.	Also,	there	are	also	intrinsic	spacing	
+GT :	the	number	of	columns	and	column	width),	the	header,	the	footer	and	margin	dimensions.	Also,	there	are	also	intrinsic	spacing	
+
+OCR:	protocols	for	the	symbols	and	words	as	well	as	for	textlines,	text	blocks	and	text	columns.	In	almost	all	cases,	
+GT :	protocols	for	the	symbols	and	words	as	well	as	for	textlines,	text	blocks	and	text	columns.	In	almost	all	cases,	
+
+OCR:	spacings	between	sym-	bols	are	much	smaller	than	spacings	between	words	within	the	same	printed	document.	Similarly,	spacings	1119	0-8186-7128-9/95	
+GT :	spacings	between	sym-	bols	are	much	smaller	than	spacings	between	words	within	the	same	printed	document.	Similarly,	spacings	1119	null            	
+
+OCR:	null            	$4.00	@   	null	1995	IEEE	Proceedings	of	the	Third	International	Conference	on	Document	Analysis	and	Recognition	(ICDAR	'95)	0-8186-7128-9/95	
+GT :	O-8186-7128-9/95	$4.00	null	0   	1995	IEEE	Proceedings	of	the	Third	International	Conference	on	Document	Analysis	and	Recognition	(ICDAR	'95)	0-8186-7128-9/95	
+
+OCR:	$10.00	@   	null	1995	IEEE	Ihsin	T.  	Phillips	Dept.	of  	Computer	Science	Seattle	University	Seattle,	WA  	98122	between	textlines	are	
+GT :	$10.00	null	©   	1995	IEEE	null 	null	null    	null 	null	null    	null   	null   	null      	null    	null	null 	between	textlines	are	
+
+OCR:	smaller	than	spacings	between	text-blocks	and/or	text-columns.	This	tendency	has	been	used	as	prior	knowledge	in	most	OCR	and	doc-	
+GT :	smaller	than	spacings	between	text-blocks	and/or	text-columns.	This	tendency	has	been	used	as	prior	knowledge	in	most	OCR	and	doc-	
+
+OCR:	ument	image	analysis	algorithms.	This	paper	describes	a	technique	for	extracting	words,	textlines	and	text	blocks	by	analyzing	the	spa-	
+GT :	ument	image	analysis	algorithms.	This	paper	describes	a	technique	for	extracting	words,	textlines	and	text	blocks	by	analyzing	the	spa-	
+
+OCR:	ial 	null	configuration	of	the	bounding	boxes	of	symbols	in	null	given	document	page.	In	particular,	the	'bounding	boxes'	null     	
+GT :	null	tial	configuration	of	the	bounding	boxes	of	symbols	in	a   	given	document	page.	In	particular,	the	null     	null  	‘bounding	
+
+OCR:	null  	of	the	connected-components	of	black	pixels	are	used	as	the	basis	of	such	extractions.	The	remainder	of	this	paper	
+GT :	boxes’	of	the	connected-components	of	black	pixels	are	used	as	the	basis	of	such	extractions.	The	remainder	of	this	null 	
+
+OCR:	null  	is	organized	as	follows:	In	Section	2,	we	describe	the	decomposition	algorithm	in	a	step-by-step	manner.	Section	3	discusses	
+GT :	Ipaper	is	organized	as	follows:	In	Section	2,	we	describe	the	decomposition	algorithm	in	a	step-by-step	manner.	Section	3	discusses	
+
+OCR:	experi-	ments	on	the	UW	English	Document	Image	Database	I.	The	concluding	remarks	are	given	in	Section	4.	2	Text	
+GT :	experi-	ments	on	the	UW	English	Document	Image	Database	I.	The	concluding	remarks	are	given	in	Section	4.	2	Text	
+
+OCR:	Zone	Delineation	Now	we	describe	the	page	decomposition	algorithm	in	a	step-by-step	manner.	We	assume	that	the	input	document	image	
+GT :	Zone	Delineation	Now	we	describe	the	page	decomposition	algorithm	in	a	step-by-step	manner.	We	assume	that	the	input	document	image	
+
+OCR:	has	been	correctly	deskewed.	2.1	Bounding	Boxes	of	Connected	Com-	ponents	null       	Let	I	denote	the	input	binary	image.	A	
+GT :	has	been	correctly	deskewed.	2.1	Bounding	Boxes	of	Connected	null	null   	Com-ponents	Let	I	denote	the	input	binary	image.	A	
+
+OCR:	connected	component	analysis	algorithm	[2]	is	applied	to	the	fore-	ground	region	of	I	to	produce	the	set	of	connected	
+GT :	connected	component	analysis	algorithm	[2]	is	applied	to	the	fore-	ground	region	of	I	to	produce	the	set	of	connected	
+
+OCR:	components.	Then,	for	each	connected	component,	its	associated	bounding	box	-	the	smallest	rectangu	null     	lar	box	which	circumscribes	the	
+GT :	components.	Then,	for	each	connected	component,	its	associated	bounding	box	-	the	smallest	null    	rectangu-	lar	box	which	circumscribes	the	
+
+OCR:	component	null      	-	is	calcu-	lated.	A	bounding	box	can	be	represented	by	giving	the	coordinates	of	the	upper	left	
+GT :	null     	component,	-	is	calcu-	lated.	A	bounding	box	can	be	represented	by	giving	the	coordinates	of	the	upper	left	
+
+OCR:	and	the	lower	right	corners	of	the	box 	null	Figure	1(a)	null	shows	a	segment	of	an	English	docu-	ment	
+GT :	and	the	lower	right	corners	of	the	null	box.	Figure	null	l(a)	shows	a	segment	of	an	English	docu-	ment	
+
+OCR:	image	(taken	from	the	UW	English	Document	Image	Database	I,	page	id	"LO06SYN.TIF")	null          	and	Fig-	ure	1(b)	null	shows	
+GT :	image	(taken	from	the	UW	English	Document	Image	Database	I,	page	id	null          	“L006SYN.TIF”)	and	Fig-	ure	null	l(b)	shows	
+
+OCR:	the	bounding	boxes	produced	in	this	step.	Note	that,	the	number	of	bounding	boxes	are	
+GT :	the	bounding	boxes	produced	in	this	step.	Note	that,	the	number	of	bounding	boxes	are	
+
