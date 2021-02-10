@@ -5,7 +5,7 @@ text_comparison - Text alignments (OCR text vs Ground truth).
 results - Individual file results. 
   
 ### Current Metrics  
-This section reflects the current metrics of our AI model and are being continuously updated as we make progress
+This section reflects the current metrics of our AI model and are being continuously updated as we make progress.  
 Average text accuracy = 91.74%  
 Average F1 score = 0.87  
 Average table text accuracy=  90.84%  
