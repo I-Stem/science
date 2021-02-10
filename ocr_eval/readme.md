@@ -1,4 +1,4 @@
-## OCR EVALUATION  
+## EVALUATION  
 ocr_eval_metrics.ipynb -  Combines individual file results and calculates overall metrics for the dataset.  
 html - Contains the html output files.   
 text_comparison - Text alignments (OCR text vs Ground truth).  
