@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 from .ocr import image_to_text
 from .recreation import ImageRecreation
 from .layout_inference import LayoutInference
+from .layout_Secondary import LayoutInference_Secondary
 from .error_handler import LayoutExtractionError
 from typing import Dict, List, Any, Union
 from .formating import json_formating
@@ -71,8 +72,9 @@ class LayoutOcr:
                 ocr_result = ocr_result["analyzeResult"]["readResults"]
             except :
                 print("LayoutOCR : Text extraction failing , using fallback ocr")
-                return fallback_ocr (self.image_path ,self.input_type )
-                
+                result[0] = fallback_ocr (self.image_path ,self.input_type )
+                return result
+
             if self.input_type == "image":
                 print("LayoutOCR: getting image for further processing")
                 img = cv2.imdecode(np.frombuffer(self.image_path, np.uint8), -1)
@@ -120,10 +122,10 @@ class LayoutOcr:
             3. json_formating - encode data into more meaningful way
         """
         try:
-            bounding_box = LayoutInference(self.image_path).predict
+            bounding_box = LayoutInference(self.image_path ,ocr_text= ocr_text ).predict
             bounding_box=layout_fixer(bounding_box)
             recreation = ImageRecreation(
-                ocr_text=ocr_text, bounding_box=bounding_box, img_file=self.image_path
+            ocr_text=ocr_text, bounding_box=bounding_box, img_file=self.image_path, is_secondary = False
             )
             json_data = recreation.extract
             doc_object = json_formating(self.image_path, json_data)
@@ -131,6 +133,25 @@ class LayoutOcr:
             doc_object = line_break_fixer ( doc_object )
             doc_object = list_handling ( doc_object )
             return doc_object
+        except LayoutExtractionError :
+            try:
+                bounding_box = LayoutInference_Secondary(self.image_path ,ocr_text= ocr_text ).predict
+                bounding_box=layout_fixer(bounding_box)     
+                recreation = ImageRecreation(
+                ocr_text=ocr_text, bounding_box=bounding_box, img_file=self.image_path, is_secondary = True
+                )
+                json_data = recreation.extract
+                if type(json_data) == type([]) : #if list then it's the output from fallback ocr so it can be directly returned
+                    return json_data
+                doc_object = json_formating(self.image_path, json_data)
+                doc_object = post_processing ( doc_object )
+                doc_object = line_break_fixer ( doc_object )
+                doc_object = list_handling ( doc_object )
+                return doc_object
+            except Exception as ex2:
+                print("LayoutOCR: error detected in get_result with secondary layout inference model",ex2)
+                return fallback_ocr(self.image_path , "image")
+            
         except Exception as ex:
             print("LayoutOCR: error detected in get_result ",ex)
             return fallback_ocr(self.image_path , "image")
