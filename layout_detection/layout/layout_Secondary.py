@@ -31,16 +31,15 @@ class LayoutInference_Secondary:
         print("USING the secondary layout detector")
         image_array = cv2.imdecode(np.frombuffer(self.image_path, np.uint8), -1)
         model = lp.Detectron2LayoutModel(
-        config_path = "./layout/config_Secondary.yaml" , # In model catalog
-        label_map = {1:"text", 2:"figure", 3:"table", 4:"MathsRegion", 5:"SeparatorRegion", 6:"OtherRegion"}, 
-        extra_config=["MODEL.ROI_HEADS.SCORE_THRESH_TEST", 0.7] ,# Optional
+        config_path = os.getenv("SECONDARY_LAYOUT_ENDPOINT"), #The endpoint of the secondary layout config model
+        label_map = {1:"text", 2:"figure", 3:"table", 4:"MathsRegion", 5:"SeparatorRegion", 6:"OtherRegion"}
         )
         page_height, page_width, page_channel = image_array.shape
         predictions=model.detect(image_array)
         bbox = []
 
         for prediction_ele in predictions:
-            if prediction_ele.score  < 0.7:
+            if prediction_ele.score  < os.getenv("SECONDARY_THRESHHOLD"):
                 continue
             box = list( prediction_ele.coordinates )
             _ = [box[0]/page_width, box[1]/page_height, box[2]/page_width, box[3]/page_height]
