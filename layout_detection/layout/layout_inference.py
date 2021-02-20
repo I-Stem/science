@@ -22,6 +22,7 @@ class LayoutInference:
     """
 
     image_path: str = attr.ib()
+    ocr_text: dict = attr.ib()
     url: None = attr.ib(repr=False, init=False)
 
     def __attrs_post_init__(self):
