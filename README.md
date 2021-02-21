@@ -12,15 +12,15 @@ This is the repo for I-Stem's science logic for our document and audio/video acc
 * [Audio/video accessibility](#av-accessibility)
 * [API specification](#api-spec)
 
-# Introduction
+# [Introduction](#introduction)
 
 A significant number of documents and media produced or shared online is inaccessible to people with disabilities. Often this content is scanned as images making it inaccessible, contains visual content or is not captioned, thereby excluding people who are blind or visually impaired, deaf or hard of hearing or those with some learning disabilities such as dyslexia. Through I-Stem's portal, our vision is to convert this inaccessible content into accessible formats. This repo has the science/algorithmic logic for our various workflows.
 
-#Getting started
+# [Getting started](#getting-started)
 
 The code in this repo has been written in Python 3 exposed as Flask APIs which is in turn called by our I-Stem web app. To get started, we recommend creating a new virtual environment and then running pip install -r requirements.txt. 
 
-#Project structure
+# [Project structure](#project-structure)
 
 The repo has been divided into a few directories.
 
@@ -31,9 +31,9 @@ The repo has been divided into a few directories.
     * layout_formatting: Once we have the json output from layout, this directory contains logic to take it and generate the requested file format (docx, HTML, txt and MP3). This decomposition is deliberate to avoid multiple OCR/analysis calls when just trying to generate same file in multiple formats.
     * video_captioning: This directory contains our captioning and text extraction logic including training custom language models to handle domain-specific captioning.
 
-# Document accessibility
+# [Document accessibility](#document-accessibility)
 
-## Layout analysis and recognition
+## [Layout analysis and recognition](#layout-analysis)
 
 This section describes the overall layout analysis/recognition flow. For specific details, please refer to individual files. All files referred here are in the "layout" directory.
 
@@ -43,7 +43,7 @@ This section describes the overall layout analysis/recognition flow. For specifi
 * recreation.py: This takes in the output from the layout detection model described above, and then recreates the file using individual components. This also checks if the page is one column or two columns, thereby ensuring the correct reading order.
 * Other files are responsible for handling specific types of layout elements such as tables (table_extraction.py), lists (list_handling.py) math (math_ocr.py).
 
-## Formatting
+## [Formatting](#layout-formatting)
 
 This contains logic to take the json containing the text and the metadata obtained from text extraction and analysis, and converting that into specific file formats.
 
@@ -53,7 +53,7 @@ This contains logic to take the json containing the text and the metadata obtain
 * tts_parser.py: For MP3 generation by leveraging text-to-speech.
 * utils.py: To handle reusable code (currently specifically around lists) during the conversion process.
 
-# Audio/video accessibility
+# [Audio/video accessibility](#av-accessibility)
 
 this section describes the A/V accessibility flow.
 
@@ -62,7 +62,7 @@ this section describes the A/V accessibility flow.
 * The text extraction process extracts keyframes, detects text and uses OCR to extract the text.
 * For specific details, refer to the file.
 
-# API specification
+# [API specification](#api-spec)
 
 ## Document analysis and recognition
 
