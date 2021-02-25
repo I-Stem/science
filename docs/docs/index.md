@@ -38,7 +38,7 @@ tracking requests and bugs, please see for general questions and discussion, and
 
 You can open a new issue based on code from an existing pull request. For more information, see [the template for filling issues on repo](https://github.com/I-Stem/science).
 
-## [Code of Conduct](contributing/code_of_conduct).
+## [Code of Conduct](https://i-stem.github.io/contributing/code_of_conduct)
 
 The code of conduct is derived from the [Contributor Covenant](https://www.contributor-covenant.org). Any violations of the code of conduct may be reported to [I-Stem](mailto:info@inclusivestem.org).
 
