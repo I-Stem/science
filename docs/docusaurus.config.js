@@ -17,7 +17,7 @@ navbar: {
 title: "Accommodation Services Documentation",
 items : [{
 label: "API docs",
-to: "api/index"
+to: "index"
 }
 ]
 },

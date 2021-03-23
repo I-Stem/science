@@ -16,6 +16,8 @@ This is the repo for I-Stem's science logic for our document and audio/video acc
 
 A significant number of documents and media produced or shared online is inaccessible to people with disabilities. Often this content is scanned as images making it inaccessible, contains visual content or is not captioned, thereby excluding people who are blind or visually impaired, deaf or hard of hearing or those with some learning disabilities such as dyslexia. Through I-Stem's portal, our vision is to convert this inaccessible content into accessible formats. This repo has the science/algorithmic logic for our various workflows.
 
+   To know more about who we are and what we aim to develop, go [here](https://i-stem.github.io).
+
 # Getting started
 
 The code in this repo has been written in Python 3 exposed as Flask APIs which is in turn called by our I-Stem web app. To get started, we recommend creating a new virtual environment and then running pip install -r requirements.txt. 
@@ -64,4 +66,4 @@ this section describes the A/V accessibility flow.
 
 # API specification
 
-Please have a look [here](https://i-stem.github.io/science/api/index).
+Please have a look [here](https://i-stem.github.io/science).

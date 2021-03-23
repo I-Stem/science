@@ -1,47 +1,44 @@
 ---
-title: Welcome to Accommodation Services science repo API documentation
+id: index
+title: API Documentation
 slug: /
 ---
 
 
+# API specification
 
-# [I-Stem Accommodation Services Science](https://github.com/I-Stem/science)
+For a basic understanding of the following API, go to repo home page [here](https://github.com/I-Stem/science).
 
-The official documentation site
+## APIs for Document Accessibility
 
+### Document analysis and recognition
 
+-   **Endpoint: /api/v1/ocr
+-   ** Input: doc_type (MATH or NONMATH; default is NONMATH), hash (used to avoid processing if a file has already been processed) and the file uploaded by the user
+-   **Output: If successful, the API returns immediately with message and status. Once the processing is completed, a callback is sent which contains the actual json containing the document.
 
-Pull requests welcome!
+### Formatting
 
-## Want to Help with Documentation?
+-   **Endpoint: /api/v1/ocr/format
+-   ** Input: json (json obtained from the first step), format (desired file format; valid options include "DOCX", "HTML", "TXT", "PDF" and "MP3") hash (used to avoid processing if a file has already been processed) documentName (used for rendering in the app and storing), 
+-   **Output: status, message, url (generated file URL)
 
-See the [Docs Writing Guide](https://i-stem.github.io/contributing/writing_guide) for our rules and recommendations on writing and maintaining documentation.
+## APIs for Video Accessibility
 
-## Want to Contribute to Code?
+### Uploading video
 
-Help improve our software! We welcome contributions from everyone, whether to add new features, improve speed, fix existing bugs or add support.
+-   **Endpoint: /api/v1/vc
+-   ** Input: name (name of the video file), url (URL of the video), hash (used to avoid processing if a file has already been processed), languageModelId (optional language model ID)
+-   **Output: If upload is successful, the API returns immediately with error (false in case of success, true otherwise), message and videoId. Once the processing is complete, the callback URL is called.
 
-Any code contributions are welcomed as long as they are discussed in [Github Issues](https://github.com/I-Stem/science/issues) with maintainers. Be aware that if you decide to change something and submit a PR on your own, it may not be accepted.
+### Video Callback
 
-### Contribution guidelines
+-   **Endpoint: /api/v1/vc/callback
+-   ** Input: documentName (name of the video document), id (video ID obtained from the upload API), hash (used to avoid processing if a file has already been processed), type (request type; valid options include "CAPTION" for captions only, "OCR" for text extraction only and "OCR_CAPTION" for both text extraction and captions), outputFormat (output format for captions; valid values include "txt" and "srt")
+-   **Output: url, hash, duration in case of a success, error and message in case of failure
 
-**If you want to contribute to I-Stem projects, be sure to review the
-[contribution guidelines](https://i-stem.github.io/contributing/index). This project adheres to Contributor Covenant's
-[code of conduct](https://i-stem.github.io/contributing/code_of_conduct). By participating, you are expected to
-uphold this code.**
+### Training custom language model
 
-**We use [GitHub issues](https://github.com/I-Stem/science/issues) for
-tracking requests and bugs, please see for general questions and discussion, and please direct specific questions to the team of
-[I-Stem](mailto:info@inclusivestem.org).**
-
-### Creating an issue
-
-You can open a new issue based on code from an existing pull request. For more information, see [the template for filling issues on repo](https://github.com/I-Stem/science).
-
-## [Code of Conduct](https://i-stem.github.io/contributing/code_of_conduct)
-
-The code of conduct is derived from the [Contributor Covenant](https://www.contributor-covenant.org). Any violations of the code of conduct may be reported to [I-Stem](mailto:info@inclusivestem.org).
-
-## License
-
-open-source software licensed under [The Cryptographic Autonomy License, v. 1.0](https://github.com/I-Stem/science/blob/main/license.md).
+-   **Endpoint: /api/v1/customspeech
+-   ** Input: name (name of the model), fileName (name of the file being used for training), fileUrl (URL of the file being used for training), 
+-   **Output: error, message, languageModelId (if successful)

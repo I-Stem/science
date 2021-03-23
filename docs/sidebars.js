@@ -3,7 +3,7 @@ module.exports = {
 type: 'category',
 label: 'ApiDocs',
 items:[
-"api/index"
+"index"
 ]
   },
 ]
