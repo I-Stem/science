@@ -4,7 +4,7 @@ ocr_eval_metrics.ipynb -  Combines individual file results and calculates overal
 html - Contains the html output files.   
 text_comparison - Text alignments (OCR text vs Ground truth).  
 results - Individual file results. 
-### Current Metrics ( As of 30, April 2021)
+### Current Metrics ( As of 30 April 2021)
 This section reflects the current metrics of our AI model and are being continuously updated as we make progress.  
 Average text accuracy = 92.34%  
 Average F1 score = 0.885  
