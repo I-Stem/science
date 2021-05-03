@@ -29,4 +29,4 @@ An ensemble of open source, proprietary and custom created datasets were used to
 * Performance on clear audio files was better than on noisy data even after our denoising attempts.
 * The error rate was high because of the difference in representation of numbers (cardinal form vs number form).
 * Punctuation marks were also very hard to predict.
-* Using custom speech models improved the accuracy by an average of 2.8%, although the limited No. of samples (with each sample consisting of audio, ground truth and related textual material) did not allow us to do as thorough of an evaluation we would have liked to. We continue to find and create more relevant dataset to evaluate this more comprehensively.
+* Using custom speech models improved the accuracy by an average of 2.8%, although the limited number of samples (with each sample consisting of audio, ground truth and related textual material) did not allow us to do as thorough of an evaluation we would have liked to. We continue to find and create more relevant dataset to evaluate this more comprehensively.
