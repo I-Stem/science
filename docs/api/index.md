@@ -1,9 +1,3 @@
----
-id: index
-title: API Documentation
-slug: /
----
-
 
 # API specification
 
