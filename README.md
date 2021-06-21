@@ -1,3 +1,7 @@
+# Badges
+
+- [![Documentation Status](https://readthedocs.org/projects/science/badge/?version=latest)](https://science.readthedocs.io/en/latest/?badge=latest)
+
 # science
 
 This is the repo for I-Stem's science logic for our document and audio/video accessibility services.
