@@ -4,12 +4,12 @@ ocr_eval_metrics.ipynb -  Combines individual file results and calculates overal
 html - Contains the html output files.   
 text_comparison - Text alignments (OCR text vs Ground truth).  
 results - Individual file results. 
-### Current Metrics ( As of 30 April 2021)
+### Current Metrics ( As of 28 Jun 2021)
 This section reflects the current metrics of our AI model and are being continuously updated as we make progress.  
-Average text accuracy = 92.34%  
+Average text accuracy = 96.2%  
 Average F1 score = 0.885  
-Average table text accuracy=  91.01%  
-Total files used =  68  
+Average table text accuracy=  91.29%  
+Total files used =  64  
 Ground truths can be found at - https://github.com/I-Stem/ocr_dataset  
 ### Datasets  
 * https://github.com/ibm-aur-nlp/PubLayNet
