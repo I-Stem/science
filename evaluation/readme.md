@@ -7,8 +7,8 @@ results - Individual file results.
 ### Current Metrics ( As of 28 Jun 2021)
 This section reflects the current metrics of our AI model and are being continuously updated as we make progress.  
 Average text accuracy = 96.2%  
-Average F1 score = 0.885  
-Average table text accuracy=  91.29%  
+Average table text accuracy = 91.29%  
+Overall accuracy( including layout ) ≈ 92%  
 Total files used =  64  
 Ground truths can be found at - https://github.com/I-Stem/ocr_dataset  
 ### Datasets  
