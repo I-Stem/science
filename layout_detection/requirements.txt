@@ -51,3 +51,11 @@ zipp==3.1.0
 scipy==1.4.1
 google-auth-oauthlib==0.4.1
 google-cloud-vision==1.0.0
+uuid==1.30
+azure-ai-textanalytics==5.1.0b7
+azure-core==1.15.0
+dnspython==1.16.0
+gensim==4.0.1
+joblib==0.17.0
+scikit-learn==0.24.2
+xlrd==2.0.1
