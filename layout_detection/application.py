@@ -19,8 +19,8 @@ from io import BytesIO
 mapper = {"DOCX": "docx", "HTML" : "html", "TXT" : "txt", "PDF" : "pdf", "MP3" :"mp3" }
 funct_mapper = {"DOCX":docx_formating, "HTML":html_formating, "TXT":text_formating, "PDF": pdf_formating, "MP3": audio_formating}
 
-
-
+mentorship_client = pymongo.MongoClient(os.environ.get('MENTORSHIP_DB_STRING'))
+mentorship_db =  mentorship_client['lipdev']['mentorships']
 
 executor = ThreadPoolExecutor(max_workers=20)
 app = Flask("layout_detection")
@@ -114,6 +114,55 @@ def vc_callback():
     print(params)
     return video_callback(params.get('id'), params.get('type'), params.get('hash'), params.get('documentName'), params.get('outputFormat'))
 
+
+@app.route('/api/v1/mentorship', methods=['POST'])
+def mentorship_matching():
+    params = request.get_json()
+    try:
+        mentee_id = params['request_id']
+        cursor = mentorship_db.find()
+        database = list(cursor)
+        mentee_obj_id = ObjectId(mentee_id)
+        mentor_dic = {} # extract latest mentor data
+        # date in yyyy/mm/dd format
+        threshold_date = datetime(2021, 6, 30)
+        for entry in database :
+            if entry['_id'] == mentee_obj_id:
+                mentee_instance = entry
+            if (entry['signupAs'] == 'MENTOR') or (entry['signupAs'] == 'BOTH'): # last entry updated
+                if entry['updatedAt'] > threshold_date:
+                    mentor_dic[str(entry['userId'])] = entry
+                    if entry['mentorshipStatus'][-1]['status'] == "paused":
+                        mentor_dic.pop(str(entry['userId']), None)
+        mentor_dic.pop(str(mentee_instance['userId']), None)
+        mentor_request_id_dataframe = pd.DataFrame.from_records(list(mentor_dic.values())).loc[:, ['_id']]
+        for mentor_index in range(mentor_request_id_dataframe.shape[0]):
+            mentor_request_id_dataframe.loc[mentor_index, '_id'] = str(mentor_request_id_dataframe.loc[mentor_index, '_id'])
+        objective_score_list = objective_score( mentee_instance, list(mentor_dic.values()))
+        objective_score_dataframe = pd.DataFrame(objective_score_list, columns=['objective_score', 'objective_reason_for_matching'])
+
+        mentee_skills_type = mentee_skills_type_map[mentee_instance['kindOfSkillsMentee']]
+
+        mentee_dataset_skill_question, mentee_dataset_preference_question, mentee_dataset_miscellaneous_question = generate_mentee_datasets_for_free_form_matching(mentee_instance)
+        mentor_dataset_skill_question, mentor_dataset_preference_question, mentor_dataset_miscellaneous_question = generate_mentor_datasets_for_free_form_matching(mentor_dic, mentee_instance)
+        doc2vec_model = get_doc2vec_model()
+        combined_free_form_match_score_record = get_combined_free_form_match_score_record(doc2vec_model, mentor_dataset_skill_question, mentee_dataset_skill_question, mentee_skills_type, mentor_dataset_preference_question, mentee_dataset_preference_question, mentor_dataset_miscellaneous_question, mentee_dataset_miscellaneous_question)
+
+        mentorship_recommendation_engine_final_match_record = get_mentorship_recommendation_engine_final_match_record(combined_free_form_match_score_record, objective_score_dataframe, mentor_request_id_dataframe)
+        top_matches = get_top_matches_mentorship(mentorship_recommendation_engine_final_match_record)
+
+        return_data = dict(matches = top_matches, code = 200)
+        return json.dumps(return_data)
+    except Exception as ex:
+        print("Mentorship_Matching : FAILED ", ex)
+        return_data = {}
+        return_data["error"] = [
+            dict(idx="error", content=dict(error="Mentorship matching is failing"))
+        ]
+        top_matches = []
+        return_data["matches"] = top_matches
+        return_data["code"] = 500
+        return json.dumps(return_data)
 
 if __name__ == "__main__":
     print('here')
