@@ -1,0 +1,71 @@
+{
+    "Muscular dystrophy": {
+        "Muscular dystrophy": "1",
+        "Locomotor including Orthopedic Disability": ".7",
+        "Cerebral Palsy": ".5"
+    },
+    "Acid Attack victims": {
+        "Acid Attack victims": "1"
+    },
+    "Locomotor including Orthopedic Disability": {
+        "Locomotor including Orthopedic Disability": "1",
+        "Muscular dystrophy": ".5",
+        "Cerebral Palsy": ".5"
+    },
+    "Blindness": {
+        "Blindness": "1",
+        "Low Vision": ".75"
+    },
+    "Intellectual Disability/Slow Learners": {
+        "Intellectual Disability/Slow Learners": "1",
+        "Specific learning disabilities": ".9",
+        "Mental Illness": ".6",
+        "Autism spectrum disorder": ".5"
+    },
+    "Leprosy Cured": {
+        "Leprosy Cured": "1"
+    },
+    "Mental Illness": {
+        "Mental Illness": "1",
+        "Autism spectrum disorder": ".7",
+        "Specific learning disabilities": ".7",
+        "Intellectual Disability/Slow Learners": ".7",
+        "Speech and language disability": ".7"
+    },
+    "Speech and language disability": {
+        "Speech and language disability": "1",
+        "Mental Illness": ".5"
+    },
+    "Hearing Impaired: hard of hearing": {
+        "Hearing Impaired: hard of hearing": "1",
+        "Hearing impaired: deaf": ".75"
+    },
+    "Autism spectrum disorder": {
+        "Autism spectrum disorder": "1",
+        "Mental Illness": ".6",
+        "Specific learning disabilities": ".5",
+        "Speech and language disability": ".4"
+    },
+    "Hearing impaired: deaf": {
+        "Hearing impaired: deaf": "1",
+        "Hearing Impaired: hard of hearing": ".75"
+    },
+    "Specific learning disabilities": {
+        "Specific learning disabilities": "1",
+        "Intellectual Disability/Slow Learners": ".8",
+        "Mental Illness": ".6",
+        "Autism spectrum disorder": ".5"
+    },
+    "Cerebral Palsy": {
+        "Cerebral Palsy": "1",
+        "Locomotor including Orthopedic Disability": ".6",
+        "Muscular dystrophy": ".5"
+    },
+    "Dwarfism": {
+        "Dwarfism": "1"
+    },
+    "Low Vision": {
+        "Low Vision": "1",
+        "Blindness": ".75"
+    }
+}
