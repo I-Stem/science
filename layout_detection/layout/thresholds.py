@@ -20,3 +20,7 @@ max_width_para = .65
 neighbour_height_threshold = .05
 # similar for multi col
 neighbour_height_threshold_multi = .03
+# minimum number of meaningful words , that will remove an image_box prediction
+text_inside_image = 5
+# minimum number of text element detections, that are needed to prevent Fallback error
+min_text_detections = 2

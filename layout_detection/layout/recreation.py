@@ -12,11 +12,13 @@ import numpy as np
 from typing import Dict
 from .utils import overlap
 from .utils import get_relative_position
-from .error_handler import ImageRecreationError
+from .error_handler import ImageRecreationError, LayoutExtractionError
 from .utils import get_line_box, image_formating
 from .table_extraction import get_table_csv_results
 from .utils import repeating_fixer, remove_duplication, iou
 from copy import deepcopy
+from .thresholds import min_text_detections
+from .fallback_ocr import fallback_ocr
 
 
 @attr.s
@@ -41,6 +43,7 @@ class ImageRecreation:
     bounding_box: Dict = attr.ib()
     img_file: str = attr.ib()
     page_type: str = attr.ib(default=None)
+    is_secondary: str = attr.ib()
     title_area: list = attr.ib(repr=False, init=False)
     text_area: list = attr.ib(repr=False, init=False)
 
@@ -71,6 +74,31 @@ class ImageRecreation:
                 img_data = remove_duplication(table_data, img_data)
 
             self.page_type = self._get_page_type(updated_bbox, wid)
+
+
+            if not ( self.page_type == "two-column" or len(table_data) ) :# check for fallback if no table or single col
+                count = 0
+                fallback_flag = False
+                for ele in boxes :
+                    if ele['label'] == '/text' or ele['label'] == 'list' or ele['label'] == 'title' :
+                        count += 1
+                    if ele['label'] == 'fallback' :
+                        fallback_flag = True
+                if count < min_text_detections or fallback_flag :# if less text areas detected or image area found
+                    if self.is_secondary :
+                        print( "Recreation: No text regions detected secondary model failing")
+                        print("Going to fallback ocr")
+                        return fallback_ocr(self.img_file , "image")
+                    else :
+                        print( "Recreation: No text regions detected, Going to BACKUP OCR")
+                        raise LayoutExtractionError
+                
+            for ele in boxes : # if fallback was not raised , converting image areas to text
+               if ele['label'] == 'fallback' :
+                   ele['label'] == 'text'
+                   self.text_area.append(ele) 
+            self.text_area = sorted(self.text_area, key=lambda i: i["bbox"][1])
+
             if self.page_type == "two-column":
                 print("Recreation: Processing page with two columns")
                 text = self.get_two_columns_text(temp, img_data, table_data, wid, hei)
@@ -80,7 +108,7 @@ class ImageRecreation:
                 )
 
         except Exception as ex:
-            raise ImageRecreationError
+            raise LayoutExtractionError
         text["ocr_result"] = full_text
         return text
 
