@@ -50,6 +50,15 @@ This section describes the overall layout analysis/recognition flow. For specifi
 * recreation.py: This takes in the output from the layout detection model described above, and then recreates the file using individual components. This also checks if the page is one column or two columns, thereby ensuring the correct reading order.
 * Other files are responsible for handling specific types of layout elements such as tables (table_extraction.py), lists (list_handling.py) math (math_ocr.py).
 
+## Model architecture
+
+![The architecture of Faster R-CNN]((../master/model architecture/The-architecture-of-Faster-R-CNN.png)  
+Credits : Multi-scale object detection in remote sensing imagery with convolutional neural networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-Faster-R-CNN_fig2_324903264 [accessed 13 Feb, 2022]
+
+
+![The overall network architecture of Mask R-CNN]((../master/model architecture/The-overall-network-architecture-of-Mask-R-CNN.png)  
+Credits : An automatic nuclei segmentation method based on deep convolutional neural networks for histopathology images - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-overall-network-architecture-of-Mask-R-CNN_fig1_336615317 [accessed 13 Feb, 2022]
+
 ## Formatting
 
 This contains logic to take the json containing the text and the metadata obtained from text extraction and analysis, and converting that into specific file formats.
