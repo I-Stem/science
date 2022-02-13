@@ -53,11 +53,11 @@ This section describes the overall layout analysis/recognition flow. For specifi
 ## Model architecture
 
 ![The architecture of Faster R-CNN]((../master/model architecture/The-architecture-of-Faster-R-CNN.png)  
-Credits : Multi-scale object detection in remote sensing imagery with convolutional neural networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-Faster-R-CNN_fig2_324903264 [accessed 13 Feb, 2022]
+Credits : Multi-scale object detection in remote sensing imagery with convolutional neural networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-Faster-R-CNN_fig2_324903264
 
 
 ![The overall network architecture of Mask R-CNN]((../master/model architecture/The-overall-network-architecture-of-Mask-R-CNN.png)  
-Credits : An automatic nuclei segmentation method based on deep convolutional neural networks for histopathology images - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-overall-network-architecture-of-Mask-R-CNN_fig1_336615317 [accessed 13 Feb, 2022]
+Credits : An automatic nuclei segmentation method based on deep convolutional neural networks for histopathology images - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-overall-network-architecture-of-Mask-R-CNN_fig1_336615317
 
 ## Formatting
 
