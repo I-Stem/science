@@ -52,10 +52,13 @@ This section describes the overall layout analysis/recognition flow. For specifi
 
 ## Model architecture
 
+
+Mask R-CNN is a state of the art model for instance segmentation, developed on top of Faster R-CNN. Faster R-CNN is a region-based convolutional neural networks, that returns bounding boxes for each object and its class label with a confidence score. 
 ### The architecture of Faster R-CNN
 ![The architecture of Faster R-CNN](https://www.researchgate.net/profile/Zhipeng-Deng-2/publication/324903264/figure/fig2/AS:640145124499471@1529633899620/The-architecture-of-Faster-R-CNN.png)  
 Credits : Multi-scale object detection in remote sensing imagery with convolutional neural networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-Faster-R-CNN_fig2_324903264
 
+Faster R-CNN predicts object class and bounding boxes. Mask R-CNN is an extension of Faster R-CNN with additional branch for predicting segmentation masks on each Region of Interest (RoI) 
 #### The overall network architecture of Mask R-CNN
 ![The overall network architecture of Mask R-CNN](https://www.researchgate.net/publication/336615317/figure/fig1/AS:815040580042752@1571332225271/The-overall-network-architecture-of-Mask-R-CNN.png)  
 Credits : An automatic nuclei segmentation method based on deep convolutional neural networks for histopathology images - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-overall-network-architecture-of-Mask-R-CNN_fig1_336615317
