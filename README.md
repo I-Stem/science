@@ -11,8 +11,12 @@ This is the repo for I-Stem's science logic for our document and audio/video acc
 * [Getting started](#getting-started)
 * [Project structure](#project-structure)
 * [Document accessibility](#document-accessibility)
-    * [Layout analysis and recognition](#layout-analysis)
-    * [Formatting](#layout-formatting)
+    * [Layout analysis and recognition](#Layout-analysis-and-recognition)
+    * [Model architecture](#Model-architecture)
+    * [Data](#Data)
+    * [Platforms](#Platforms)
+    * [Formatting](#Formatting)
+    * [Evaluation](#Evaluation)
 * [Audio/video accessibility](#av-accessibility)
 * [API specification](#api-spec)
 
@@ -34,7 +38,7 @@ The repo has been divided into a few directories.
 * layout_detection: This is the root directory for all of our work.
     * Config: This contains sample config files for deployment.
     * layout: This contains the logic for our general OCR/text extraction as well as document analysis (e.g. detection of tables, lists, headings, one/two-column layouts etc.) and their appropriate handling. This also contains our recreation script which takes these individual components and puts them all together to create an accessible document. The output from this flow is a json that contains all of the metadata (e.g. formatting information, object type such as table, paragraph etc.).
-    * layout_formatting: Once we have the json output from layout, this directory contains logic to take it and generate the requested file format (docx, HTML, txt and MP3). This decomposition is deliberate to avoid multiple OCR/analysis calls when just trying to generate same file in multiple formats.
+    * layout_formatting: Once we have the json output from layout, this directory contains logic to take it and generate the requested file format (docx, HTML, txt and MP3). This decomposition is deliberate to avoid multiple OCR/analysis calls when just trying to generate the same file in multiple formats.
     * video_captioning: This directory contains our captioning and text extraction logic including training custom language models to handle domain-specific captioning.
 
 # Document accessibility
@@ -52,16 +56,33 @@ This section describes the overall layout analysis/recognition flow. For specifi
 
 ## Model architecture
 
-
-Mask R-CNN is a state of the art model for instance segmentation, developed on top of Faster R-CNN. Faster R-CNN is a region-based convolutional neural networks, that returns bounding boxes for each object and its class label with a confidence score. 
+Mask R-CNN is a state of the art model for instance segmentation, developed on top of Faster R-CNN. Faster R-CNN is a region-based convolutional neural network, that returns bounding boxes for each object and its class label with a confidence score. 
 ### The architecture of Faster R-CNN
 ![The architecture of Faster R-CNN](https://www.researchgate.net/profile/Zhipeng-Deng-2/publication/324903264/figure/fig2/AS:640145124499471@1529633899620/The-architecture-of-Faster-R-CNN.png)  
 Credits : Multi-scale object detection in remote sensing imagery with convolutional neural networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-architecture-of-Faster-R-CNN_fig2_324903264
 
 Faster R-CNN predicts object class and bounding boxes. Mask R-CNN is an extension of Faster R-CNN with additional branch for predicting segmentation masks on each Region of Interest (RoI) 
-#### The overall network architecture of Mask R-CNN
+### The overall network architecture of Mask R-CNN
 ![The overall network architecture of Mask R-CNN](https://www.researchgate.net/publication/336615317/figure/fig1/AS:815040580042752@1571332225271/The-overall-network-architecture-of-Mask-R-CNN.png)  
 Credits : An automatic nuclei segmentation method based on deep convolutional neural networks for histopathology images - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-overall-network-architecture-of-Mask-R-CNN_fig1_336615317
+
+## Data
+
+A combination of multiple datasets was used to train and fine-tune the above mentioned models and evaluate their performance, some of them were publically available like - 
+### PubLayNet
+It's a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations. Refer to this link ([link](https://github.com/ibm-aur-nlp/PubLayNet)) to read more about the dataset and accessing it.
+### PRImA Layout Analysis Dataset
+This dataset has been created primarily for the evaluation of layout analysis (physical and logical) methods. It contains realistic documents with a wide variety of layouts, reflecting the various challenges in layout analysis.
+Refer to this link ([link](https://www.primaresearch.org/dataset/)) to read more about the dataset and accessing it.
+  
+We even came up with our own dataset for more robust evaluation based on our use cases, this dataset was genrated in a semi-supervised way and can be found at ([link](https://github.com/I-Stem/ocr_dataset/)). Contact info@inclusivestem.org for permission to use this dataset.
+
+## Platforms
+
+Cloud hosting platform, AWS was used for deployment of the code base and the deep learning models. Dedicated Amazon EC2 servers were used to host the apis, they in turn rely on sagemaker servers on which the models were deployed to.  
+Amazon Elastic Compute Cloud (EC2) is a part of Amazon Web Services (AWS), that allows users to rent virtual computers on which to run their own computer applications. Memory optimized server were chosen for this ([EC2r5](https://aws.amazon.com/ec2/instance-types/r5/)).
+
+Amazon SageMaker is a fully-managed service that enables easy build, train, and deployment of machine learning models at any scale. Compute optimized server were chosen for this ([EC2c5](https://www.apptio.com/blog/aws-ec2-c5-instances/)).
 
 ## Formatting
 
@@ -73,9 +94,16 @@ This contains logic to take the json containing the text and the metadata obtain
 * tts_parser.py: For MP3 generation by leveraging text-to-speech.
 * utils.py: To handle reusable code (currently specifically around lists) during the conversion process.
 
+## Evaluation 
+### IOU
+Intersection over Union is an evaluation metric used to measure the accuracy of an object detector on a particular dataset
+In the numerator we compute the area of overlap between the predicted bounding box and the ground-truth bounding box. The denominator is the area of union, or more simply, the area encompassed by both the predicted bounding box and the ground-truth bounding box. Dividing the area of overlap by the area of union yields our final score — the Intersection over Union.
+![Intersection over Union calculation diagram](https://www.researchgate.net/profile/Rafael-Padilla/publication/343194514/figure/fig2/AS:916944999956482@1595628132920/Intersection-Over-Union-IOU.ppm)  
+More information on evaluation and our performance metrics is provided in the evaluation folder.
+
 # Audio/video accessibility
 
-this section describes the A/V accessibility flow.
+This section describes the A/V accessibility flow.
 
 * All of the captioning and text extraction code currently lives in main.py file in the "video_captioning" directory.
 * The captioning process consists of uploading the video, training an optional custom language model using textual content related to the video being captioned (in which case we use the document accessibility flow described above to get the txt output first followed by training a custom language model) and captioning (with or without the custom language model). 
