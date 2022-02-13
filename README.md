@@ -96,7 +96,7 @@ This contains logic to take the json containing the text and the metadata obtain
 ## Evaluation 
 ### IOU
 Intersection over Union is an evaluation metric used to measure the accuracy of an object detector on a particular dataset
-In the numerator we compute the area of overlap between the predicted bounding box and the ground-truth bounding box. The denominator is the area of union, or more simply, the area encompassed by both the predicted bounding box and the ground-truth bounding box. Dividing the area of overlap by the area of union yields our final score — the Intersection over Union.
+In the numerator we compute the area of overlap between the predicted bounding box and the ground-truth bounding box. The denominator is the area of union, or more simply, the area encompassed by both the predicted bounding box and the ground-truth bounding box. Dividing the area of overlap by the area of union yields our final score — the Intersection over Union.  
 ![Intersection over Union calculation diagram](https://www.researchgate.net/profile/Rafael-Padilla/publication/343194514/figure/fig2/AS:916944999956482@1595628132920/Intersection-Over-Union-IOU.ppm)  
 More information on evaluation and our performance metrics is provided in the evaluation folder.
 
