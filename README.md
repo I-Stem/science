@@ -81,7 +81,6 @@ We even came up with our own dataset for more robust evaluation based on our use
 
 Cloud hosting platform, AWS was used for deployment of the code base and the deep learning models. Dedicated Amazon EC2 servers were used to host the apis, they in turn rely on sagemaker servers on which the models were deployed to.  
 Amazon Elastic Compute Cloud (EC2) is a part of Amazon Web Services (AWS), that allows users to rent virtual computers on which to run their own computer applications. Memory optimized server were chosen for this ([EC2r5](https://aws.amazon.com/ec2/instance-types/r5/)).
-
 Amazon SageMaker is a fully-managed service that enables easy build, train, and deployment of machine learning models at any scale. Compute optimized server were chosen for this ([EC2c5](https://www.apptio.com/blog/aws-ec2-c5-instances/)).
 
 ## Formatting
