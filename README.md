@@ -14,6 +14,7 @@ This is the repo for I-Stem's science logic for our document and audio/video acc
     * [Layout analysis and recognition](#Layout-analysis-and-recognition)
     * [Model architecture](#Model-architecture)
     * [Data](#Data)
+    * [Weights and Parameters](#Weights-and-Parameters)
     * [Platforms](#Platforms)
     * [Formatting](#Formatting)
     * [Evaluation](#Evaluation)
@@ -70,12 +71,19 @@ Credits : An automatic nuclei segmentation method based on deep convolutional ne
 
 A combination of multiple datasets was used to train and fine-tune the above mentioned models and evaluate their performance, some of them were publically available like - 
 ### PubLayNet
-It's a large dataset of document images, of which the layout is annotated with both bounding boxes and polygonal segmentations. Refer to this link ([link](https://github.com/ibm-aur-nlp/PubLayNet)) to read more about the dataset and accessing it.
+PubLayNet is a large dataset of document images from PubMed Central Open Access Subset. Each document’s layout is annotated with both bounding boxes and polygonal segmentations. Refer to this link ([link](https://github.com/ibm-aur-nlp/PubLayNet)) to read more about the dataset and accessing it.
 ### PRImA Layout Analysis Dataset
 This dataset has been created primarily for the evaluation of layout analysis (physical and logical) methods. It contains realistic documents with a wide variety of layouts, reflecting the various challenges in layout analysis.
-Refer to this link ([link](https://www.primaresearch.org/dataset/)) to read more about the dataset and accessing it.
-  
-We even came up with our own dataset for more robust evaluation based on our use cases, this dataset was genrated in a semi-supervised way and can be found at ([link](https://github.com/I-Stem/ocr_dataset/)). Contact info@inclusivestem.org for permission to use this dataset.
+Refer to this link ([link](https://www.primaresearch.org/dataset/)) to read more about the dataset and accessing it.  
+
+These two datasets were mostly used for pre-training, in addition to them we came up with our own dataset for fine-tuning the models to our specfic use case. Consisting of thousands of pages, from a variety of input sources covering academic papers, handouts, text books, notes etc.  However, since this dataset contains some images that are not in the public domain, we only have permission to use and share them for research purposes. Please contact us if you would like to access that dataset with appropriate justification by sending us an email to info@inclusivestem.org .
+
+## Weights and Parameters
+
+The model weights and the configuration files for pre-trained Faster-RCNN and Mask-RCNN models on PubLayNet can be downloaded from ([link](https://github.com/ibm-aur-nlp/PubLayNet/tree/master/pre-trained-models/)).
+
+The config file for the prima trained mask rcnn model can be downloaded from ([link](https://www.dropbox.com/s/yc92x97k50abynt/config.yaml?dl=1))
+
 
 ## Platforms
 
@@ -96,9 +104,9 @@ This contains logic to take the json containing the text and the metadata obtain
 ## Evaluation 
 ### IOU
 Intersection over Union is an evaluation metric used to measure the accuracy of an object detector on a particular dataset
-In the numerator we compute the area of overlap between the predicted bounding box and the ground-truth bounding box. The denominator is the area of union, or more simply, the area encompassed by both the predicted bounding box and the ground-truth bounding box. Dividing the area of overlap by the area of union yields our final score — the Intersection over Union.  
+In the numerator we compute the area of overlap between the predicted bounding box and the ground-truth bounding box. The denominator is the area of union, or more simply, the area encompassed by both the predicted bounding box and the ground-truth bounding box. Dividing the area of overlap by the area of union yields our final score — the Intersection over Union.
 ![Intersection over Union calculation diagram](https://www.researchgate.net/profile/Rafael-Padilla/publication/343194514/figure/fig2/AS:916944999956482@1595628132920/Intersection-Over-Union-IOU.ppm)  
-More information on evaluation and our performance metrics is provided in the evaluation folder.
+More information on evaluation and our performance metrics is provided in the evaluation folder and the dataset used for evaluation can be found at ([link](https://github.com/I-Stem/ocr_dataset/))
 
 # Audio/video accessibility
 
