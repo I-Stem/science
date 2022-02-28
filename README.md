@@ -80,10 +80,9 @@ These two datasets were mostly used for pre-training, in addition to them we cam
 
 ## Weights and Parameters
 
-The model weights and the configuration files for pre-trained Faster-RCNN and Mask-RCNN models on PubLayNet can be downloaded from ([link](https://github.com/ibm-aur-nlp/PubLayNet/tree/master/pre-trained-models/)).
+The model weights and the configuration files for pre-trained Faster-RCNN and Mask-RCNN models on PubLayNet can be downloaded from ([link](https://github.com/ibm-aur-nlp/PubLayNet/tree/master/pre-trained-models/)). The final fine-tuned weights have been open-sourced and can be downloaded from ([link](https://s3.us-west-2.amazonaws.com/inclusivestem.org/publaynet_trained/model_196000_instance.pth)).
 
-The config file for the prima trained mask rcnn model can be downloaded from ([link](https://www.dropbox.com/s/yc92x97k50abynt/config.yaml?dl=1))
-
+The config file for the prima trained mask rcnn model can be downloaded from ([link](https://www.dropbox.com/s/yc92x97k50abynt/config.yaml?dl=1))  
 
 ## Platforms
 
